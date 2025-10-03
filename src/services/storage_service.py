@@ -93,6 +93,9 @@ class StorageService:
             # Convert to dictionary for JSON serialization
             data_dict = json_data.to_dict()
 
+            # Add title to main structure
+            data_dict['title'] = json_data.post.title
+
             # Add metadata
             data_dict['_metadata'] = {
                 'schema_version': '1.0.0',
