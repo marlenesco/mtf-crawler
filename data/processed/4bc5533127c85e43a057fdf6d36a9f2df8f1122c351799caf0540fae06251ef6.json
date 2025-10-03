@@ -1,0 +1,66 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/430"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.386005Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:21.990585Z",
+      "file_path": "data/raw/8813ca8a41d7728a3d1a0699e4c85a13463a5e51bdd1d4290c7d54ebcf0c9014_addnorth-petg-rigidx.xlsx",
+      "file_size": 390432,
+      "file_type": ".xlsx",
+      "filename": "addnorth-petg-rigidx.xlsx",
+      "sha256_hash": "8813ca8a41d7728a3d1a0699e4c85a13463a5e51bdd1d4290c7d54ebcf0c9014",
+      "source_post_url": "https://www.mytechfun.com/video/430",
+      "url": "https://www.mytechfun.com/download/430/addnorth-petg-rigidx.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PETG Material",
+      "normalized_values": {
+        "settings": {
+          "original_unit": "kg 30\"",
+          "original_value": 10.0,
+          "unit": "kg 30\"",
+          "value": 10.0
+        }
+      },
+      "original_values": {
+        "settings": 10.0
+      },
+      "properties": {
+        "settings": 10.0
+      },
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "8813ca8a41d7728a3d1a0699e4c85a13463a5e51bdd1d4290c7d54ebcf0c9014"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Rigid X, the stiffest PETG filament I tested so far (vs AddNorth PETG) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Rigid X, the stiffest PETG filament I tested so far (vs AddNorth PETG) Title: Rigid X, the stiffest PETG filament I tested so far (vs AddNorth PETG). Watch on youtube: https://youtu.be/TUKXkWP24ek Tags: 3dprint , addnorth , petg , material test , I tested two PETG filaments from AddNorth: Rigid X and regular PETG. Rigid X stands out as the stiffest PETG filament I've ever worked with, offering properties similar to ABS, including impressive temperature resistance. It's a fantastic alternative for those without an enclosed 3D printer who still want durable, high-performance prints. Links to presented products (not affiliate): Rigid X: https://addnorth.com/product/Rigid%20X/Rigid%20X%20-%201.75mm%20-%20500g%20-%20Charcoal%20Blue PETG: https://addnorth.com/product/PETG/PETG%20-%201.75mm%20-%20750g%20-%20Medium%20Blue Mentioned: 290°C PETG video: https://youtu.be/Ha9TucaizPE Chapters: 0:00 Introduction 0:53 About AddNorth PETG 1:25 About Rigid X 2:40 Unboxing 3:25 3D printing temperature tower 4:20 Slicer, print settings 4:43 Test objects 5:17 Pulling test 6:06 Shear test 6:35 Torque test 7:03 Bending test 8:03 Impact test 8:50 Creep test 9:59 Temperature test 10:28 Results 10:48 Conclusions #3dprinting #addnorth #petg #petgfilament #petgcf Download files: addnorth-petg-rigidx.xlsx 390.4 kB",
+    "download_timestamp": "2025-10-03T14:22:59.184206Z",
+    "manufacturer_links": [],
+    "post_hash": "4bc5533127c85e43a057fdf6d36a9f2df8f1122c351799caf0540fae06251ef6",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/430",
+    "youtube_link": "https://youtu.be/TUKXkWP24ek"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.385960Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "4bc5533127c85e43a057fdf6d36a9f2df8f1122c351799caf0540fae06251ef6",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/430",
+    "storage_key": "4bc5533127c85e43"
+  }
+}

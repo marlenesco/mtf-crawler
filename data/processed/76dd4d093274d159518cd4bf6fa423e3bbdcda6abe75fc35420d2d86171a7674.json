@@ -1,0 +1,57 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/238"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.399083Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:40.676698Z",
+      "file_path": "data/raw/dd9a11d9bb26f7502c87231be992d0b68981a579f24a3b093ebb5810f4653db4_polymaker-pa-nylon.xlsx",
+      "file_size": 368580,
+      "file_type": ".xlsx",
+      "filename": "polymaker-pa-nylon.xlsx",
+      "sha256_hash": "dd9a11d9bb26f7502c87231be992d0b68981a579f24a3b093ebb5810f4653db4",
+      "source_post_url": "https://www.mytechfun.com/video/238",
+      "url": "https://www.mytechfun.com/download/238/polymaker-pa-nylon.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "polymaker-pa-nylon",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "dd9a11d9bb26f7502c87231be992d0b68981a579f24a3b093ebb5810f4653db4"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Ultimate Nylon filament test - Polymaker CoPA vs PA6-GF vs PA6-CF vs PA12-CF Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Ultimate Nylon filament test - Polymaker CoPA vs PA6-GF vs PA6-CF vs PA12-CF Title: Ultimate Nylon filament test - Polymaker CoPA vs PA6-GF vs PA6-CF vs PA12-CF. Watch on youtube: https://youtu.be/cQb-hbr1KYY Tags: 3dprint , polymaker , material test , nylon filament , Polymaker PolyMide filament line is great for many functional parts, but it is important to understand their possibilities and when to use them. The printability is great, the warp-free technology gives the possibility to use them on open printer, but using of a hardened nozzle and a filament dryer is recommended. Glass- or carbon fibers gives not only great mechanical properties to these PA materials, but also a great surface quality. https://us.polymaker.com/collections/nylon?aff=49 Results can be downloaded from: https://www.mytechfun.com/video/238 All Polymaker related videos: https://www.mytechfun.com/videos/polymaker Contents: 0:00 Introduction 2:50 CoPA 3D printing 6:33 PA6-GF 3D printing 9:36 PA6-CF 3D printing 11:06 Testing with timing belt 12:31 PA12-CF 3D printing 14:03 Before mechanical testing 15:30 Tensile (pulling) test 16:18 Layer adhesion test 17:33 Shear stress 18:15 Torque (twist) test 19:37 IZOD impact test 20:51 Temperature test 22:21 C-bending creep test 23:59 Screw (compression) test 25:44 New bending test 28:06 Results 31:23 Conclusion #polymaker #nylon #3dprinting Download files: polymaker-pa-nylon.xlsx 368.6 kB",
+    "download_timestamp": "2025-10-03T14:23:46.390838Z",
+    "manufacturer_links": [
+      "https://us.polymaker.com/collections/nylon?aff=49"
+    ],
+    "post_hash": "76dd4d093274d159518cd4bf6fa423e3bbdcda6abe75fc35420d2d86171a7674",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/238",
+    "youtube_link": "https://youtu.be/cQb-hbr1KYY"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.399074Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "76dd4d093274d159518cd4bf6fa423e3bbdcda6abe75fc35420d2d86171a7674",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/238",
+    "storage_key": "76dd4d093274d159"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/99"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.408103Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "Testing eSun PLA filaments: PLA-ST vs PLA+ vs Silk PLA Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Testing eSun PLA filaments: PLA-ST vs PLA+ vs Silk PLA Title: Testing eSun PLA filaments: PLA-ST vs PLA+ vs Silk PLA. Watch on youtube: https://youtu.be/uDXgE7os0Pg Tags: 3dprint , esun , strength test , material test , In this video I am testing eSun PLA filaments from mechanical strength aspect. In the test: eSilk PLA, PLA+ and PLA-ST. This is a comparison test, but I will try to keep these test specimens as some kind of my own standard, so they are comparable with each other. Results can be downloaded from my website in PDF format. eSun filaments: https://www.esun3d.net/Products/Filaments 16 brands comparison video (part 2): https://youtu.be/Ablfqc3A_uE Results (or download PDF below this text) Average Tensile test 1 test 2 Tensile [kg] Silk 95.2 90.2 92.7 PLA+ 94.6 98 96.3 PLA-St 67.2 68.2 67.7 Average Layer adhesion test 1 test 2 Layer adh [kg] Silk 10.2 15.8 13 PLA+ 36 49 42.5 PLA-St 23.6 34.8 29.2 Average Shear test 1 test 2 Shear [kg] Silk 129 121.6 125.3 PLA+ 131 133.6 132.3 PLA-St 114 112.6 113.3 Bending 2 mm deform kg Break kg Silk 9.8 22.25 PLA+ 10.75 22 PLA-St 7.2 15.05 Impact test based on ISO 180 (IZOD test specimen) Tensile dist from 0 [mm] Ebreak [J] Silk 25 0.123 PLA+ 31 0.152 PLA-St 276 1.354 E br = m * g * H = 0.5 kg * 9.81 m/s2 * H [m] Torque (twist) test Torque test 1 test 2 Torque [Nm] twists Silk 1.8 1.8 1.8 360° PLA+ 1.9 1.8 1.85 90° PLA-St 1.2 1.4 1.3 135° Temperature test, first movement at: Temp °C Silk 50 PLA+ 50 PLA-St 50 Contents: 0:00 About eSun PLA filaments 1:00 Closer look 3:11 3D printing eSilk 3:36 3D printing PLA+ 4:03 3D printing PLA-ST 5:37 Tensile test 6:50 Layer adhesion test 8:12 Shear test 9:17 Bending test 10:55 Twist test 12:55 Impact test 14:27 Temperature test 15:16 Conclusions #esun #esunfilaments #3dprinting #filamentreview Download files: bending.stl 0.7 kB [ View» ] esun_pla_results.pdf 145.7 kB izod_specimen.stl 9.3 kB [ View» ] layer_adhesion.stl 243.9 kB [ View» ] shear_5mm.stl 102.1 kB [ View» ] temperature_test.stl 1.5 kB [ View» ] tensile.stl 62.7 kB [ View» ] twist.stl 83.9 kB [ View» ]",
+    "download_timestamp": "2025-10-03T14:24:14.537723Z",
+    "manufacturer_links": [],
+    "post_hash": "51438104242471c0b63af66616ea2add1bf553c6dcd396252b4f4747537b97fe",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/99",
+    "youtube_link": "https://youtu.be/uDXgE7os0Pg"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.408095Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "51438104242471c0b63af66616ea2add1bf553c6dcd396252b4f4747537b97fe",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/99",
+    "storage_key": "51438104242471c0"
+  }
+}

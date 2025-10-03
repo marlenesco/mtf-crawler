@@ -1,0 +1,66 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/389"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.391786Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:30.722155Z",
+      "file_path": "data/raw/bb2f532c780a568602fa7ca4e8c4bf6f3323856f8270f5b01628d99894a78cb5_azure-pla-prime.xlsx",
+      "file_size": 352149,
+      "file_type": ".xlsx",
+      "filename": "azure-pla-prime.xlsx",
+      "sha256_hash": "bb2f532c780a568602fa7ca4e8c4bf6f3323856f8270f5b01628d99894a78cb5",
+      "source_post_url": "https://www.mytechfun.com/video/389",
+      "url": "https://www.mytechfun.com/download/389/azure-pla-prime.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PLA Material",
+      "normalized_values": {
+        "settings": {
+          "original_unit": "C",
+          "original_value": 1.0,
+          "unit": "C",
+          "value": 1.0
+        }
+      },
+      "original_values": {
+        "settings": 1.0
+      },
+      "properties": {
+        "settings": 1.0
+      },
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "bb2f532c780a568602fa7ca4e8c4bf6f3323856f8270f5b01628d99894a78cb5"
+    }
+  ],
+  "post": {
+    "cleaned_text": "PLA designed for annealing with minimal deformation: AzureFilm PLA Prime Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About PLA designed for annealing with minimal deformation: AzureFilm PLA Prime Title: PLA designed for annealing with minimal deformation: AzureFilm PLA Prime. Watch on youtube: https://youtu.be/leR9DaZJCDc Tags: 3dprint , material test , azurefilm , This excel table you can download below this text. Chapters: 0:00 Introduction 2:00 Unboxing 2:24 3D printing 3:39 Annealing 5:24 Tensile test 5:29 Layer adhesion test 6:17 Shear test 6:43 Torque (twist) test 7:16 Bending test 7:47 Temperature test 8:21 Impact test 8:56 Creep test 9:40 Results 12:27 Conclusions #3dprinting #pla #azurefilm Download files: azure-pla-prime.xlsx 352.1 kB",
+    "download_timestamp": "2025-10-03T14:23:22.306492Z",
+    "manufacturer_links": [],
+    "post_hash": "3546bf8049cac836a7dc40e0c4d648e851b0e0215eed74260ea4a01ddb79e639",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/389",
+    "youtube_link": "https://youtu.be/leR9DaZJCDc"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.391777Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "3546bf8049cac836a7dc40e0c4d648e851b0e0215eed74260ea4a01ddb79e639",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/389",
+    "storage_key": "3546bf8049cac836"
+  }
+}

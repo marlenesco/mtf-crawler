@@ -1,0 +1,66 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/408"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.389675Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:27.108260Z",
+      "file_path": "data/raw/8d90e66532823d291bbd99dbebfa49e3b536231378630bb413bbffe728574a0c_bambulab-ppa-cf.xlsx",
+      "file_size": 399339,
+      "file_type": ".xlsx",
+      "filename": "bambulab-ppa-cf.xlsx",
+      "sha256_hash": "8d90e66532823d291bbd99dbebfa49e3b536231378630bb413bbffe728574a0c",
+      "source_post_url": "https://www.mytechfun.com/video/408",
+      "url": "https://www.mytechfun.com/download/408/bambulab-ppa-cf.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "bambulab-ppa-cf",
+      "normalized_values": {
+        "settings": {
+          "original_unit": "-CF",
+          "original_value": 6.0,
+          "unit": "-CF",
+          "value": 6.0
+        }
+      },
+      "original_values": {
+        "settings": 6.0
+      },
+      "properties": {
+        "settings": 6.0
+      },
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "8d90e66532823d291bbd99dbebfa49e3b536231378630bb413bbffe728574a0c"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Bambu Lab PPA-CF: the STRONGEST filament ever (I tested so far) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Bambu Lab PPA-CF: the STRONGEST filament ever (I tested so far) Title: Bambu Lab PPA-CF: the STRONGEST filament ever (I tested so far). Watch on youtube: https://youtu.be/IXlrUWSz_xY Tags: 3dprint , material test , bambulab , nylon , ppacf , PPA-CF, the premium carbon fiber reinforced nylon by Bambu Lab is the strongest filament I tested so far (but not in every test). It requires a serious drying, but after this it is very printable filament. It needs a hardened steel nozzle and enclosure. Product page (affiliate link): https://shrsl.com/4pwr0 Forgot to mention in the video: This spool don't have RFID Tag, so drying in microwave is worth to try. Mentioned in the video: Vevor analytical scale: https://amzn.to/4hdLEYD Previous video PA6-CF vs PA6-GF: https://youtu.be/cwbnIXHSxmY Special thanks to Everson from @GeekDetour for thumbnail image. Chapters: 0:00 Introduction, specifications 1:41 Unboxing 1:55 Drying 3:36 Result of drying 4:45 3D printing 7:03 Shrinking 7:24 Tensile test 7:35 Layer adhesion test 7:53 Shear test 8:45 Torque (twist) test 9:19 Bending test 9:54 Temperature test 11:16 Creep test 12:08 Impact test 12:47 Results 15:08 Conclusions 16:52 Final weight measuring Download files: bambulab-ppa-cf.xlsx 399.3 kB",
+    "download_timestamp": "2025-10-03T14:23:13.269835Z",
+    "manufacturer_links": [],
+    "post_hash": "042e50b1b8f862447f232c1c7a8ad7c65af005742303a1617b94a82c22cc7d5e",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/408",
+    "youtube_link": "https://youtu.be/IXlrUWSz_xY"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.389666Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "042e50b1b8f862447f232c1c7a8ad7c65af005742303a1617b94a82c22cc7d5e",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/408",
+    "storage_key": "042e50b1b8f86244"
+  }
+}

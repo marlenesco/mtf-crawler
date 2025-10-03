@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/240"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.398839Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:40.117590Z",
+      "file_path": "data/raw/a125c64b02cdf653a91730cf365e9cd9c89cb1093f5bd4ba0b193955d930e78a_results-azurefilm-pla.xlsx",
+      "file_size": 300512,
+      "file_type": ".xlsx",
+      "filename": "results-azurefilm-pla.xlsx",
+      "sha256_hash": "a125c64b02cdf653a91730cf365e9cd9c89cb1093f5bd4ba0b193955d930e78a",
+      "source_post_url": "https://www.mytechfun.com/video/240",
+      "url": "https://www.mytechfun.com/download/240/results-azurefilm-pla.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PLA Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "a125c64b02cdf653a91730cf365e9cd9c89cb1093f5bd4ba0b193955d930e78a"
+    }
+  ],
+  "post": {
+    "cleaned_text": "How strong is the PLA-Strongman by AzureFilm? Comparison to regular PLA. Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About How strong is the PLA-Strongman by AzureFilm? Comparison to regular PLA. Title: How strong is the PLA-Strongman by AzureFilm? Comparison to regular PLA.. Watch on youtube: https://youtu.be/QjKdrP8Pr7M Tags: 3dprint , azurefilm , material test , According to AzureFilm website, the PLA-Strongman is Tougher and more impact resistant material, but how it compares to their regular PLA? Let's find out. Link to tested products (not affiliate): https://www.azurefilm.com/en/3d-filament-pla-strongman-grey https://www.azurefilm.com/en/pla-filament-red 0:00 Introduction, specs 1:56 PLA 3D printing 2:50 PLA-ST 3D printing 3:54 Tensile test 4:24 Layer adhesion test 4:47 Bending test 5:59 Shear test 6:27 Torque (twist) test 6:53 Impact (IZOD) test 7:42 Temperature test 8:35 Creep test 9:57 Results 13:37 Conclusions #azurefilm #plafilament #3dprinting Download files: results-azurefilm-pla.xlsx 300.5 kB",
+    "download_timestamp": "2025-10-03T14:23:45.407211Z",
+    "manufacturer_links": [],
+    "post_hash": "c80c3a460b8e2fc5cc0d550b0cddf1050516a2777fb07ca680233144fa4fc98c",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/240",
+    "youtube_link": "https://youtu.be/QjKdrP8Pr7M"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.398830Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "c80c3a460b8e2fc5cc0d550b0cddf1050516a2777fb07ca680233144fa4fc98c",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/240",
+    "storage_key": "c80c3a460b8e2fc5"
+  }
+}

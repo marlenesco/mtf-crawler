@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/103"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.407856Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "Prusa Tough Resin vs ELEGOO Water Washable Resin - mechanical tests Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Prusa Tough Resin vs ELEGOO Water Washable Resin - mechanical tests Title: Prusa Tough Resin vs ELEGOO Water Washable Resin - mechanical tests. Watch on youtube: https://youtu.be/oeVdyAMDTHI Tags: 3dprint , prusa , elegoo , sla 3d printing , strength test , material test , In this video test I am testing Prusa Tough Resin vs Elegoo water washable rapid resin from mechanical strength aspect. Why these materials? The test specimens are sent to me by my viewers for testing. Prusa test objects are sent by Samuel from Slovakia (printed on Prusa SL1) and Elegoo test materials are from Csongor from Hungary (printed on Elegoo Mars). Results can be downloaded in PDF file below this text. Other videos related to SLA 3D printing: https://www.mytechfun.com/videos/sla_3d_printing Link to used resins (not affiliate) https://shop.prusa3d.com/en/48-tough https://www.elegoo.com/products/elegoo-water-washable-resin Contents: 0:00 Introduction 1:19 Closer look 2:43 Tensile test 3:35 Shear test 4:29 Bending test 5:04 Impact test 6:29 Twist test (torque) 7:58 Conclusions #prusaresin #elegooresin #sla3dprinting Download files: prusa_elegoo_resin.pdf 134 kB",
+    "download_timestamp": "2025-10-03T14:24:13.514204Z",
+    "manufacturer_links": [],
+    "post_hash": "07f3f7e942b058ba47eccf40013541902ab43d06b23d4b3e70912bdadc477df0",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/103",
+    "youtube_link": "https://youtu.be/oeVdyAMDTHI"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.407850Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "07f3f7e942b058ba47eccf40013541902ab43d06b23d4b3e70912bdadc477df0",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/103",
+    "storage_key": "07f3f7e942b058ba"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/94"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.408640Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "ABS vs Tenacious-Blu mix, the 3rd match FDM vs SLA 3D printed bolts and screw nuts Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About ABS vs Tenacious-Blu mix, the 3rd match FDM vs SLA 3D printed bolts and screw nuts Title: ABS vs Tenacious-Blu mix, the 3rd match FDM vs SLA 3D printed bolts and screw nuts. Watch on youtube: https://youtu.be/JpTSzpRQ_T4 Tags: 3dprint , siraya , fdm vs sla , strength test , sla 3d printing , tenacious , material test , This video is a 3rd match of FDM vs SLA 3D printed bolts and screw nuts and in this comparison I am using SUNLU ABS vs Siraya Tenacious and Blu mix 50-50%. I will repeat all those experiments from 2nd match (tensile-, shear- and torque test) including impact and temperature tests too. Resin used in the video 50-50% mixture: https://siraya.tech/products/tenacious-by-siraya-tech-for-lcd-resin-printers-1kg https://siraya.tech/products/blu-by-siraya-tech-for-lcd-resin-printers-1kg 1st video FDM vs SLA (PLA vs water washable resin): https://youtu.be/k5xxZKv7IRg 2nd video Siraya Blu vs PETG https://youtu.be/7r16-UDo2t4 Other equipment used in video: Prusa MK3s (for printing without enclosure) Ender 3 V2 on banggood (affiliate) https://www.banggood.com/custlink/GGvh5E38Rt Upgraded, all upgrade videos: https://www.mytechfun.com/videos/ender3upgrade Creality small enclosure (affiliate): https://www.banggood.com/custlink/3KKEFjewOn Digital torque wrench (smallest 0.3-30 Nm - not the same, but similar) https://www.banggood.com/custlink/mD3hVIkGvv Contents: 0:00 Introduction 2:43 About ABS bolts 5:29 ABS in enclosure 6:50 About Tenacious+Blu bolts 8:08 Tensile test (bolts) 8:43 Shear test (bolts) 9:13 Pulling test (nuts) 9:57 Torque test (bolts) 11:43 Torque test (nuts) 13:08 Impact test 14:59 Temperature test 16:22 Conclusions #3dprinting #siraya #sla3dprinting #absfilament Download files: No downloadable files for this video.",
+    "download_timestamp": "2025-10-03T14:24:16.535491Z",
+    "manufacturer_links": [],
+    "post_hash": "0475269e8eb636fcbb4df2d382491d4c73b4f5f6dc145099e5b1c4cd317d0421",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/94",
+    "youtube_link": "https://youtu.be/JpTSzpRQ_T4"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.408614Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "0475269e8eb636fcbb4df2d382491d4c73b4f5f6dc145099e5b1c4cd317d0421",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/94",
+    "storage_key": "0475269e8eb636fc"
+  }
+}

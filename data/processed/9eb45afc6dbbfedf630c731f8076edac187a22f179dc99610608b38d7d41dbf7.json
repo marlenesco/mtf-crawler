@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/121"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.406426Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "Is this another solution for food safe 3D printing? Nonoilen filament from Filamentum. Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Is this another solution for food safe 3D printing? Nonoilen filament from Filamentum. Title: Is this another solution for food safe 3D printing? Nonoilen filament from Filamentum.. Watch on youtube: https://youtu.be/qB3tgEEDTyc Tags: 3dprint , filamentum , material test , strength test , Nonoilen filament by Filamentum may be another solution for food safe 3D printing. Since I work on Food Engineering Department (at uni-mate.hu) and I am trying to implement 3D printing in my workplace, it is very important to find solution, where 3D printed object can have direct contact with the food. So far, I tested coating with epoxy resin, smoothing the object, using antibacterial filaments etc. Nonoilen filament may survive 110°C, this means object can be placed in boiling water or in dishwasher on high temperatures. The printability of this material is similar like PLA. I also did some mechanical tests too, since manufacturer claims, that this is tough material. There is one error in video, unit of bacterial test is CFU and not CFU/cm2, but the ratio between two tests is correct. Product website (not affiliate link, I bought this filament myself) https://fillamentum.com/collections/nonoilen-filament/ List of all videos related with food safe 3D printing: https://www.mytechfun.com/videos/food_safe STL file for test cup can be downloaded below this text I used smart temperature tower by GaaZolee https://www.thingiverse.com/thing:2729076 Contents: 0:00 Introduction 0:59 About Nonoilen 2:18 Unboxing 3:41 Temperature tower 4:37 3D printing test objects 5:25 Layer adhesion test 6:05 Tensile test 6:40 Impact test 7:40 Bending test 8:12 Temperature test 9:49 Results 10:00 Boiling test 11:41 Bacterial test 13:07 Conclusions #filamentum #3dprinting Download files: cup_3x3_60overhang.stl 568.2 kB [ View» ]",
+    "download_timestamp": "2025-10-03T14:24:08.490823Z",
+    "manufacturer_links": [],
+    "post_hash": "9eb45afc6dbbfedf630c731f8076edac187a22f179dc99610608b38d7d41dbf7",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/121",
+    "youtube_link": "https://youtu.be/qB3tgEEDTyc"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.406414Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "9eb45afc6dbbfedf630c731f8076edac187a22f179dc99610608b38d7d41dbf7",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/121",
+    "storage_key": "9eb45afc6dbbfedf"
+  }
+}

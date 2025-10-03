@@ -1,0 +1,36 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/315"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.395952Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "eSun PLA+ vs PLA-HS (ex. PLA-HF) - high speed PLA testing Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About eSun PLA+ vs PLA-HS (ex. PLA-HF) - high speed PLA testing Title: eSun PLA+ vs PLA-HS (ex. PLA-HF) - high speed PLA testing. Watch on youtube: https://youtu.be/uqewyYVed0o Tags: 3dprint , esun , material test , eSun PLA-HS high speed filament (old name HF, means high flow) is designed to be used on higher 3D printing speeds. Product page: https://www.esun3d.com/epla-hf-product/ PLA+: https://www.esun3d.com/pla-pro-product/ Kingroon KP3S, klipper based 3D printer was used, which is able to print on high speeds, but one important thing has to be mentioned, it was equipped with hardened steel nozzle (which I noticed later), resulting weaker layer adhesion. Contents: 0:00 Introduction 1:09 Unboxing 1:36 3D printing 5:27 Layer adhesion test 7:07 Tensile (pulling) test 7:39 Shear test 7:50 Torque test 8:29 Impact test 9:51 Bending test 10:17 Temperature test 11:03 Results 13:41 Conclusions #esun #3dprinting Download files: No downloadable files for this video.",
+    "download_timestamp": "2025-10-03T14:23:34.356340Z",
+    "manufacturer_links": [
+      "https://www.esun3d.com/epla-hf-product/",
+      "https://www.esun3d.com/pla-pro-product/"
+    ],
+    "post_hash": "1ebe60d50892115b1a555d86b0ab79a6fcb75c72f63593ce4765b782f3c47c62",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/315",
+    "youtube_link": "https://youtu.be/uqewyYVed0o"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.395946Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "1ebe60d50892115b1a555d86b0ab79a6fcb75c72f63593ce4765b782f3c47c62",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/315",
+    "storage_key": "1ebe60d50892115b"
+  }
+}

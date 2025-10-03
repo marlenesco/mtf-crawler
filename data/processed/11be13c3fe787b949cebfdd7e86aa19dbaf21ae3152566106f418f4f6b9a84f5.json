@@ -1,0 +1,57 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/215"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.400610Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:43.029655Z",
+      "file_path": "data/raw/7b33afaf524b3622b08fda65c54b3bf2c03b91de4c80ce504fc73e55cc046f4a_prusament-pc-blend-cf.xlsx",
+      "file_size": 73762,
+      "file_type": ".xlsx",
+      "filename": "prusament-pc-blend-cf.xlsx",
+      "sha256_hash": "7b33afaf524b3622b08fda65c54b3bf2c03b91de4c80ce504fc73e55cc046f4a",
+      "source_post_url": "https://www.mytechfun.com/video/215",
+      "url": "https://www.mytechfun.com/download/215/prusament-pc-blend-cf.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PC Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "7b33afaf524b3622b08fda65c54b3bf2c03b91de4c80ce504fc73e55cc046f4a"
+    }
+  ],
+  "post": {
+    "cleaned_text": "How strong is PC-CF? Prusament carbon fiber PC blend Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About How strong is PC-CF? Prusament carbon fiber PC blend Title: How strong is PC-CF? Prusament carbon fiber PC blend. Watch on youtube: https://youtu.be/sAkJbYNPCpo Tags: 3dprint , strength test , material test , prusament , Let's find out how strong is Carbon Fiber PC blend by Prusament and compare it to the regular PC blend 3D printing filament. In this video I am testing not only the mechanical properties, but also the printability and dimensional stability. Pruduct page: https://prusament.com/materials/prusament-pc-blend-carbon-fiber/ Results are downloadable from https://www.mytechfun.com/video/215 All Prusament videos on channel: https://www.mytechfun.com/videos/prusament Contents: 0:00 Introduction 1:57 Unboxing 3:16 Nozzle replacing 4:53 Preparing the printing 5:20 Temperature tower 8:16 Printing test objects 9:30 Annealing 10:31 Dimensional accuracy 13:15 Tensile test 13:53 Layer adhesion test 14:25 Shear test 14:45 Torque (twist) test 15:20 Bending test 15:51 Impact test 16:48 Temperature test 18:51 Creep test 21:06 Results 23:34 Conclusions #prusament #carbonfiber #3dprinting #pcblend Download files: prusament-pc-blend-cf.xlsx 73.8 kB",
+    "download_timestamp": "2025-10-03T14:23:52.431258Z",
+    "manufacturer_links": [
+      "https://prusament.com/materials/prusament-pc-blend-carbon-fiber/"
+    ],
+    "post_hash": "11be13c3fe787b949cebfdd7e86aa19dbaf21ae3152566106f418f4f6b9a84f5",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/215",
+    "youtube_link": "https://youtu.be/sAkJbYNPCpo"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.400602Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "11be13c3fe787b949cebfdd7e86aa19dbaf21ae3152566106f418f4f6b9a84f5",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/215",
+    "storage_key": "11be13c3fe787b94"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/167"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.403883Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:46.407099Z",
+      "file_path": "data/raw/26c8667b478b0754014d12a96d96e83c20bca7bf37dc050ffc33f7c55fa05083_eSun-abs-pc-pa.xlsx",
+      "file_size": 54548,
+      "file_type": ".xlsx",
+      "filename": "eSun-abs-pc-pa.xlsx",
+      "sha256_hash": "26c8667b478b0754014d12a96d96e83c20bca7bf37dc050ffc33f7c55fa05083",
+      "source_post_url": "https://www.mytechfun.com/video/167",
+      "url": "https://www.mytechfun.com/download/167/eSun-abs-pc-pa.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "ABS Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "26c8667b478b0754014d12a96d96e83c20bca7bf37dc050ffc33f7c55fa05083"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Ultimate comparison: eSun ABS+ vs ePC vs ePA (Nylon) - mostly mechanical testing Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Ultimate comparison: eSun ABS+ vs ePC vs ePA (Nylon) - mostly mechanical testing Title: Ultimate comparison: eSun ABS+ vs ePC vs ePA (Nylon) - mostly mechanical testing. Watch on youtube: https://youtu.be/caPEp_3uHoE Tags: 3dprint , esun , strength test , material test , This is a comparison test of eSun ABS+ , ePC (PolyCarbonate) and ePA (PolyAmide or Nylon) filaments. In first part of this video you can the 3D printing and in second part several mechanical tests. All results are downloadable from https://www.mytechfun.com/video/167 More about tested products (not affiliate links): eSun ABS+: https://esun3dstore.com/collections/3d-printing-filament/products/esun-abs ePC: https://www.esun3d.net/products/277.html ePA: https://www.esun3d.com/epa-product/ Mentioned in the video: Creep test: https://youtu.be/88pk2cNOeGE Shore durometer review: https://youtu.be/aPo5CpFAeB8 Contents: 0:00 Introduction 2:25 Unboxing 3:29 Preparing temperature tower 3:42 3D printing ABS+ 6:15 3D printing PolyCarbonate 8:39 3D printing Nylon 12:34 Summary of 3D printing 14:05 Tensile test 15:04 Layer adhesion 15:44 Bending test 16:41 Shear stress test 17:26 Izod impact test 18:53 Torque (twist) test 20:51 Hardness 21:37 Temperature test 22:40 Creep test (C bending) 25:57 Creep test (Screw) 28:34 Results 30:59 Conclusions #esun #esunfilaments #3dprinting Download files: eSun-abs-pc-pa.xlsx 54.5 kB",
+    "download_timestamp": "2025-10-03T14:24:01.470891Z",
+    "manufacturer_links": [
+      "https://www.esun3d.com/epa-product/"
+    ],
+    "post_hash": "5121726a8c4d6cae41be47c808aa44cea934169396c53fe03646f2660e8f3d7c",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/167",
+    "youtube_link": "https://youtu.be/caPEp_3uHoE"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.403873Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "5121726a8c4d6cae41be47c808aa44cea934169396c53fe03646f2660e8f3d7c",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/167",
+    "storage_key": "5121726a8c4d6cae"
+  }
+}

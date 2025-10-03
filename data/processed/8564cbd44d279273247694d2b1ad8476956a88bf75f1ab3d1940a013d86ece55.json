@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/422"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.387413Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "BambuLab TPU for AMS: An Alternative to 95A or a Specialized Flexible Filament? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About BambuLab TPU for AMS: An Alternative to 95A or a Specialized Flexible Filament? Title: BambuLab TPU for AMS: An Alternative to 95A or a Specialized Flexible Filament?. Watch on youtube: https://youtu.be/wSajzYEede0 Tags: 3dprint , material test , tpu , bambulab , Download files: No downloadable files for this video.",
+    "download_timestamp": "2025-10-03T14:23:03.226495Z",
+    "manufacturer_links": [],
+    "post_hash": "8564cbd44d279273247694d2b1ad8476956a88bf75f1ab3d1940a013d86ece55",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/422",
+    "youtube_link": "https://youtu.be/wSajzYEede0"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.387406Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "8564cbd44d279273247694d2b1ad8476956a88bf75f1ab3d1940a013d86ece55",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/422",
+    "storage_key": "8564cbd44d279273"
+  }
+}

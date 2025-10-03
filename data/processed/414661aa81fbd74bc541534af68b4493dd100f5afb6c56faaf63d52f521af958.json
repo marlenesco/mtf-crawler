@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/420"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.387836Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "3D Printed Twist Drill: Can It Actually Cut Wood? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About 3D Printed Twist Drill: Can It Actually Cut Wood? Title: 3D Printed Twist Drill: Can It Actually Cut Wood?. Watch on youtube: https://youtu.be/cBFwyQ8IrnU Tags: 3dprint , material test , Download files: No downloadable files for this video.",
+    "download_timestamp": "2025-10-03T14:23:05.196507Z",
+    "manufacturer_links": [],
+    "post_hash": "414661aa81fbd74bc541534af68b4493dd100f5afb6c56faaf63d52f521af958",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/420",
+    "youtube_link": "https://youtu.be/cBFwyQ8IrnU"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.387831Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "414661aa81fbd74bc541534af68b4493dd100f5afb6c56faaf63d52f521af958",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/420",
+    "storage_key": "414661aa81fbd74b"
+  }
+}

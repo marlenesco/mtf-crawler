@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/335"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.393958Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:32.647843Z",
+      "file_path": "data/raw/a6848e26548b62a459d924bef23a921a369e8b2e48eea5bb9c8f221f850861cc_pcbway-cnc-vs-3dp.xlsx",
+      "file_size": 351631,
+      "file_type": ".xlsx",
+      "filename": "pcbway-cnc-vs-3dp.xlsx",
+      "sha256_hash": "a6848e26548b62a459d924bef23a921a369e8b2e48eea5bb9c8f221f850861cc",
+      "source_post_url": "https://www.mytechfun.com/video/335",
+      "url": "https://www.mytechfun.com/download/335/pcbway-cnc-vs-3dp.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PC Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "a6848e26548b62a459d924bef23a921a369e8b2e48eea5bb9c8f221f850861cc"
+    }
+  ],
+  "post": {
+    "cleaned_text": "CNC machining vs 3D printing (ABS, PolyCarbonate, Nylon) - Which one is stronger? Services by PCBWAY Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About CNC machining vs 3D printing (ABS, PolyCarbonate, Nylon) - Which one is stronger? Services by PCBWAY Title: CNC machining vs 3D printing (ABS, PolyCarbonate, Nylon) - Which one is stronger? Services by PCBWAY. Watch on youtube: https://youtu.be/wIsdEnHRr4g Tags: 3dprint , cnc , pcbway , material test , Sometimes we need part from ABS, PolyCarbonate (PC) or Nylon (PA or PolyAmide), but which method give us stronger parts? CNC machining or 3D printing? All test objects are manufactured by PCBWAY using their services. https://www.pcbway.com/rapid-prototyping/ Contents: 0:00 Introduction 0:38 Ordering process 1:24 Price comparison 2:09 Limitations, advantages 3:10 Unboxing 3:49 Test specimens 4:19 Tested materials 5:05 Dimensional accuracy 6:05 Tensile test 6:35 Hook test 7:08 Layer adhesion test 7:37 Bending test 8:26 Creep test 10:03 Impact test 11:34 Temperature test 12:55 Results 15:52 Conclusions #pcbway #3dprinting #cncmachining Download files: pcbway-cnc-vs-3dp.xlsx 351.6 kB",
+    "download_timestamp": "2025-10-03T14:23:28.334318Z",
+    "manufacturer_links": [],
+    "post_hash": "284a684cef972cbf58315a7fee8d79cb87039eb3c297cc45b1fff7ae7bcaf475",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/335",
+    "youtube_link": "https://youtu.be/wIsdEnHRr4g"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.393940Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "284a684cef972cbf58315a7fee8d79cb87039eb3c297cc45b1fff7ae7bcaf475",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/335",
+    "storage_key": "284a684cef972cbf"
+  }
+}

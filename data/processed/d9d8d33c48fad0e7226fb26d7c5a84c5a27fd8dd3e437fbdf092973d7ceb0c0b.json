@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/403"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.390144Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:28.107798Z",
+      "file_path": "data/raw/428b63bcdfa986e91c1366a982e201c0d6cd871a76e4a2f581362533cc1cba59_bambulab-pc-3x.xlsx",
+      "file_size": 387584,
+      "file_type": ".xlsx",
+      "filename": "bambulab-pc-3x.xlsx",
+      "sha256_hash": "428b63bcdfa986e91c1366a982e201c0d6cd871a76e4a2f581362533cc1cba59",
+      "source_post_url": "https://www.mytechfun.com/video/403",
+      "url": "https://www.mytechfun.com/download/403/bambulab-pc-3x.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PC Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "428b63bcdfa986e91c1366a982e201c0d6cd871a76e4a2f581362533cc1cba59"
+    }
+  ],
+  "post": {
+    "cleaned_text": "BambuLab PolyCarbonate (PC) - Does it matter if it is black or white? (or transparent?) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About BambuLab PolyCarbonate (PC) - Does it matter if it is black or white? (or transparent?) Title: BambuLab PolyCarbonate (PC) - Does it matter if it is black or white? (or transparent?). Watch on youtube: https://youtu.be/SCKwyA8GaWg Tags: 3dprint , material test , bambulab , polycarbonate , BambuLab PolyCarbonate filaments in 3 different color: Clear Black, White and Transparent. Is there any bigger difference in Mechanical Properties? PC filament has great mechanical properties, but is there any difference between colors? All test objects are printed using the same gcode with BambuLab X1C 3D printer. Product link (affiliate): https://shrsl.com/4p0ir The inspiration for the intro joke, the music from my childhood: https://youtu.be/pTFE8cirkdQ Chapters: 0:00 Introduction 0:42 Specifications 1:12 Unboxing 1:55 Slicer, settings 2:16 3D printing 2:59 Transparency 3:15 Shrinking 3:43 Tensile test 4:02 Layer adhesion 4:22 Shear test 4:52 Torque (twist) test 5:20 Bending test 5:48 Temperature test 6:17 Creep test 7:29 Impact test 8:07 Results 10:58 Conclusions #3dprinting #polycarbonate #bambulab Download files: bambulab-pc-3x.xlsx 387.6 kB",
+    "download_timestamp": "2025-10-03T14:23:15.269176Z",
+    "manufacturer_links": [],
+    "post_hash": "d9d8d33c48fad0e7226fb26d7c5a84c5a27fd8dd3e437fbdf092973d7ceb0c0b",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/403",
+    "youtube_link": "https://youtu.be/SCKwyA8GaWg"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.390135Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "d9d8d33c48fad0e7226fb26d7c5a84c5a27fd8dd3e437fbdf092973d7ceb0c0b",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/403",
+    "storage_key": "d9d8d33c48fad0e7"
+  }
+}

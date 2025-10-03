@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/295"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.396398Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "Semiflex PLA by Filaticum - the review Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Semiflex PLA by Filaticum - the review Title: Semiflex PLA by Filaticum - the review. Watch on youtube: https://youtu.be/ZIu--5-nl3E Tags: 3dprint , filaticum , material test , Filaticum company can do fantastic filaments from PLA, one of them is earlier presented Engineering PLA. This time I am testing Semiflex PLA material with incredible resistance to temperatures and impact. Main disadvantages are the weaker layer adhesion, and it requires a drying. Product page (not affiliate): https://filaticum.com/en/product/filaticum-semiflex/?currency=EUR Contents: 0:00 Introduction 1:51 Unboxing 2:25 Temperature tower 4:56 Test specimens 6:49 Creep test 7:36 Tensile (pulling) test 7:54 Layer adhesion test 8:07 Shear stress test 8:21 Torque (twist) test 8:43 Bending test 9:17 Impact test 10:02 Temperature test 11:05 Results 13:43 Conclusions #3dprinting #filament Download files: No downloadable files for this video.",
+    "download_timestamp": "2025-10-03T14:23:36.365322Z",
+    "manufacturer_links": [],
+    "post_hash": "1b3124cf4c073ab1ae0f782062d0d39a417d583e5c86a1ad63d0dc14e95db354",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/295",
+    "youtube_link": "https://youtu.be/ZIu--5-nl3E"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.396393Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "1b3124cf4c073ab1ae0f782062d0d39a417d583e5c86a1ad63d0dc14e95db354",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/295",
+    "storage_key": "1b3124cf4c073ab1"
+  }
+}

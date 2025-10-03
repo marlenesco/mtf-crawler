@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/287"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.396836Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:36.980172Z",
+      "file_path": "data/raw/cd7867a5f5e0f7d34805471ad3c928d1e007ea23d974dfb5ff34eb74b7539d99_kingroon-petg-pla-results.xlsx",
+      "file_size": 302166,
+      "file_type": ".xlsx",
+      "filename": "kingroon-petg-pla-results.xlsx",
+      "sha256_hash": "cd7867a5f5e0f7d34805471ad3c928d1e007ea23d974dfb5ff34eb74b7539d99",
+      "source_post_url": "https://www.mytechfun.com/video/287",
+      "url": "https://www.mytechfun.com/download/287/kingroon-petg-pla-results.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PLA Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "cd7867a5f5e0f7d34805471ad3c928d1e007ea23d974dfb5ff34eb74b7539d99"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Why to use PETG over PLA? Kingroon PLA, PETG review. Also: Kingroon vaccum storage system testing Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Why to use PETG over PLA? Kingroon PLA, PETG review. Also: Kingroon vaccum storage system testing Title: Why to use PETG over PLA? Kingroon PLA, PETG review. Also: Kingroon vaccum storage system testing. Watch on youtube: https://youtu.be/ggMkfHMlzsE Tags: 3dprint , kingroon , material test , Another PLA vs PETG battle, great method to understand the difference between these two basic materials. Additionally, Kingroon vacuum storage sistem testing: electrical vacuum pump and bags with double sealing line. Kingroon filaments: https://kingroon.com/collections/3d-printer-filament Vacuum pump: https://kingroon.com/.../vacuum-filament-storage.. 3D printer used in the video: https://youtu.be/4Z774GUWCIA Results download from: https://www.mytechfun.com/video/287 Contents: 0:00 Introduction 0:51 PLA 3D printing 2:30 PETG 3D printing 4:13 Tensile (pulling) test 4:42 Layer adhesion test 5:08 Shear test 5:22 Torque (twist) test 5:56 Bending test 6:27 Impact test 7:03 Temperature test 7:41 Creep test 8:23 Results 11:13 Vacuum storage system 13:01 Conclusions #kingroon #pla #petg #vacuumpump #vacuumbags Download files: kingroon-petg-pla-results.xlsx 302.2 kB",
+    "download_timestamp": "2025-10-03T14:23:38.372968Z",
+    "manufacturer_links": [],
+    "post_hash": "2fb0772c4da8ed3656e30ce913af57685e65fbb79deb2e7f19a5b83b0a7b5728",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/287",
+    "youtube_link": "https://youtu.be/ggMkfHMlzsE"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.396826Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "2fb0772c4da8ed3656e30ce913af57685e65fbb79deb2e7f19a5b83b0a7b5728",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/287",
+    "storage_key": "2fb0772c4da8ed36"
+  }
+}

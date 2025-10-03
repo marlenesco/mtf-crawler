@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/262"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.397252Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:37.690946Z",
+      "file_path": "data/raw/c06456a2191828faa2673e9e3d142abc842320d533123cb76fee2ca369aa8fd6_extrudr-petg.xlsx",
+      "file_size": 497802,
+      "file_type": ".xlsx",
+      "filename": "extrudr-petg.xlsx",
+      "sha256_hash": "c06456a2191828faa2673e9e3d142abc842320d533123cb76fee2ca369aa8fd6",
+      "source_post_url": "https://www.mytechfun.com/video/262",
+      "url": "https://www.mytechfun.com/download/262/extrudr-petg.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PETG Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "c06456a2191828faa2673e9e3d142abc842320d533123cb76fee2ca369aa8fd6"
+    }
+  ],
+  "post": {
+    "cleaned_text": "How strong is Carbon Fiber PETG? Extrudr PETG vs PCTG vs XPETG CF Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About How strong is Carbon Fiber PETG? Extrudr PETG vs PCTG vs XPETG CF Title: How strong is Carbon Fiber PETG? Extrudr PETG vs PCTG vs XPETG CF. Watch on youtube: https://youtu.be/MjllKSVLY1s Tags: 3dprint , extrudr , material test , petg , Suggested by viewers, I tested Extrudr filaments. In this video: PETG vs PCTG vs XPCTG CF (with carbon fibers). This is in-depth review (long video) but there are chapters, if somebody wants to see only some specific part of the video. Almost all test objects are printed on Prusa MK3S equipped with hardened steel nozzle. Some test parts are reprinted with brass nozzle too. Layer adhesion parts are printed with 0.6mm hardened nozzle (on Ender3V2 with Microswiss DD) Extrudr website: https://www.extrudr.com/en/ Results are downloadable from the bottom of this page. Other, mentioned in the video: Sovol SV06 PLUS (for hi-temp PCTG printing) https://youtu.be/FcYqEFY3avk Ender-3 V2 with microswiss DD extruder and 0.6mm hardened nozzle New holders used for the layer adhesion test are CNC machined by PCBWay https://www.pcbway.com/rapid-prototyping/ Digital microscope Mustool G1200 https://youtu.be/DionUg-NkbY Durometer (for hardness test): https://youtu.be/aPo5CpFAeB8 Chapters: 0:00 Introduction 0:55 Specs 1:30 PETG 3D printing 3:11 PCTG 3D printing 4:10 XPETG CF 3D printing 7:31 Tensile (pulling) test 8:07 Layer adhesion test(s) 11:41 Shear test 12:17 Torque (twist) test 13:06 Bending test 13:47 Impact test 14:44 Creep test 15:51 Temperature test 16:28 Scratch resistance 16:57 Hardness 17:35 Results 22:32 Conclusions #3dprinting #extrudr #petg #pctg #carbonfilament Download files: extrudr-petg.xlsx 497.8 kB",
+    "download_timestamp": "2025-10-03T14:23:40.369377Z",
+    "manufacturer_links": [],
+    "post_hash": "e07fa24f0f13e87b98ec699dc25aedd43e873c9439184826f3dc2ccaad1dd95c",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/262",
+    "youtube_link": "https://youtu.be/MjllKSVLY1s"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.397242Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "e07fa24f0f13e87b98ec699dc25aedd43e873c9439184826f3dc2ccaad1dd95c",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/262",
+    "storage_key": "e07fa24f0f13e87b"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/133"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.405000Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "Another FDM vs SLA battle: PolyCarbonate vs Perform Resin - 3D printing services from PCBWay Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Another FDM vs SLA battle: PolyCarbonate vs Perform Resin - 3D printing services from PCBWay Title: Another FDM vs SLA battle: PolyCarbonate vs Perform Resin - 3D printing services from PCBWay. Watch on youtube: https://youtu.be/aRReSg76RuA Tags: 3dprint , strength test , material test , fdm vs sla , pcbway , This is another filament vs resin 3D printing material comparison. PCBWay contacted me, that they would like to sponsor my video to introduce their 3D printing services. A great solution for those, who don't have a 3D printer or who needs something what is not possible to print on their own printer. I have those test specimens I am using regularly in other videos. When PCBWay asked me to reduce the number of test objects, I decided to do this video for free, but every type of test specimen must be included. https://www.pcbway.com/rapid-prototyping/manufacture/?type=2&reffercode=TOP Contents: 0:00 Introduction 1:30 Ordering process 3:16 Unboxing 3:41 Dimensional accuracy 6:59 Layer adhesion test 7:40 Tensile strength 8:10 Shear test 8:59 Bending test 9:32 Impact test 10:27 Twist test 11:39 Results 13:51 Conclusions #3dprintingservices #pcbway #polycarbonate #performresin Download files: No downloadable files for this video.",
+    "download_timestamp": "2025-10-03T14:24:05.484813Z",
+    "manufacturer_links": [],
+    "post_hash": "13ebedcf546a3f5a783bd203d56016768c813b84c02d9b74a915d9d46563c81c",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/133",
+    "youtube_link": "https://youtu.be/aRReSg76RuA"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.404991Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "13ebedcf546a3f5a783bd203d56016768c813b84c02d9b74a915d9d46563c81c",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/133",
+    "storage_key": "13ebedcf546a3f5a"
+  }
+}

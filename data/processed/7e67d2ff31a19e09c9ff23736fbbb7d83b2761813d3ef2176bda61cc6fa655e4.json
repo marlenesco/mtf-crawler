@@ -1,0 +1,57 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/330"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.395045Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:34.165887Z",
+      "file_path": "data/raw/300c77a70ecef6e37b4cc575da241107f7b20dd23f02ebd3675b43c88453415c_pc-abs-polymaker.xlsx",
+      "file_size": 307065,
+      "file_type": ".xlsx",
+      "filename": "pc-abs-polymaker.xlsx",
+      "sha256_hash": "300c77a70ecef6e37b4cc575da241107f7b20dd23f02ebd3675b43c88453415c",
+      "source_post_url": "https://www.mytechfun.com/video/330",
+      "url": "https://www.mytechfun.com/download/330/pc-abs-polymaker.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "ABS Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "300c77a70ecef6e37b4cc575da241107f7b20dd23f02ebd3675b43c88453415c"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Polymaker PC-ABS filament review - if you can print it, it's great for mechanical parts Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Polymaker PC-ABS filament review - if you can print it, it's great for mechanical parts Title: Polymaker PC-ABS filament review - if you can print it, it's great for mechanical parts. Watch on youtube: https://youtu.be/oLCdLYjX6uI Tags: 3dprint , polymaker , material test , PC-ABS is a Polycarbonate and ABS polymer blend which offers excellent toughness and temperature resistance (confirmed in this video too). According to specifications, it requires heated chamber of 90-100°C, but I was able to print it at 65°C (the max on Qidi X-Max 3). PC-ABS product page (affiliate link): https://us.polymaker.com/products/polymaker-pc-abs?aff=49 Printed on Qidi X-Max 3, review video: https://youtu.be/c6FHnzfGUno Qidi product page: https://shrsl.com/4ba0z Qidi X-Plus 3 (similar performace but smaller volume): https://shrsl.com/4ba11 Contents: 0:00 Introduction 1:11 Unboxing 145 Temperature tower 3:34 Printing test objects 4:51 Tensile (pulling) test 5:04 Layer adhesion test 6:09 Shear test 6:21 Bending test 6:45 Torque (twist) test 7:00 Impact test 8:48 Temperature test 9:29 Hardness 9:41 Creep test 10:11 Results 14:16 Conclusions #3dprinting #polymaker #filament #qidi Download files: pc-abs-polymaker.xlsx 307.1 kB",
+    "download_timestamp": "2025-10-03T14:23:31.323227Z",
+    "manufacturer_links": [
+      "https://us.polymaker.com/products/polymaker-pc-abs?aff=49"
+    ],
+    "post_hash": "7e67d2ff31a19e09c9ff23736fbbb7d83b2761813d3ef2176bda61cc6fa655e4",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/330",
+    "youtube_link": "https://youtu.be/oLCdLYjX6uI"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.395031Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "7e67d2ff31a19e09c9ff23736fbbb7d83b2761813d3ef2176bda61cc6fa655e4",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/330",
+    "storage_key": "7e67d2ff31a19e09"
+  }
+}

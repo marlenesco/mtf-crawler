@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/416"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.388486Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:24.865258Z",
+      "file_path": "data/raw/6ba06dab4505dcfc7a193133115f372c42db9d789b1cfc8cc51784d3fa460470_bambulab-asa-cf.xlsx",
+      "file_size": 340217,
+      "file_type": ".xlsx",
+      "filename": "bambulab-asa-cf.xlsx",
+      "sha256_hash": "6ba06dab4505dcfc7a193133115f372c42db9d789b1cfc8cc51784d3fa460470",
+      "source_post_url": "https://www.mytechfun.com/video/416",
+      "url": "https://www.mytechfun.com/download/416/bambulab-asa-cf.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "ASA Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "6ba06dab4505dcfc7a193133115f372c42db9d789b1cfc8cc51784d3fa460470"
+    }
+  ],
+  "post": {
+    "cleaned_text": "BambuLab ASA-CF filament test - Is it better than regular ASA? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About BambuLab ASA-CF filament test - Is it better than regular ASA? Title: BambuLab ASA-CF filament test - Is it better than regular ASA?. Watch on youtube: https://youtu.be/oeZ2pGNoobE Tags: 3dprint , material test , bambulab , asa , BambuLab ASA is a great material, but if we add some carbon fibers, will it be better? ASA-CF filament is available in black color and in this video, results will be compared to non-reinforced version. Product links (affiliate): ASA-CF: https://shrsl.com/4r4gw Printed on BambuLab X1C: https://shrsl.com/4r4gy Contents: 0:00 Introduction 1:04 Specifications 2:29 Unboxing 3:23 Slicer 3:36 3D printing 3:59 Shrinking 4:13 Tensile test 4:21 Layer adhesion test 5:25 Shear test 5:49 Torque (twist) test 6:05 Bending test 6:25 Temperature test 6:55 Impact test 7:16 Creep test 7:59 Results 10:42 Practical example 11:32 Conclusions #3dprinting #bambulab Download files: bambulab-asa-cf.xlsx 340.2 kB",
+    "download_timestamp": "2025-10-03T14:23:08.245698Z",
+    "manufacturer_links": [],
+    "post_hash": "2cb55de20be128872ff5f51a2eab9dfa50913ee93fe1e222d9dafa4d3a1d9940",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/416",
+    "youtube_link": "https://youtu.be/oeZ2pGNoobE"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.388476Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "2cb55de20be128872ff5f51a2eab9dfa50913ee93fe1e222d9dafa4d3a1d9940",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/416",
+    "storage_key": "2cb55de20be12887"
+  }
+}

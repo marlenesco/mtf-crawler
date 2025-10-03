@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/143"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.404342Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:47.193935Z",
+      "file_path": "data/raw/633b73564b991e3274c51eb69055f9203b9a7aa708ffd1f76140a7fa0ef739a7_creep-test-results-v2.xlsx",
+      "file_size": 29741,
+      "file_type": ".xlsx",
+      "filename": "creep-test-results-v2.xlsx",
+      "sha256_hash": "633b73564b991e3274c51eb69055f9203b9a7aa708ffd1f76140a7fa0ef739a7",
+      "source_post_url": "https://www.mytechfun.com/video/143",
+      "url": "https://www.mytechfun.com/download/143/creep-test-results-v2.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "creep-test-results-v2",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "633b73564b991e3274c51eb69055f9203b9a7aa708ffd1f76140a7fa0ef739a7"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Creep test with 3D printed plastic materials: PLA, PETG, ASA, Nylon Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Creep test with 3D printed plastic materials: PLA, PETG, ASA, Nylon Title: Creep test with 3D printed plastic materials: PLA, PETG, ASA, Nylon. Watch on youtube: https://youtu.be/88pk2cNOeGE Tags: 3dprint , strength test , material test , creep test , Material creep is the tendency of a solid material to deform permanently under the influence of constant mechanical load. In this creep test I am comparing 4 different 3D printing filaments (PLA, PETG, ASA, Nylon) to better understand their behavior under constant load over a longer period of time. I prepared 3 different creep tests, but I am opened for suggestions, how to improve them. One of my next videos will be a comparison of 4 different ABS filaments, to find out which is the best for 3D printed Voron parts. Used materials and methods: Creality enclosure https://www.banggood.com/custlink/3KKEFjewOn Torque wrench (set to 2.5 Nm) https://www.banggood.com/custlink/mD3dgBK0Kc Filaments: PLA, PETG, ASA (Prusa) and Nylon (Gembird) Creality dryer: https://www.banggood.com/custlink/KvGhg5VKJr Eibos https://shop.eibos3d.com/ Test specimens are 3D printed on Prusa MK3s. Results, STL files, drawings, 2D scale can be downloaded below this text. Mentioned in the video: Screw test idea I got from video by Stefan from @CNC Kitchen . Tensile testing machine: https://youtu.be/GLOx139IB0s Creep test machines: http://www.kormtm.com/mtm/creep_testing_iso_899 Contents: 0:00 Introduction 0:21 What is material creep? 1:23 About tested materials 2:26 About tensile creep test 3:08 About 3 point bending test 3:35 About Test 1 (C-test specimen) 4:40 About Test 2 (2 point bending) 5:38 About Test 3 (screw test) 7:44 Starting with Test 1 9:31 Starting with Test 2 10:53 Starting with Test 3 13:06 After 10 hours 14:26 After 24h 14:55 Day 2 18:24 Day 4 20:21 Heating (Day 4) 25:07 Day 6 27:18 Removing the load 28:07 Analyzing the results 30:02 Conclusions about materials 31:24 About my creep tests #creeptest #materialcreep #3dprinting #3dprintingfilaments Download files: creep-holder.zip 69.9 kB creep-test-results-v2.xlsx 29.7 kB creep-test-results.png 89.4 kB creep-test-scale.pdf 114.1 kB pointer-for-m5-screw.stl 70 kB [ View» ] test1-c-specimen.stl 60.3 kB [ View» ] test2-100x10mm.stl 1.7 kB [ View» ] test3-40x10x16.stl 64.3 kB [ View» ]",
+    "download_timestamp": "2025-10-03T14:24:03.477917Z",
+    "manufacturer_links": [],
+    "post_hash": "726afe8b23ff8e721797911c02fffe105de80f5ccb00292ea4d5a0c26587f849",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/143",
+    "youtube_link": "https://youtu.be/88pk2cNOeGE"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.404333Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "726afe8b23ff8e721797911c02fffe105de80f5ccb00292ea4d5a0c26587f849",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/143",
+    "storage_key": "726afe8b23ff8e72"
+  }
+}

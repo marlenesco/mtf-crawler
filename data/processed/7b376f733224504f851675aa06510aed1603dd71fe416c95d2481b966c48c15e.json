@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/234"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.399536Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "PPprint - a solution for 3D printing with PolyPropylene? Let's find out.. Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About PPprint - a solution for 3D printing with PolyPropylene? Let's find out.. Title: PPprint - a solution for 3D printing with PolyPropylene? Let's find out... Watch on youtube: https://youtu.be/qG9irxCHVBU Tags: 3dprint , material test , PPprint offers a solutions for reliable 3D printing of high-quality polypropylene parts. This video is a review of their test-kit. https://www.ppprint.de/en/produkt/ppprint-test-kit/ Contents: 0:00 Introduction 0:58 Unboxing 2:35 About test object 2:47 Preparing the printer 3:52 3D printing 5:13 The test #polypropylene #ppprint #3dprinting Download files: No downloadable files for this video.",
+    "download_timestamp": "2025-10-03T14:23:48.414869Z",
+    "manufacturer_links": [],
+    "post_hash": "7b376f733224504f851675aa06510aed1603dd71fe416c95d2481b966c48c15e",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/234",
+    "youtube_link": "https://youtu.be/qG9irxCHVBU"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.399531Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "7b376f733224504f851675aa06510aed1603dd71fe416c95d2481b966c48c15e",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/234",
+    "storage_key": "7b376f733224504f"
+  }
+}

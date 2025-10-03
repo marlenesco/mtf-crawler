@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/123"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.405315Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "Creality filament review, part 2: mechanical tests (PLA, SILK, PETG, TPU, ABS, Carbon) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Creality filament review, part 2: mechanical tests (PLA, SILK, PETG, TPU, ABS, Carbon) Title: Creality filament review, part 2: mechanical tests (PLA, SILK, PETG, TPU, ABS, Carbon). Watch on youtube: https://youtu.be/QBZOp1oNi34 Tags: 3dprint , creality , strength test , material test , This is the second part of my Creality filament review, in this part you can see mechanical tests of CR-PLA, CR-SILK, CR-PETG, CR-TPU, CR-ABS and CR-Carbon (enhanced version, Nylon carbon fiber). PLA, PETG and ABS filaments I bought myself. TPU, SILK and Carbon filaments are sent to me by Creality. In part 1 you can see the unboxing, 3D printing, temperature towers, settings: https://youtu.be/YI9dcCAQV1A CR-TPU : https://vip.creality.com/en/goods-detail/191 CR-Carbon (enhanced version): https://vip.creality.com/en/goods-detail/193 CR-Silk: https://vip.creality.com/en/goods-detail/10 CR-ABS: https://vip.creality.com/en/goods-detail/188 CR-PETG: https://vip.creality.com/en/goods-detail/7 CR-PLA: https://vip.creality.com/en/goods-detail/3 Other Creality videos: https://www.mytechfun.com/videos/creality Density website for unit conversion: https://kg-m3.com/convert/ Contents: 0:00 Introduction 0:40 Layer adhesion test 2:29 Tensile test 4:19 Shear test 6:19 Density 7:19 Bending test 9:24 Torque (twist) test 13:45 Impact test 16:28 Temperature test 18:05 Results and conclusions #creality #crealityfilaments #3dprinting Download files: results-creality-filaments.png 131.7 kB",
+    "download_timestamp": "2025-10-03T14:24:06.484078Z",
+    "manufacturer_links": [],
+    "post_hash": "d9a58658c4cb4350e3f1e183d40d20880ec6fdaaced9b0a107f75f52cd9c1a34",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/123",
+    "youtube_link": "https://youtu.be/QBZOp1oNi34"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.405299Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "d9a58658c4cb4350e3f1e183d40d20880ec6fdaaced9b0a107f75f52cd9c1a34",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/123",
+    "storage_key": "d9a58658c4cb4350"
+  }
+}

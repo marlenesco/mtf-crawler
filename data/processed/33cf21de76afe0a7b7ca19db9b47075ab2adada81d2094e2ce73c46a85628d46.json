@@ -1,0 +1,57 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/216"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.400377Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:42.536203Z",
+      "file_path": "data/raw/55914fdf6413760ecf58512509601b5f5e120d037c739a070c5d94d4934b567d_prusament-pc-blend-cf.xlsx",
+      "file_size": 81003,
+      "file_type": ".xlsx",
+      "filename": "prusament-pc-blend-cf.xlsx",
+      "sha256_hash": "55914fdf6413760ecf58512509601b5f5e120d037c739a070c5d94d4934b567d",
+      "source_post_url": "https://www.mytechfun.com/video/216",
+      "url": "https://www.mytechfun.com/download/216/prusament-pc-blend-cf.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PC Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "55914fdf6413760ecf58512509601b5f5e120d037c739a070c5d94d4934b567d"
+    }
+  ],
+  "post": {
+    "cleaned_text": "About Prusament Carbon Fiber PC blend layer adhesion Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About About Prusament Carbon Fiber PC blend layer adhesion Title: About Prusament Carbon Fiber PC blend layer adhesion. Watch on youtube: https://youtu.be/_N1MTWGqriI Tags: 3dprint , strength test , material test , prusament , In my previous video I tested Prusament carbon fiber PC blend, the weakest mechanical property was the layer adhesion. I followed useful comments and I reprinted those test object for the layer adhesion. The improvement is significant! Previous video: https://youtu.be/sAkJbYNPCpo Tested filament: https://prusament.com/materials/prusament-pc-blend-carbon-fiber/ Contents: 0:00 Introduction 1:34 Test 1 (295C objects) 2:20 Test 2 (285C objects) 3:01 Results 3:31 Conclusions #prusament #carbonfiber #3dprinting #pcblend Download files: prusament-pc-blend-cf.xlsx 81 kB",
+    "download_timestamp": "2025-10-03T14:23:51.415340Z",
+    "manufacturer_links": [
+      "https://prusament.com/materials/prusament-pc-blend-carbon-fiber/"
+    ],
+    "post_hash": "33cf21de76afe0a7b7ca19db9b47075ab2adada81d2094e2ce73c46a85628d46",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/216",
+    "youtube_link": "https://youtu.be/_N1MTWGqriI"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.400368Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "33cf21de76afe0a7b7ca19db9b47075ab2adada81d2094e2ce73c46a85628d46",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/216",
+    "storage_key": "33cf21de76afe0a7"
+  }
+}

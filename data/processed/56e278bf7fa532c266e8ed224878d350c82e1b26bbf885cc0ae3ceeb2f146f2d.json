@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/254"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.397480Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:38.155478Z",
+      "file_path": "data/raw/50bd1b7a8203836814561fb03ed472d4da8542b7d245cf084becc5bd0b8f97c7_results-3do-asa.xlsx",
+      "file_size": 301171,
+      "file_type": ".xlsx",
+      "filename": "results-3do-asa.xlsx",
+      "sha256_hash": "50bd1b7a8203836814561fb03ed472d4da8542b7d245cf084becc5bd0b8f97c7",
+      "source_post_url": "https://www.mytechfun.com/video/254",
+      "url": "https://www.mytechfun.com/download/254/results-3do-asa.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "ASA Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "50bd1b7a8203836814561fb03ed472d4da8542b7d245cf084becc5bd0b8f97c7"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Carbon Fiber ASA vs regular ASA by 3DO Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Carbon Fiber ASA vs regular ASA by 3DO Title: Carbon Fiber ASA vs regular ASA by 3DO. Watch on youtube: https://youtu.be/psYHUXrNGUY Tags: 3dprint , 3do , material test , asa , Let's compare carbon fiber ASA with regular ASA, mostly from mechanical strength aspect. Filaments are sent by 3DO. Direct links to tested products: ASA: https://3do.eu/asa/580-879-asa-3do-asa-1kg-grey.html#/84-colour-grey CF ASA: https://3do.eu/asa/631-979-asa-3do-asa-cf-1kg-carbon-fiber.html#/82-colour-carbon_black Download results below this text. 0:00 Introduction 2:08 Unboxing 2:33 Preparing for 3D printing 3:50 3D printing with ASA 6:19 3D printing with Carbon Fiber ASA 8:34 Tensile (pulling) test 9:26 Layer adhesion test 9:56 Bending test 10:42 Shear test 11:06 Torque test 11:35 IZOD impact test 12:33 Creep test 13:49 Temperature test 14:32 3D printing with 0.3mm layer height 15:16 3D printing with 0.4mm nozzle 16:05 Results 19:04 Conclusions #asafilament #3dprinting #carbonfiberfilament #3do Download files: results-3do-asa.xlsx 301.2 kB",
+    "download_timestamp": "2025-10-03T14:23:41.353183Z",
+    "manufacturer_links": [],
+    "post_hash": "56e278bf7fa532c266e8ed224878d350c82e1b26bbf885cc0ae3ceeb2f146f2d",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/254",
+    "youtube_link": "https://youtu.be/psYHUXrNGUY"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.397471Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "56e278bf7fa532c266e8ed224878d350c82e1b26bbf885cc0ae3ceeb2f146f2d",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/254",
+    "storage_key": "56e278bf7fa532c2"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/424"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.386904Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:22.938002Z",
+      "file_path": "data/raw/a99179021fc00b8064d2b94591158904cbe7905890f59cb572ef4da49f8f2c25_siraya-abs-gf-asa-gf.xlsx",
+      "file_size": 379904,
+      "file_type": ".xlsx",
+      "filename": "siraya-abs-gf-asa-gf.xlsx",
+      "sha256_hash": "a99179021fc00b8064d2b94591158904cbe7905890f59cb572ef4da49f8f2c25",
+      "source_post_url": "https://www.mytechfun.com/video/424",
+      "url": "https://www.mytechfun.com/download/424/siraya-abs-gf-asa-gf.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "ABS Material",
+      "normalized_values": {
+        "settings": {
+          "original_unit": "kg 30\"",
+          "original_value": 10.0,
+          "unit": "kg 30\"",
+          "value": 10.0
+        }
+      },
+      "original_values": {
+        "settings": 10.0
+      },
+      "properties": {
+        "settings": 10.0
+      },
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "a99179021fc00b8064d2b94591158904cbe7905890f59cb572ef4da49f8f2c25"
+    }
+  ],
+  "post": {
+    "cleaned_text": "ABS-GF vs ASA-GF by Siraya Tech: Which Filament Performs Better? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About ABS-GF vs ASA-GF by Siraya Tech: Which Filament Performs Better? Title: ABS-GF vs ASA-GF by Siraya Tech: Which Filament Performs Better?. Watch on youtube: https://youtu.be/hxBlspx0V0U Tags: 3dprint , material test , abs , asa , siraya , PET-CF filament is significantly stronger compared to PETG-CF filaments. But those carbon fibers helps with printability. As result, we have a great and temperature resistant technical filament. Chapters: 0:00 Introduction 1:31 Unboxing 2:16 Drying 2:40 Settings 2:52 3D printing 3:31 Benchy 3:55 Tensile and layer adhesion 4:26 Shear test 4:54 Twist test 5:22 Temperature test 6:16 Impact test 6:43 Bending test 7:34 Creep test 8:47 Results 9:06 Conclusions #3dprinting #petcf #siraya Download files: siraya-abs-gf-asa-gf.xlsx 379.9 kB",
+    "download_timestamp": "2025-10-03T14:23:01.217379Z",
+    "manufacturer_links": [],
+    "post_hash": "f072df86acb3f34fd5af84e8248febc382a0f500e520252621212427cf501d40",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/424",
+    "youtube_link": "https://youtu.be/hxBlspx0V0U"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.386892Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "f072df86acb3f34fd5af84e8248febc382a0f500e520252621212427cf501d40",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/424",
+    "storage_key": "f072df86acb3f34f"
+  }
+}

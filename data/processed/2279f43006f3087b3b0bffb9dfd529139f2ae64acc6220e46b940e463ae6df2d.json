@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/106"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.407583Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "eSun Standard vs Hard-Tough resin - mechanical tests Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About eSun Standard vs Hard-Tough resin - mechanical tests Title: eSun Standard vs Hard-Tough resin - mechanical tests. Watch on youtube: https://youtu.be/jujHp5crU2U Tags: 3dprint , strength test , sla 3d printing , esun , material test , In this experiment I will compare eSun Standard vs Hard-Tough resin. Few weeks ago I tested eSun PLA filaments and since I am using same test specimens, results are comparable with each other. Used resins: https://www.esun3d.net/Products/Standard-Resin https://www.esun3d.net/Products/Hard-Tough-Resin Test specimens and results (in PDF) can be downloaded below this text. Contents: 0:00 Introduction 1:05 Tensile test 1:45 Shear test 2:31 Bending test 3:45 Torque test 5:21 Impact test 6:31 Bonus impact test 7:02 Conclusions #esunresin #sla3dprinting Download files: bending.stl 0.7 kB [ View» ] esun_resin_results.pdf 132.3 kB izod_specimen.stl 9.3 kB [ View» ] shear_5mm.stl 102.1 kB [ View» ] tensile.stl 62.7 kB [ View» ] twist.stl 83.9 kB [ View» ]",
+    "download_timestamp": "2025-10-03T14:24:12.514850Z",
+    "manufacturer_links": [],
+    "post_hash": "2279f43006f3087b3b0bffb9dfd529139f2ae64acc6220e46b940e463ae6df2d",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/106",
+    "youtube_link": "https://youtu.be/jujHp5crU2U"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.407575Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "2279f43006f3087b3b0bffb9dfd529139f2ae64acc6220e46b940e463ae6df2d",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/106",
+    "storage_key": "2279f43006f3087b"
+  }
+}

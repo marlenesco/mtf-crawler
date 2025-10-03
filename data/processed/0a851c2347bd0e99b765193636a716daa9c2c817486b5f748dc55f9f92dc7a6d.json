@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/398"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.390832Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:29.282409Z",
+      "file_path": "data/raw/73795ea9f9fed3cda1098c4b94443a5ffc041f180592150b402914c1312e39f9_asa-10x.xlsx",
+      "file_size": 234394,
+      "file_type": ".xlsx",
+      "filename": "asa-10x.xlsx",
+      "sha256_hash": "73795ea9f9fed3cda1098c4b94443a5ffc041f180592150b402914c1312e39f9",
+      "source_post_url": "https://www.mytechfun.com/video/398",
+      "url": "https://www.mytechfun.com/download/398/asa-10x.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "ASA Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "73795ea9f9fed3cda1098c4b94443a5ffc041f180592150b402914c1312e39f9"
+    }
+  ],
+  "post": {
+    "cleaned_text": "What is the best ASA filament? 10 different ASA brands tested Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About What is the best ASA filament? 10 different ASA brands tested Title: What is the best ASA filament? 10 different ASA brands tested. Watch on youtube: https://youtu.be/GfG65ypKTPE Tags: 3dprint , asa , material test , Everything is printed on BambuLab X1C (except the warping test, it's printed on P1P) The test includes: tensile testing, layer adhesion, bending, shrinking, creep, temperature resistance, warping test and impact strength. Mentioned in the video: Similar testing with 16 PLA filament brands: https://youtu.be/spCtiX4b3ds 10 PETG brands: https://youtu.be/WRGQ1MBp30A ASA density: https://kg-m3.com/material/asa-acrylonitrile-styrene-acrylate PETG density: https://kg-m3.com/material/petg-polyethylene-terephthalate-glycol Chapters: 0:00 Introduction to ASA 0:52 Testing methods 1:57 Tested ASA filaments 2:43 Slicer, settings 3:02 3D printing 4:09 Creep test 6:31 Shrinking 6:53 Mass (weight) 7:36 Impact test 8:52 Tensile test 9:37 Layer adhesion test 10:22 Warping test 11:55 Temperature test 12:22 Bending test 13:43 Results 15:22 The Best ASA filament 16:21 Final thoughts #3dprinting #asa Download files: asa-10x.xlsx 234.4 kB",
+    "download_timestamp": "2025-10-03T14:23:18.294607Z",
+    "manufacturer_links": [],
+    "post_hash": "0a851c2347bd0e99b765193636a716daa9c2c817486b5f748dc55f9f92dc7a6d",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/398",
+    "youtube_link": "https://youtu.be/GfG65ypKTPE"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.390822Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "0a851c2347bd0e99b765193636a716daa9c2c817486b5f748dc55f9f92dc7a6d",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/398",
+    "storage_key": "0a851c2347bd0e99"
+  }
+}

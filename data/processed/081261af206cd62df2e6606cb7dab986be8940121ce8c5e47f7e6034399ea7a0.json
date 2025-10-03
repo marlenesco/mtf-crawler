@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/419"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.388048Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:24.154403Z",
+      "file_path": "data/raw/4e375ef6950f91c35bab93193c6de63c55a95b4e374c43227cdf96953b23a741_jlc-sla-sls.xlsx",
+      "file_size": 420889,
+      "file_type": ".xlsx",
+      "filename": "jlc-sla-sls.xlsx",
+      "sha256_hash": "4e375ef6950f91c35bab93193c6de63c55a95b4e374c43227cdf96953b23a741",
+      "source_post_url": "https://www.mytechfun.com/video/419",
+      "url": "https://www.mytechfun.com/download/419/jlc-sla-sls.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "jlc-sla-sls",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "4e375ef6950f91c35bab93193c6de63c55a95b4e374c43227cdf96953b23a741"
+    }
+  ],
+  "post": {
+    "cleaned_text": "SLA vs SLS 3D printing (JLC Black Resin vs Nylon) by JLC3DP Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About SLA vs SLS 3D printing (JLC Black Resin vs Nylon) by JLC3DP Title: SLA vs SLS 3D printing (JLC Black Resin vs Nylon) by JLC3DP. Watch on youtube: https://youtu.be/E6niY8MtkM4 Tags: 3dprint , material test , sla , sls , Download files: jlc-sla-sls.xlsx 420.9 kB",
+    "download_timestamp": "2025-10-03T14:23:06.216301Z",
+    "manufacturer_links": [],
+    "post_hash": "081261af206cd62df2e6606cb7dab986be8940121ce8c5e47f7e6034399ea7a0",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/419",
+    "youtube_link": "https://youtu.be/E6niY8MtkM4"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.388037Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "081261af206cd62df2e6606cb7dab986be8940121ce8c5e47f7e6034399ea7a0",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/419",
+    "storage_key": "081261af206cd62d"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/107"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.407307Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "BIQU PLA MATTLE - mechanical test Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About BIQU PLA MATTLE - mechanical test Title: BIQU PLA MATTLE - mechanical test. Watch on youtube: https://youtu.be/6O7udh1fh1w Tags: 3dprint , biqu , strength test , material test , BIQU sent me one spool of PLA MATTLE filament. Since on box it mention that it has good mechanical properties, I tested the filament from this aspect. I used my standard test specimens, so the results are comparable with those in my previous videos. They can be found over this link: https://www.mytechfun.com/videos/strength_test Do you like my work? Contents: 0:00 Introduction 0:47 Unboxing 2:09 Temperature tower 3:39 3D printing test specimens 4:39 Tensile test 5:27 Layer adhesion test 5:55 Shear stress 6:30 Bending test 7:10 Torque test 8:21 Impact test 9:13 Temperature test 9:57 Layer adhesion test (235C) 10:56 Conclusions #biqu #filamenttest #plafilament #3dprinting Download files: biqu_pla_results.pdf 130.5 kB",
+    "download_timestamp": "2025-10-03T14:24:11.494342Z",
+    "manufacturer_links": [],
+    "post_hash": "65180fa324947a11140b65ca9e2c95bee00392c709c0e0b2de037c7d584439ee",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/107",
+    "youtube_link": "https://youtu.be/6O7udh1fh1w"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.407300Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "65180fa324947a11140b65ca9e2c95bee00392c709c0e0b2de037c7d584439ee",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/107",
+    "storage_key": "65180fa324947a11"
+  }
+}

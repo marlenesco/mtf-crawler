@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/318"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.395719Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:35.158723Z",
+      "file_path": "data/raw/e19f953670eba7594890550209e50271a6f62175d561966ac6ff1d9e51ed9fb2_creality-hyper-pla.xlsx",
+      "file_size": 329193,
+      "file_type": ".xlsx",
+      "filename": "creality-hyper-pla.xlsx",
+      "sha256_hash": "e19f953670eba7594890550209e50271a6f62175d561966ac6ff1d9e51ed9fb2",
+      "source_post_url": "https://www.mytechfun.com/video/318",
+      "url": "https://www.mytechfun.com/download/318/creality-hyper-pla.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "PLA Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "e19f953670eba7594890550209e50271a6f62175d561966ac6ff1d9e51ed9fb2"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Creality Hyper PLA filament review, designed for faster printing Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Creality Hyper PLA filament review, designed for faster printing Title: Creality Hyper PLA filament review, designed for faster printing. Watch on youtube: https://youtu.be/Z54wkhQ-jLg Tags: 3dprint , creality , material test , Results (download link below this text) Contents: 0:00 Introduction 1:30 Unboxing 1:53 3D printing 3:59 CR-PLA 3D printing 4:40 Layer adhesion test 5:17 Hook test 5:51 Tensile test 6:05 Shear test 6:19 Twist test 6:41 Impact test 7:10 Bending test 7:45 Temperature test 8:18 Creep test 9:05 Results 12:26 Conclusions #3dprinting #creality #pla #plafilament Download files: creality-hyper-pla.xlsx 329.2 kB",
+    "download_timestamp": "2025-10-03T14:23:33.350756Z",
+    "manufacturer_links": [],
+    "post_hash": "1e16d20587763851b1594bc3216c06e45b9178c11bdfb3d8cad9c9b9be287ada",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/318",
+    "youtube_link": "https://youtu.be/Z54wkhQ-jLg"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.395708Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "1e16d20587763851b1594bc3216c06e45b9178c11bdfb3d8cad9c9b9be287ada",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/318",
+    "storage_key": "1e16d20587763851"
+  }
+}

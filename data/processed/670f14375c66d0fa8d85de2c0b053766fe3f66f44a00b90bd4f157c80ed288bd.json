@@ -1,0 +1,58 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/293"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.396610Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:36.475131Z",
+      "file_path": "data/raw/843bc49aaca361f6430bd5b2467d307673500e90622ad30febabfdd7a8d4cc92_esun--tpu95-results.xlsx",
+      "file_size": 79385,
+      "file_type": ".xlsx",
+      "filename": "esun--tpu95-results.xlsx",
+      "sha256_hash": "843bc49aaca361f6430bd5b2467d307673500e90622ad30febabfdd7a8d4cc92",
+      "source_post_url": "https://www.mytechfun.com/video/293",
+      "url": "https://www.mytechfun.com/download/293/esun--tpu95-results.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "TPU Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "843bc49aaca361f6430bd5b2467d307673500e90622ad30febabfdd7a8d4cc92"
+    }
+  ],
+  "post": {
+    "cleaned_text": "eSun eTPU-95A vs eTPU-Antibacteria (new name eTPU-HT) - flex filament comparison Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About eSun eTPU-95A vs eTPU-Antibacteria (new name eTPU-HT) - flex filament comparison Title: eSun eTPU-95A vs eTPU-Antibacteria (new name eTPU-HT) - flex filament comparison. Watch on youtube: https://youtu.be/gfqou3Fr5gI Tags: 3dprint , esun , material test , tpu , Direct comparison of eSun TPU filaments: eTPU-95A (regular TPU) vs antibacterial version with start name of eTPU-Antibacteria, later the name was changed to eTPU-HT. eTPU-Antibacteria (or now eTPU-HT): https://www.esun3d.com/etpu-antibacteria-product/ eTPU-95A: https://www.esun3d.com/etpu-95a-product/ Food safe related videos: https://www.mytechfun.com/videos/food Results download from bottom of this page. Contents: 0:00 Introduction 1:49 Unboxing 2:32 eTPU-95A 3D printing 3:49 eTPU-Antibacteria 3D printing 6:12 Mechanical tests 10:52 Bacterial testing 12:10 Mold test 12:50 Temperature test 13:40 Results 15:37 Conclusions #3dprinting #esun #filament #flexfilament #tpufilament Download files: esun--tpu95-results.xlsx 79.4 kB",
+    "download_timestamp": "2025-10-03T14:23:37.361296Z",
+    "manufacturer_links": [
+      "https://www.esun3d.com/etpu-antibacteria-product/",
+      "https://www.esun3d.com/etpu-95a-product/"
+    ],
+    "post_hash": "670f14375c66d0fa8d85de2c0b053766fe3f66f44a00b90bd4f157c80ed288bd",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/293",
+    "youtube_link": "https://youtu.be/gfqou3Fr5gI"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.396601Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "670f14375c66d0fa8d85de2c0b053766fe3f66f44a00b90bd4f157c80ed288bd",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/293",
+    "storage_key": "670f14375c66d0fa"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/75"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.408933Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [],
+  "materials": [],
+  "post": {
+    "cleaned_text": "Additional info to Siraya Blu vs PETG video - strength after 200°C temperature test Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Additional info to Siraya Blu vs PETG video - strength after 200°C temperature test Title: Additional info to Siraya Blu vs PETG video - strength after 200°C temperature test. Watch on youtube: https://youtu.be/2eMKx1d8Jjo Tags: 3dprint , siraya , fdm vs sla , strength test , sla 3d printing , material test , This is just small additional info to my previous video (Siraya Blu vs PETG 3D printed bolts and nuts). Several comments asked me to test those bolts after temperature test. This is just a preliminary test, to see is it worth it to do some additional experiments in this topic. Results just confused me, so far I don't plan to do more tests based on this. The previous video: https://youtu.be/7r16-UDo2t4 Used material for M6x20 bolts: Siraya Blu printed on Elegoo Mars and Photon S Elegoo Water Washable Photopolymer resin printed on Elegoo Mars All videos in this topic (FDM vs SLA): https://www.mytechfun.com/videos/fdm_vs_sla Download files: No downloadable files for this video.",
+    "download_timestamp": "2025-10-03T14:24:17.498132Z",
+    "manufacturer_links": [],
+    "post_hash": "ed5b193f1ec0ccba11b80255f169770c01184ee744b96554f983fe19c29a41bd",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/75",
+    "youtube_link": "https://youtu.be/2eMKx1d8Jjo"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.408927Z",
+    "file_count": 0,
+    "material_count": 0,
+    "sha256_hash": "ed5b193f1ec0ccba11b80255f169770c01184ee744b96554f983fe19c29a41bd",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/75",
+    "storage_key": "ed5b193f1ec0ccba"
+  }
+}

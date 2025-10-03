@@ -1,0 +1,55 @@
+{
+  "_licensing": {
+    "attribution": "Data © MyTechFun – Dr. Igor Gaspar, CC BY 4.0",
+    "license": "CC BY 4.0",
+    "source_url": "https://www.mytechfun.com/video/333"
+  },
+  "_metadata": {
+    "constitutional_compliance_verified": true,
+    "generated_at": "2025-10-03T14:37:42.394689Z",
+    "generator": "mtf-crawler/1.0.0",
+    "schema_version": "1.0.0"
+  },
+  "files": [
+    {
+      "download_timestamp": "2025-10-03T14:24:33.641968Z",
+      "file_path": "data/raw/81b2760610a1faa1fedfacd5c1023c29483f89dbfd99ea628c1529d93c1ae2b4_extrudr-tpu-results.xlsx",
+      "file_size": 184107,
+      "file_type": ".xlsx",
+      "filename": "extrudr-tpu-results.xlsx",
+      "sha256_hash": "81b2760610a1faa1fedfacd5c1023c29483f89dbfd99ea628c1529d93c1ae2b4",
+      "source_post_url": "https://www.mytechfun.com/video/333",
+      "url": "https://www.mytechfun.com/download/333/extrudr-tpu-results.xlsx"
+    }
+  ],
+  "materials": [
+    {
+      "brand": null,
+      "material_name": "TPU Material",
+      "normalized_values": {},
+      "original_values": {},
+      "properties": {},
+      "quality_rating": "WARN",
+      "sheet_position": null,
+      "source_file_hash": "81b2760610a1faa1fedfacd5c1023c29483f89dbfd99ea628c1529d93c1ae2b4"
+    }
+  ],
+  "post": {
+    "cleaned_text": "Ultimate TPU filament test: Extrudr TPU 4x (Hard CF, Hard, Medium, Semi soft) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Ultimate TPU filament test: Extrudr TPU 4x (Hard CF, Hard, Medium, Semi soft) Title: Ultimate TPU filament test: Extrudr TPU 4x (Hard CF, Hard, Medium, Semi soft). Watch on youtube: https://youtu.be/zGSqNH92JqQ Tags: 3dprint , extrudr , material test , tpu filament , Test of all 4 Extrudr TPU filaments: - Hard reinforced with carbon fibers (58D), - Flex Hard (58D), - Medium (98A) and - Semi soft (85A). Extrudr TPU filaments (not affiliate link): https://www.extrudr.com/en/products/catalogue/?material=115 For the CF version I used 0.6mm hardened nozzle it is printed on Prusa MK3S. Other 3 TPU materials were printed on newly assembled Prusa MK4. I noticed that it is very important to dry the filament (even if it is out of the box), but for this any cheap filament dryer is good enough (I used eSun eBox for this) Results you can download below this text. Contents: 0:00 Introduction 1:37 Hard CF 3D printing 6:04 Flex Hard 3D printing 7:52 Medium 3D printing 10:02 Semi soft 3D printing 12:15 Friction test 13:54 Tensile (pulling) test 14:29 Layer adhesion test 14:51 Ring (compression, bending) 15:17 Ring (pulling, bending) 16:13 Washer test 17:49 Creep test 18:27 Temperature test 19:26 Results 22:21 Conclusions #3dprinting #tpufilament #extrudr Download files: extrudr-tpu-results.xlsx 184.1 kB",
+    "download_timestamp": "2025-10-03T14:23:30.344346Z",
+    "manufacturer_links": [],
+    "post_hash": "0dee224e8da2f2587ca6884524a9eb6d90cdcf309ba54534c77649ae1dd14d57",
+    "title": "MyTechFun.com",
+    "url": "https://www.mytechfun.com/video/333",
+    "youtube_link": "https://youtu.be/zGSqNH92JqQ"
+  },
+  "provenance": {
+    "download_timestamp": "2025-10-03T14:37:42.394666Z",
+    "file_count": 1,
+    "material_count": 1,
+    "sha256_hash": "0dee224e8da2f2587ca6884524a9eb6d90cdcf309ba54534c77649ae1dd14d57",
+    "sheet_position": null,
+    "source_url": "https://www.mytechfun.com/video/333",
+    "storage_key": "0dee224e8da2f258"
+  }
+}
