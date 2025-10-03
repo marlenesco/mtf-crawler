@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.402219Z",
+    "generated_at": "2025-10-03T17:58:49.029137Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:43.865707Z",
+      "download_timestamp": "2025-10-03T17:56:34.497338Z",
       "file_path": "data/raw/82c71c1f26505990bd705b307280296c110f2688753fae4fe01448fecba853ab_filaticum-adv-eng.xlsx",
       "file_size": 51151,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "Best PLA for mechanical parts? Engineering PLA and PLA advanced by Filaticum Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Best PLA for mechanical parts? Engineering PLA and PLA advanced by Filaticum Title: Best PLA for mechanical parts? Engineering PLA and PLA advanced by Filaticum. Watch on youtube: https://youtu.be/uF2_ceBQ40Y Tags: 3dprint , filaticum , material test , This is the test of two very interesting materials, best PLA for mechanical parts I tested so far. Engineering PLA has great impact resistance and it starts to deform on temperatures near 150°C. The layer adhesion could be a little bit better. Advanced PLA has great layer adhesion and it should be more resistance to high temperatures compared to regular PLA. Product links: Engineering: https://filaticum.com/en/product/filaticum-engineering/ PLA advanced: https://filaticum.com/en/product/filaticum-pla-advanced/ Results in Excel table can be downloaded from https://www.mytechfun.com/video/211 All material test related videos: https://www.mytechfun.com/videos/material_test Contents: 0:00 Introduction 0:19 About PLA advanced 1:24 About Engineering PLA 3:14 PLA Advanced - 3D printing 5:58 Engineering PLA - 3D printing 9:47 Tensile test 10:30 Layer adhesion test 11:56 Shear stress test 12:18 Bending test 13:04 Torque (twist) test 13:46 IZOD impact test 14:30 Temperature test 15:48 Creep test (C-specimen bending) 17:49 Compression (screw) creep test 18:48 All results 22:05 Conclusions #filaticum #plafilament #3dprinting Download files: filaticum-adv-eng.xlsx 51.2 kB",
-    "download_timestamp": "2025-10-03T14:23:54.430202Z",
+    "download_timestamp": "2025-10-03T17:55:45.675618Z",
     "manufacturer_links": [],
     "post_hash": "13d22c2a7c674f6acad3637afc44be256777a2e3d3428b095c90ffbe7941093e",
-    "title": "MyTechFun.com",
+    "title": "Best PLA for mechanical parts? Engineering PLA and PLA advanced by Filaticum",
     "url": "https://www.mytechfun.com/video/211",
     "youtube_link": "https://youtu.be/uF2_ceBQ40Y"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.402207Z",
+    "download_timestamp": "2025-10-03T17:58:49.029126Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "13d22c2a7c674f6acad3637afc44be256777a2e3d3428b095c90ffbe7941093e",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/211",
     "storage_key": "13d22c2a7c674f6a"
-  }
+  },
+  "title": "Best PLA for mechanical parts? Engineering PLA and PLA advanced by Filaticum"
 }

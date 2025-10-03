@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.406730Z",
+    "generated_at": "2025-10-03T17:58:49.033097Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "eSun ePLA-LW (Lightweight PLA) for model airplanes - printability and strength tests Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About eSun ePLA-LW (Lightweight PLA) for model airplanes - printability and strength tests Title: eSun ePLA-LW (Lightweight PLA) for model airplanes - printability and strength tests. Watch on youtube: https://youtu.be/AYZ2owbaJK0 Tags: 3dprint , esun , strength test , material test , ePLA-LW is filament designed by eSun for drone parts or model airplanes since it's density may be less than half of the regular PLA. Density of the filament can be controlled by printing temperature. Above 220°C it starts foaming (expanding), so we can reduce extrusion rate, but the final volume will be the same. In this video I tested the printability and strength of this filament and compared to eSun PLA+. Link to product page: https://www.esun3d.net/products/500.html eSun PLA filaments test video: https://youtu.be/uDXgE7os0Pg All material testing videos: https://www.mytechfun.com/videos/strength_test Some STL files used in this video can be downloaded below this text. Airplane model: https://www.thingiverse.com/thing:4868033 Contents: 0:00 About lightweight PLA 4:04 Unboxing 5:15 PrusaSlicer settings 5:06 3D printing (tube, 265°C) 7:09 eSun PLA+ for comparison 8:12 Weight measurement 8:50 Bending test (tube) 10:04 Layer adhesion test 11:38 Impact test 13:05 Tensile test 13:45 Printing on 240°C 14:37 Cura settings 15:09 Printing (tube 240°C) 16:12 Weight (all 3 test objects) 16:22 Tube breaking (240°C) 16:34 Tube breaking results (all 3) 17:11 Temperature test 18:22 Printing model airplane 20:02 Conclusions #lightweightpla #esunfilament #esun Download files: test_tube.stl 159.1 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:24:09.531325Z",
+    "download_timestamp": "2025-10-03T17:56:00.744799Z",
     "manufacturer_links": [],
     "post_hash": "1ebecaec0638fe6c7bee22564c885191d24bea05150f3323996a96df8310196e",
-    "title": "MyTechFun.com",
+    "title": "eSun ePLA-LW (Lightweight PLA) for model airplanes - printability and strength tests",
     "url": "https://www.mytechfun.com/video/116",
     "youtube_link": "https://youtu.be/AYZ2owbaJK0"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.406720Z",
+    "download_timestamp": "2025-10-03T17:58:49.033091Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "1ebecaec0638fe6c7bee22564c885191d24bea05150f3323996a96df8310196e",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/116",
     "storage_key": "1ebecaec0638fe6c"
-  }
+  },
+  "title": "eSun ePLA-LW (Lightweight PLA) for model airplanes - printability and strength tests"
 }

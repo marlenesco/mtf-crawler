@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.398213Z",
+    "generated_at": "2025-10-03T17:58:49.026930Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:39.606322Z",
+      "download_timestamp": "2025-10-03T17:56:30.464517Z",
       "file_path": "data/raw/6d786e03a5cac59f2e0d9aec734d1f08ac3601efcb1da4bceaa3ff9b59782e70_pcbway-cnc-vs-3d.xlsx",
       "file_size": 71877,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "CNC machining vs metal 3D printing (SLM) - Which is stronger? Services by PCBWAY Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About CNC machining vs metal 3D printing (SLM) - Which is stronger? Services by PCBWAY Title: CNC machining vs metal 3D printing (SLM) - Which is stronger? Services by PCBWAY. Watch on youtube: https://youtu.be/w1XqOZsFPrY Tags: 3dprint , cnc , strength test , material test , Few months ago I presented PCBWAY metal (SLM) 3D printing services. It was a pleasant surprise, how strong are those parts. Horizontally and vertically printed objects had similar strength. So, the obvious question was, how they preform compared to CNC machined objects? Let's find out.. Same test objects are CNC machined and 3D printed from aluminum and from stainless steel. PCBWAY services: https://www.pcbway.com/ Link to results is below this text. 0:00 Introduction 1:43 Unboxing 3:12 Surface quality 4:08 Advantage of 3D printing 4:37 Dimensional accuracy 7:37 Weight 9:15 Hook pulling test 10:29 Bending test 12:24 Results 12:58 About the price 13:51 Conclusions #cncmachining #metal3dprinting #pcbway Download files: pcbway-cnc-vs-3d.xlsx 71.9 kB",
-    "download_timestamp": "2025-10-03T14:23:44.390386Z",
+    "download_timestamp": "2025-10-03T17:55:35.641151Z",
     "manufacturer_links": [],
     "post_hash": "8275a331665eaaa1abfcde92fa1592d9729ab648bc56db9a2db788ec7cc43bfa",
-    "title": "MyTechFun.com",
+    "title": "CNC machining vs metal 3D printing (SLM) - Which is stronger? Services by PCBWAY",
     "url": "https://www.mytechfun.com/video/243",
     "youtube_link": "https://youtu.be/w1XqOZsFPrY"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.398205Z",
+    "download_timestamp": "2025-10-03T17:58:49.026920Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "8275a331665eaaa1abfcde92fa1592d9729ab648bc56db9a2db788ec7cc43bfa",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/243",
     "storage_key": "8275a331665eaaa1"
-  }
+  },
+  "title": "CNC machining vs metal 3D printing (SLM) - Which is stronger? Services by PCBWAY"
 }

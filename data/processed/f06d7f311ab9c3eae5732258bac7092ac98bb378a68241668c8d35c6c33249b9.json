@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.392473Z",
+    "generated_at": "2025-10-03T17:58:49.022582Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Which is the strongest filament type? PLA, PETG, ABS, ASA, PA (Nylon), PC Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Which is the strongest filament type? PLA, PETG, ABS, ASA, PA (Nylon), PC Title: Which is the strongest filament type? PLA, PETG, ABS, ASA, PA (Nylon), PC. Watch on youtube: https://youtu.be/vKNCV-blJzI Tags: 3dprint , material test , Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:23:24.305615Z",
+    "download_timestamp": "2025-10-03T17:55:15.581250Z",
     "manufacturer_links": [],
     "post_hash": "f06d7f311ab9c3eae5732258bac7092ac98bb378a68241668c8d35c6c33249b9",
-    "title": "MyTechFun.com",
+    "title": "Which is the strongest filament type? PLA, PETG, ABS, ASA, PA (Nylon), PC",
     "url": "https://www.mytechfun.com/video/383",
     "youtube_link": "https://youtu.be/vKNCV-blJzI"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.392453Z",
+    "download_timestamp": "2025-10-03T17:58:49.022576Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "f06d7f311ab9c3eae5732258bac7092ac98bb378a68241668c8d35c6c33249b9",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/383",
     "storage_key": "f06d7f311ab9c3ea"
-  }
+  },
+  "title": "Which is the strongest filament type? PLA, PETG, ABS, ASA, PA (Nylon), PC"
 }

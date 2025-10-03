@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.403223Z",
+    "generated_at": "2025-10-03T17:58:49.029983Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:45.314916Z",
+      "download_timestamp": "2025-10-03T17:56:35.920438Z",
       "file_path": "data/raw/ac0198c749d10ccc3a4a1555fd2b6d5c4b20f9c40b295975f56ff3b8d0f7a80e_pcbway-results.xlsx",
       "file_size": 24201,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "PEEK, POM, Brass and Aluminum Creep test - CNC machining services by PCBWay Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About PEEK, POM, Brass and Aluminum Creep test - CNC machining services by PCBWay Title: PEEK, POM, Brass and Aluminum Creep test - CNC machining services by PCBWay. Watch on youtube: https://youtu.be/8rjUzWZ0w78 Tags: 3dprint , strength test , material test , cnc machining , pcbway , I was curious how much weaker is 3D printed material compared to PEEK, POM, Brass or Aluminum. So when PCBWay asked me to introduce their CNC machining services in any of my videos in exchange for sponsoring, I told them instead sponsoring, they could manufacture these test objects for me, and I will do a dedicated video for free. For reference material I used 3D printed ABS. PCBWay website: https://www.pcbway.com/ Earlier I introduced their 3D printing services too: https://youtu.be/aRReSg76RuA Results can be downloaded below this text. Contents: 0:00 Introduction to PCBWay 1:01 About creep test 1:27 About tested materials 2:26 Preparing STEP file 3:02 Ordering process 3:43 Unboxing 5:14 Starting the creep test 8:38 Breaking the test objects 9:51 Results 11:58 Conclusions #pcbway #cncmachining #cncmilling #3d printing #peek #pom #brass #aluminum Download files: pcbway-results.xlsx 24.2 kB",
-    "download_timestamp": "2025-10-03T14:23:58.452935Z",
+    "download_timestamp": "2025-10-03T17:55:49.699263Z",
     "manufacturer_links": [],
     "post_hash": "829d58bc1e9b0d9e0c3ef32cfc3e375a2c82f230863bae22850cce78355eb31c",
-    "title": "MyTechFun.com",
+    "title": "PEEK, POM, Brass and Aluminum Creep test - CNC machining services by PCBWay",
     "url": "https://www.mytechfun.com/video/191",
     "youtube_link": "https://youtu.be/8rjUzWZ0w78"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.403213Z",
+    "download_timestamp": "2025-10-03T17:58:49.029974Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "829d58bc1e9b0d9e0c3ef32cfc3e375a2c82f230863bae22850cce78355eb31c",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/191",
     "storage_key": "829d58bc1e9b0d9e"
-  }
+  },
+  "title": "PEEK, POM, Brass and Aluminum Creep test - CNC machining services by PCBWay"
 }

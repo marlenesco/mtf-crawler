@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.392013Z",
+    "generated_at": "2025-10-03T17:58:49.022401Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Strength of carbon fiber (or glass fiber) filaments. How much stronger are they? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Strength of carbon fiber (or glass fiber) filaments. How much stronger are they? Title: Strength of carbon fiber (or glass fiber) filaments. How much stronger are they?. Watch on youtube: https://youtu.be/FJ24yMcByg4 Tags: 3dprint , material test , Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:23:23.309459Z",
+    "download_timestamp": "2025-10-03T17:55:14.575144Z",
     "manufacturer_links": [],
     "post_hash": "9d26b248ee9f465f19809abd68dadc569c14fd46c6f2e236f977f816399aceeb",
-    "title": "MyTechFun.com",
+    "title": "Strength of carbon fiber (or glass fiber) filaments. How much stronger are they?",
     "url": "https://www.mytechfun.com/video/385",
     "youtube_link": "https://youtu.be/FJ24yMcByg4"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.392008Z",
+    "download_timestamp": "2025-10-03T17:58:49.022395Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "9d26b248ee9f465f19809abd68dadc569c14fd46c6f2e236f977f816399aceeb",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/385",
     "storage_key": "9d26b248ee9f465f"
-  }
+  },
+  "title": "Strength of carbon fiber (or glass fiber) filaments. How much stronger are they?"
 }

@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.409479Z",
+    "generated_at": "2025-10-03T17:58:49.034997Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "ASA vs PLA 3D printed bolts and screw nuts Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About ASA vs PLA 3D printed bolts and screw nuts Title: ASA vs PLA 3D printed bolts and screw nuts. Watch on youtube: https://youtu.be/GiZRXbP8s3E Tags: 3dprint , asa , strength test , 3d printed bolts , filament test , material test , Let's compare PLA vs ASA 3D printed bolts and screw nuts. ASA (Acrylic Styrene Acrylonitrile) is a technical material that is considered a successor to ABS. ASA is UV resistant and has higher heat deflection temperatures, but it is harder for printing, it requires higher temperatures, brim and some enclosure. This test is not only about ASA or PLA 3D printed bolts, but more about understanding properties of these materials. Materials I used in this test: Gembird PLA printed on Prusa MK3s Prusament ASA printed on Ender3 V2 Ender 3 V2 on banggood (affiliate): https://www.banggood.com/custlink/GGvh5E38Rt Creality small enclosure (affiliate): https://www.banggood.com/custlink/3KKEFjewOn Contents: 0:00 in this video 0:22 introduction 2:12 designing bolts and nuts in Fusion360 3:00 cutting the bolt in slicer 3:24 3D printing PLA and ASA 4:49 analyzing bolts and nuts 9:00 pulling (tensile) test for bolts 9:43 tensile test results 9:53 shear stress for bolts 10:34 shear tests results 10:44 torque test for bolts 11:43 bolt torque test results 11:52 pulling test for nuts 12:30 results of nut pulling test 12:40 torque test for screw nuts 13:49 results of nut torque test 13:54 impact test 15:22 results of impact test 15:28 temperature test 16:03 conclusions 3D printed object inside car - temperature test https://youtu.be/QdAKd_YbsjI FDM vs SLA test: https://youtu.be/k5xxZKv7IRg Download files: m6_nut_no_clearance.stl 448.9 kB [ View» ] m6x20.stl 4149.2 kB [ View» ] m8_nut_no_clearance.stl 449.4 kB [ View» ] m8x22_1cut.stl 2898.8 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:24:19.503889Z",
+    "download_timestamp": "2025-10-03T17:56:10.764225Z",
     "manufacturer_links": [],
     "post_hash": "6a5a55acf7d8b7f7ee95d977ad281cd0930e7011feb97cc6962f35f3705bcf22",
-    "title": "MyTechFun.com",
+    "title": "ASA vs PLA 3D printed bolts and screw nuts",
     "url": "https://www.mytechfun.com/video/67",
     "youtube_link": "https://youtu.be/GiZRXbP8s3E"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.409473Z",
+    "download_timestamp": "2025-10-03T17:58:49.034993Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "6a5a55acf7d8b7f7ee95d977ad281cd0930e7011feb97cc6962f35f3705bcf22",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/67",
     "storage_key": "6a5a55acf7d8b7f7"
-  }
+  },
+  "title": "ASA vs PLA 3D printed bolts and screw nuts"
 }

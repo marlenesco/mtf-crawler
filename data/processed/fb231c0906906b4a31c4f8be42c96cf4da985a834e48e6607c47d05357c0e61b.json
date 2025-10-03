@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.397706Z",
+    "generated_at": "2025-10-03T17:58:49.026448Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:38.651391Z",
+      "download_timestamp": "2025-10-03T17:56:29.548732Z",
       "file_path": "data/raw/3b04e2c10bd10968c5c1cf593b9c20c10c26e6458c644a90ea6a96d1029e4bcc_prusament-pa11.xlsx",
       "file_size": 376495,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "Review of Prusament PA11-CF and PA Nylon Spring Steel Sheet Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Review of Prusament PA11-CF and PA Nylon Spring Steel Sheet Title: Review of Prusament PA11-CF and PA Nylon Spring Steel Sheet. Watch on youtube: https://youtu.be/kgVyx9IqGM0 Tags: 3dprint , strength test , material test , prusament , nylon , Prusament PA11-CF is a nylon filament reinforced with carbon fibers. In this video I am measuring its mechanical properties and comparing them with PC Blend CF. Prusa also has a new print sheet developed for nylon filaments. All objects are printed on Prusa MK3S 3D printer equipped with hardened nozzle. Temperatures inside DIY Ikea lack enclosure was 45°C. Tested products: PA11-CF: https://www.prusa3d.com/product/prusament-pa11-carbon-fiber-black-800g/ PA sheet: https://www.prusa3d.com/product/double-sided-powder-coated-pa-nylon-spring-steel-sheet/ Download results below this text. Contents: 0:00 Introduction 1:00 About PA11-CF 2:54 Unboxing 3:21 Preparing for 3D printing 4:31 Temperature tower 6:36 Printing test objects 9:06 Start dimensions, weight 10:04 Annealing 10:29 Dimensions after annealing 11:17 About moisture 11:57 After two weeks, weights 13:05 Tensile (pulling) test 13:29 Layer adhesion test 14:03 Shear test 14:31 Bending test 15:36 Torque (twist) test 16:07 IZOD impact test 17:04 Bending (C) creep test 18:42 Compression (screw) creep test 19:51 Temperature test 21:08 Results 25:51 Conclusions #prusament #pa11 #3dprinting #prusa #nylon Download files: prusament-pa11.xlsx 376.5 kB",
-    "download_timestamp": "2025-10-03T14:23:42.377758Z",
+    "download_timestamp": "2025-10-03T17:55:33.642074Z",
     "manufacturer_links": [],
     "post_hash": "fb231c0906906b4a31c4f8be42c96cf4da985a834e48e6607c47d05357c0e61b",
-    "title": "MyTechFun.com",
+    "title": "Review of Prusament PA11-CF and PA Nylon Spring Steel Sheet",
     "url": "https://www.mytechfun.com/video/247",
     "youtube_link": "https://youtu.be/kgVyx9IqGM0"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.397696Z",
+    "download_timestamp": "2025-10-03T17:58:49.026438Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "fb231c0906906b4a31c4f8be42c96cf4da985a834e48e6607c47d05357c0e61b",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/247",
     "storage_key": "fb231c0906906b4a"
-  }
+  },
+  "title": "Review of Prusament PA11-CF and PA Nylon Spring Steel Sheet"
 }

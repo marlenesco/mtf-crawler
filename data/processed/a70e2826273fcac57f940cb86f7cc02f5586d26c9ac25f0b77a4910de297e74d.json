@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.402499Z",
+    "generated_at": "2025-10-03T17:58:49.029343Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Testing: Filaticum model (filament with gypsum) and foam (light, foaming filament) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Testing: Filaticum model (filament with gypsum) and foam (light, foaming filament) Title: Testing: Filaticum model (filament with gypsum) and foam (light, foaming filament). Watch on youtube: https://youtu.be/9RcGLnCj0Y8 Tags: 3dprint , filaticum , material test , A month ago I was visiting 3D printing companies on Hungexpo and there Filaticum company introduced me their filaments. In this video I am testing Filaticum Model and Foam filaments. Model contains gypsum, which makes it interesting for modellers. Foam expands on higher temperatures and by reducing the flow rate, we can get very light objects with foamed, spongy surface. Product links: https://filaticum.com/en/product/philament-model/ https://filaticum.com/en/product/filaticum-foam/ STL used in the video can be downloaded below this text. Minnie STL from thingiverse (3D printed with 60% size): https://www.thingiverse.com/thing:2116857 Temperature tower: https://www.thingiverse.com/thing:2729076 Contents: 0:00 Introduction 0:44 Contents of the box 1:40 About Filaticum Cleaning 1:55 About Filaticum Model 2:38 About Filaticum Foam 3:56 Model: 3D printing temperature tower 6:01 Model: 3D printing figure 6:48 Model: Post processing 8:41 Model: Drilling, cutting 10:27 Model: Mechanical testing 12:11 Filaticum Cleaning 12:54 Filaticum Foam: Flow rate tower 16:18 Foam: 3D printing figure 16:40 Foam: Post processing 17:29 The weight 17:43 Foam with PLA settings 18:20 Conclusions #filaticum #3dprinting #filament Download files: box-1wall.stl 2.5 kB [ View» ] horizontal-test.stl 62.7 kB [ View» ] string-test.stl 292.9 kB [ View» ] temperature-test.stl 1.5 kB [ View» ] vertical-test-2x.stl 512.7 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:23:55.448389Z",
+    "download_timestamp": "2025-10-03T17:55:46.675316Z",
     "manufacturer_links": [],
     "post_hash": "a70e2826273fcac57f940cb86f7cc02f5586d26c9ac25f0b77a4910de297e74d",
-    "title": "MyTechFun.com",
+    "title": "Testing: Filaticum model (filament with gypsum) and foam (light, foaming filament)",
     "url": "https://www.mytechfun.com/video/205",
     "youtube_link": "https://youtu.be/9RcGLnCj0Y8"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.402492Z",
+    "download_timestamp": "2025-10-03T17:58:49.029338Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "a70e2826273fcac57f940cb86f7cc02f5586d26c9ac25f0b77a4910de297e74d",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/205",
     "storage_key": "a70e2826273fcac5"
-  }
+  },
+  "title": "Testing: Filaticum model (filament with gypsum) and foam (light, foaming filament)"
 }

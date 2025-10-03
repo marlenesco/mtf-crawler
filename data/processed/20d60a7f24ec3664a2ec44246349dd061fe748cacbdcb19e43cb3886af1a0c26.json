@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.401856Z",
+    "generated_at": "2025-10-03T17:58:49.028920Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:43.435716Z",
+      "download_timestamp": "2025-10-03T17:56:34.028162Z",
       "file_path": "data/raw/b07727306836f70967016614e8e466c8192c80f8b7e4af78875a2e2c5781fed1_results-steel-vs-abs.xlsx",
       "file_size": 38923,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "How strong is 3D printed metal? SLM (stainless steel) vs FDM (ABS) by JLCPCB 3D printing services Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About How strong is 3D printed metal? SLM (stainless steel) vs FDM (ABS) by JLCPCB 3D printing services Title: How strong is 3D printed metal? SLM (stainless steel) vs FDM (ABS) by JLCPCB 3D printing services. Watch on youtube: https://youtu.be/mrp28hZ_Qu0 Tags: 3dprint , strength test , material test , jlcpcb , 3d printing services , In this video I want to find out how strong is SLM 3D printed metal (316L stainless steel) and I will compare it with FDM printed ABS. SLM printers are expensive, that's why it is good to have affordable source for 3D printing services. JLCPCB primary services is PCB manufacturing, but they also have 3D printing services. https://jlcpcb.com/3d-printing Results in Excel download below this page. Mentioned in the video: SLA vs MJF: https://youtu.be/WbueAfAIvNM Steel density: https://kg-m3.com/material/steel Shortie, 3D printed twist drill (plastic): https://youtube.com/shorts/S60hxRaeMuU Contents: 0:00 Introduction 1:00 Ordering process 2:00 Unboxing 2:18 ABS parts 4:20 Metallic parts 9:05 Steel density check 9:52 ABS tensile test 10:31 ABS layer adhesion test 10:53 Steel tensile test 11:40 IZOD impact test 15:01 Drilling, tapping 15:52 Bending test 17:22 Torque test 19:46 Creep test 22:23 Twist drill test 24:28 Results 27:04 Conclusions #3dprintedmetal #slm3dprinting #jlcpcb #3dprintingmetal #3dprintingservice #abs3dprinting Download files: results-steel-vs-abs.xlsx 38.9 kB twist-drill-d13.stl 1624.5 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:23:53.435223Z",
+    "download_timestamp": "2025-10-03T17:55:44.674335Z",
     "manufacturer_links": [],
     "post_hash": "20d60a7f24ec3664a2ec44246349dd061fe748cacbdcb19e43cb3886af1a0c26",
-    "title": "MyTechFun.com",
+    "title": "How strong is 3D printed metal? SLM (stainless steel) vs FDM (ABS) by JLCPCB 3D printing services",
     "url": "https://www.mytechfun.com/video/212",
     "youtube_link": "https://youtu.be/mrp28hZ_Qu0"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.401837Z",
+    "download_timestamp": "2025-10-03T17:58:49.028911Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "20d60a7f24ec3664a2ec44246349dd061fe748cacbdcb19e43cb3886af1a0c26",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/212",
     "storage_key": "20d60a7f24ec3664"
-  }
+  },
+  "title": "How strong is 3D printed metal? SLM (stainless steel) vs FDM (ABS) by JLCPCB 3D printing services"
 }

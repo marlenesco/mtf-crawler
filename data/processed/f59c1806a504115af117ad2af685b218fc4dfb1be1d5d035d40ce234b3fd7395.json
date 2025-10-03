@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.404688Z",
+    "generated_at": "2025-10-03T17:58:49.031651Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "LW-PLA vs LW-ASA by Colorfabb, which one is stronger? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About LW-PLA vs LW-ASA by Colorfabb, which one is stronger? Title: LW-PLA vs LW-ASA by Colorfabb, which one is stronger?. Watch on youtube: https://youtu.be/24jSxUJ0AT0 Tags: 3dprint , colorfabb , strength test , material test , LightWeight (LW) filaments are designed for RC planes or modelling, where you need same volume but with reduced weight. These filaments can change the density in function of the temperature. On higher temperatures volume increases thanks to the foaming, so to keep the same volume, flow rate must be reduced. The foaming effect increases the volume but also strength will be reduced. This is a comparison video to find out how strong are LW-PLA and LW-ASA filaments from Colorfabb. LW-PLA filaments: https://colorfabb.com/filaments/pla-filaments/lw-pla LW-ASA filaments: https://colorfabb.com/filaments/asa-filaments/LW-ASA Mentioned in the video: Density of PLA: https://kg-m3.com/material/pla-polylactide Density of ASA: https://kg-m3.com/material/asa-acrylonitrile-styrene-acrylate Flow correction for LW-PLA by CNC-Kitchen: https://youtu.be/2tmgzwgi2UI?t=338 Creality enclosure: https://www.banggood.com/custlink/3KKEFjewOn Contents: 0:00 About LW filaments 2:05 Unboxing 3:33 PLA for reference 3:59 Slicer settings for LW-PLA 4:56 3D printing LW-PLA 6:45 3D printing LW-ASA 13:02 The weight and density 14:12 Layer adhesion test 15:27 Tensile test 16:38 3 point bending test 18:03 Shell object bending 19:41 Impact test 21:09 Temperature test 22:31 3D printing airplane model 25:34 Conclusions #lwpla #lwasa #colorfabb #lightweightfilament Download files: all-results.png 112.7 kB",
-    "download_timestamp": "2025-10-03T14:24:04.478085Z",
+    "download_timestamp": "2025-10-03T17:55:55.752309Z",
     "manufacturer_links": [],
     "post_hash": "f59c1806a504115af117ad2af685b218fc4dfb1be1d5d035d40ce234b3fd7395",
-    "title": "MyTechFun.com",
+    "title": "LW-PLA vs LW-ASA by Colorfabb, which one is stronger?",
     "url": "https://www.mytechfun.com/video/139",
     "youtube_link": "https://youtu.be/24jSxUJ0AT0"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.404683Z",
+    "download_timestamp": "2025-10-03T17:58:49.031645Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "f59c1806a504115af117ad2af685b218fc4dfb1be1d5d035d40ce234b3fd7395",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/139",
     "storage_key": "f59c1806a504115a"
-  }
+  },
+  "title": "LW-PLA vs LW-ASA by Colorfabb, which one is stronger?"
 }

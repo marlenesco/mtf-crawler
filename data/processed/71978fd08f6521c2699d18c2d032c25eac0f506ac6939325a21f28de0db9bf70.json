@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.391057Z",
+    "generated_at": "2025-10-03T17:58:49.021505Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:29.810313Z",
+      "download_timestamp": "2025-10-03T17:56:21.033993Z",
       "file_path": "data/raw/86ceee4160a48b248411073875b039972b764c7c19925acb9f2924977f48c737_azure-abs-asa.xlsx",
       "file_size": 386000,
       "file_type": ".xlsx",
@@ -47,20 +47,21 @@
   ],
   "post": {
     "cleaned_text": "Another ABS vs ASA comparison: AzureFilm ABS Prime vs ASA Prime with zero warping techology Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Another ABS vs ASA comparison: AzureFilm ABS Prime vs ASA Prime with zero warping techology Title: Another ABS vs ASA comparison: AzureFilm ABS Prime vs ASA Prime with zero warping techology. Watch on youtube: https://youtu.be/VbF1a1_D2eA Tags: 3dprint , material test , azurefilm , In one of my previous videos, I tested AzureFilm PLA Prime, which can be annealed with minimal deformation. Very interesting material. In this video, two more filaments from their Prime line are tested: ABS and ASA. They have the same price, and I am trying to figure out, why they have the ABS next to ASA (since ASA is UV and weather resistant, less smell during the printing). Tested products are from AzureFilm Prime collection (not affiliate link): https://azurefilm.com/3d-filaments/prime-collection/ Mentioned in the video: The PLA Prime video: https://youtu.be/leR9DaZJCDc Impact testing machine: https://youtu.be/EAomawFGWBs Chapters: 0:00 Introduction 1:30 Unboxing 2:12 3D printing ABS 2:50 3D printing ASA 4:33 Shrinking 4:59 Tensile test 5:09 Layer adhesion test 5:45 Shear test 6:14 Twist test 6:50 Bending test 7:13 Creep test 7:51 Impact test 8:26 Temperature test 9:00 Results 12:06 Conclusions #3dprinting #azurefilm #abs #asa Download files: azure-abs-asa.xlsx 386 kB",
-    "download_timestamp": "2025-10-03T14:23:19.294846Z",
+    "download_timestamp": "2025-10-03T17:55:10.558526Z",
     "manufacturer_links": [],
     "post_hash": "71978fd08f6521c2699d18c2d032c25eac0f506ac6939325a21f28de0db9bf70",
-    "title": "MyTechFun.com",
+    "title": "Another ABS vs ASA comparison: AzureFilm ABS Prime vs ASA Prime with zero warping techology",
     "url": "https://www.mytechfun.com/video/393",
     "youtube_link": "https://youtu.be/VbF1a1_D2eA"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.391048Z",
+    "download_timestamp": "2025-10-03T17:58:49.021495Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "71978fd08f6521c2699d18c2d032c25eac0f506ac6939325a21f28de0db9bf70",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/393",
     "storage_key": "71978fd08f6521c2"
-  }
+  },
+  "title": "Another ABS vs ASA comparison: AzureFilm ABS Prime vs ASA Prime with zero warping techology"
 }

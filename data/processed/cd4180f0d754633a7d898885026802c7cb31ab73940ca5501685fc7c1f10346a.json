@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.409194Z",
+    "generated_at": "2025-10-03T17:58:49.034813Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Siraya Blu vs PETG 3D printed bolts and nuts - a rematch of resin vs filament experiment Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Siraya Blu vs PETG 3D printed bolts and nuts - a rematch of resin vs filament experiment Title: Siraya Blu vs PETG 3D printed bolts and nuts - a rematch of resin vs filament experiment. Watch on youtube: https://youtu.be/7r16-UDo2t4 Tags: 3dprint , siraya , fdm vs sla , strength test , sla 3d printing , material test , In first experiment FDM vs SLA I used the most popular and budget materials, like Elegoo Water Washable Photopolymer resin and PLA filament. A lot of comments suggested that I should use better materials, like PETG and Siraya Blu. Few weeks after that video Siraya Tech company contacted me and they sent me Siraya Blu resin for a review. So in this video I am comparing Siraya Blu and PETG 3D printed bolts and screw nuts. Bolts are M6x20. PETG material: Prusament PETG orange printed on Prusa MK3s Siraya Blu printed on Elegoo Mars and Photon S. https://siraya.tech/ The previous FDM vs SLA video: https://youtu.be/k5xxZKv7IRg Results can be seen on end of each test. Contents: 0:00 introduction 1:44 analyzing Siraya Blu bolts 3:23 analyzing PETG bolts 4:37 Tensile test - bolts 5:15 Shear test - bolts 6:29 Torque test - bolts 7:57 Pulling test - nuts 8:53 Torque test - nuts 10:07 Impact test 12:25 Temperature test 15:09 Conclusions Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:24:18.501012Z",
+    "download_timestamp": "2025-10-03T17:56:09.769089Z",
     "manufacturer_links": [],
     "post_hash": "cd4180f0d754633a7d898885026802c7cb31ab73940ca5501685fc7c1f10346a",
-    "title": "MyTechFun.com",
+    "title": "Siraya Blu vs PETG 3D printed bolts and nuts - a rematch of resin vs filament experiment",
     "url": "https://www.mytechfun.com/video/74",
     "youtube_link": "https://youtu.be/7r16-UDo2t4"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.409187Z",
+    "download_timestamp": "2025-10-03T17:58:49.034808Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "cd4180f0d754633a7d898885026802c7cb31ab73940ca5501685fc7c1f10346a",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/74",
     "storage_key": "cd4180f0d754633a"
-  }
+  },
+  "title": "Siraya Blu vs PETG 3D printed bolts and nuts - a rematch of resin vs filament experiment"
 }

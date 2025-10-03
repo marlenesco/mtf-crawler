@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.405596Z",
+    "generated_at": "2025-10-03T17:58:49.032262Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Creality filament review - Part 1 (PLA, SILK, PETG, TPU, ABS, Carbon) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Creality filament review - Part 1 (PLA, SILK, PETG, TPU, ABS, Carbon) Title: Creality filament review - Part 1 (PLA, SILK, PETG, TPU, ABS, Carbon). Watch on youtube: https://youtu.be/YI9dcCAQV1A Tags: 3dprint , creality , strength test , material test , 6 different Creality filaments on the test: CR-PLA, CR-SILK, CR-PETG, CR-TPU, CR-ABS and CR-Carbon (enhanced version, Nylon carbon fiber). In this first part (after analyzing the specifications) I am 3D printing the temperature tower to choose printing temperature for my test specimens. The total printing time was approximately 40 hours. All test specimens can be downloaded from mytechfun.com website. PLA, PETG and ABS filaments I bought myself. TPU, SILK and Carbon filaments are sent to me by Creality. Mechanical tests will be in part 2: https://youtu.be/QBZOp1oNi34 CR-TPU : https://vip.creality.com/en/goods-detail/191 CR-Carbon (enhanced version): https://vip.creality.com/en/goods-detail/193 CR-Silk: https://vip.creality.com/en/goods-detail/10 CR-ABS: https://vip.creality.com/en/goods-detail/188 CR-PETG: https://vip.creality.com/en/goods-detail/7 CR-PLA: https://vip.creality.com/en/goods-detail/3 Other used equipment: Storage vacuum bags: https://www.banggood.com/custlink/K3mYBGOmvp Ender3 V2: https://www.banggood.com/custlink/GGvh5E38Rt Creality enclosure: https://www.banggood.com/custlink/3KKEFjewOn SUNLU filament dryer: https://www.banggood.com/SUNLU-FilaDryer-S1-Box-PLA-3D-Printing-Filament-Storage-Box-fit-Arid-Material-Machine-Box-fit-Arid-Best-3d-Printing-Partner-p-1771548.html?cur_warehouse=GWTR&ID=47184&rmmds=search&p=KY220152814037202009&custlinkid=1397793 Micro Swiss all metal hotend and direct drive extruder: https://store.micro-swiss.com/products/micro-swiss-direct-drive-extruder Temperature tower: https://www.thingiverse.com/thing:2729076 Contents: 0:00 About Creality filaments 1:23 3D printing specifications 2:24 Unboxing 4:32 3D printing with CR-PLA 6:25 CR-SILK printing 8:24 CR-PETG printing 10:59 CR-TPU printing 14:46 CR-ABS 3D printing 18:22 Motors in enclosure through thermal camera 19:32 CR-Carbon (Nylon CF) 25:22 Outro #creality #crealityfilaments #3dprinting Download files: bending.stl 0.7 kB [ View» ] hor_v4.stl 62.7 kB [ View» ] izod_specimen.stl 9.3 kB [ View» ] shear_5mm_hor.stl 90.6 kB [ View» ] temperature_test.stl 1.5 kB [ View» ] twisting_test_6mm.stl 82.9 kB [ View» ] ver_v4.stl 243.9 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:24:07.499178Z",
+    "download_timestamp": "2025-10-03T17:55:58.722383Z",
     "manufacturer_links": [],
     "post_hash": "d477311a6c384537d81cef08dd6e6f21eaa4bceeb5acc383589808a872df7316",
-    "title": "MyTechFun.com",
+    "title": "Creality filament review - Part 1 (PLA, SILK, PETG, TPU, ABS, Carbon)",
     "url": "https://www.mytechfun.com/video/122",
     "youtube_link": "https://youtu.be/YI9dcCAQV1A"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.405578Z",
+    "download_timestamp": "2025-10-03T17:58:49.032256Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "d477311a6c384537d81cef08dd6e6f21eaa4bceeb5acc383589808a872df7316",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/122",
     "storage_key": "d477311a6c384537"
-  }
+  },
+  "title": "Creality filament review - Part 1 (PLA, SILK, PETG, TPU, ABS, Carbon)"
 }

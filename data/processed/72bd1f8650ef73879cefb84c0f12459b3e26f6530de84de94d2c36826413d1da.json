@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.406989Z",
+    "generated_at": "2025-10-03T17:58:49.033298Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Siraya Blu vs Tenacious vs 50-50% mix Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Siraya Blu vs Tenacious vs 50-50% mix Title: Siraya Blu vs Tenacious vs 50-50% mix. Watch on youtube: https://youtu.be/Gqb_-IIN_AM Tags: 3dprint , siraya , strength test , tenacious , material test , Few months ago, I compared Siraya Blu-Tenacious mix vs ABS materials as 3rd match SLA vs FDM 3D printed bolts and nuts. In this video I would like to test Siraya resins separately and as 50-50% mixture. Used test specimens have same dimensions as those in my previous videos, so results are comparable with each other. Resin used in the video: https://siraya.tech/products/tenacious-by-siraya-tech-for-lcd-resin-printers-1kg https://siraya.tech/products/blu-by-siraya-tech-for-lcd-resin-printers-1kg Results can be downloaded in PDF form below this text: Other similar material test videos: https://www.mytechfun.com/videos/strength_test Digital torque wrench (smallest 0.3-30 Nm - not the same, but similar) https://www.banggood.com/custlink/mD3hVIkGvv Contents: 0:00 Introduction 1:54 Tensile test 3:04 Shear test 4:26 Bending test 5:40 Impact test 7:02 Twist test 9:54 Conclusions #siraya #sirayablu #sirayatenacious #sla3dprinting Download files: results_siraya_mix.pdf 137.7 kB",
-    "download_timestamp": "2025-10-03T14:24:10.507768Z",
+    "download_timestamp": "2025-10-03T17:56:01.724655Z",
     "manufacturer_links": [],
     "post_hash": "72bd1f8650ef73879cefb84c0f12459b3e26f6530de84de94d2c36826413d1da",
-    "title": "MyTechFun.com",
+    "title": "Siraya Blu vs Tenacious vs 50-50% mix",
     "url": "https://www.mytechfun.com/video/108",
     "youtube_link": "https://youtu.be/Gqb_-IIN_AM"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.406982Z",
+    "download_timestamp": "2025-10-03T17:58:49.033293Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "72bd1f8650ef73879cefb84c0f12459b3e26f6530de84de94d2c36826413d1da",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/108",
     "storage_key": "72bd1f8650ef7387"
-  }
+  },
+  "title": "Siraya Blu vs Tenacious vs 50-50% mix"
 }

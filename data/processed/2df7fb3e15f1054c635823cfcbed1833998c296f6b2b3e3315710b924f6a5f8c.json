@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.409759Z",
+    "generated_at": "2025-10-03T17:58:49.035176Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "FDM vs SLA 3D printed bolts and nuts (PLA vs Resin) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About FDM vs SLA 3D printed bolts and nuts (PLA vs Resin) Title: FDM vs SLA 3D printed bolts and nuts (PLA vs Resin). Watch on youtube: https://youtu.be/k5xxZKv7IRg Tags: 3dprint , fdm vs sla , pla vs resin , strength test , sla 3d printing , material test , What do you think, which is stronger? FDM printed (PLA) or SLA printed (Resin) bolt and screw nut? That's what I am testing in this video. Strengh test of PLA bolt as most common material for FDM 3D printer and Water Washable Photopolymer resin. Since I don't have SLA 3D printer, I used 3D printing service, I ordered resin M6x20 bolts and M6 nuts. Contents: 0:00 introduction 1:37 analyzing resin and PLA bolts and nuts 5:10 Tensile test - bolts 7:10 Shear test - bolts 8:15 Torque test - bolts 10:18 Pulling test - nuts 12:30 Torque test - nuts 14:19 Results 14:46 Conclusion Materials and methods: FDM: Prusament PLA printed on Prusa MK3 SLA: Elegoo Water Washable Photopolymer resin printed on Elegoo Mars Used STL files (for M6x20 bolts and nuts) you can download from: http://www.mytechfun.com/video/57 Mentioned videos: Bolt printing position test: https://youtu.be/ZiQek0wei1g Printing position for screw nuts: https://youtu.be/KoO-1Inj06g Download files: M6_bolt.stl 850.2 kB [ View» ] M6_nut.stl 448.9 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:24:20.527898Z",
+    "download_timestamp": "2025-10-03T17:56:11.771607Z",
     "manufacturer_links": [],
     "post_hash": "2df7fb3e15f1054c635823cfcbed1833998c296f6b2b3e3315710b924f6a5f8c",
-    "title": "MyTechFun.com",
+    "title": "FDM vs SLA 3D printed bolts and nuts (PLA vs Resin)",
     "url": "https://www.mytechfun.com/video/57",
     "youtube_link": "https://youtu.be/k5xxZKv7IRg"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.409753Z",
+    "download_timestamp": "2025-10-03T17:58:49.035171Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "2df7fb3e15f1054c635823cfcbed1833998c296f6b2b3e3315710b924f6a5f8c",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/57",
     "storage_key": "2df7fb3e15f1054c"
-  }
+  },
+  "title": "FDM vs SLA 3D printed bolts and nuts (PLA vs Resin)"
 }

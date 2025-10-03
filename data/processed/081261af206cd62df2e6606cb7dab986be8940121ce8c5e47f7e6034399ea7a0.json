@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.388048Z",
+    "generated_at": "2025-10-03T17:58:49.018376Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:24.154403Z",
+      "download_timestamp": "2025-10-03T17:56:15.619823Z",
       "file_path": "data/raw/4e375ef6950f91c35bab93193c6de63c55a95b4e374c43227cdf96953b23a741_jlc-sla-sls.xlsx",
       "file_size": 420889,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "SLA vs SLS 3D printing (JLC Black Resin vs Nylon) by JLC3DP Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About SLA vs SLS 3D printing (JLC Black Resin vs Nylon) by JLC3DP Title: SLA vs SLS 3D printing (JLC Black Resin vs Nylon) by JLC3DP. Watch on youtube: https://youtu.be/E6niY8MtkM4 Tags: 3dprint , material test , sla , sls , Download files: jlc-sla-sls.xlsx 420.9 kB",
-    "download_timestamp": "2025-10-03T14:23:06.216301Z",
+    "download_timestamp": "2025-10-03T17:54:57.542655Z",
     "manufacturer_links": [],
     "post_hash": "081261af206cd62df2e6606cb7dab986be8940121ce8c5e47f7e6034399ea7a0",
-    "title": "MyTechFun.com",
+    "title": "SLA vs SLS 3D printing (JLC Black Resin vs Nylon) by JLC3DP",
     "url": "https://www.mytechfun.com/video/419",
     "youtube_link": "https://youtu.be/E6niY8MtkM4"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.388037Z",
+    "download_timestamp": "2025-10-03T17:58:49.018364Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "081261af206cd62df2e6606cb7dab986be8940121ce8c5e47f7e6034399ea7a0",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/419",
     "storage_key": "081261af206cd62d"
-  }
+  },
+  "title": "SLA vs SLS 3D printing (JLC Black Resin vs Nylon) by JLC3DP"
 }

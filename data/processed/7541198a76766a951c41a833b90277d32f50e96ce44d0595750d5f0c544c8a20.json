@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.393349Z",
+    "generated_at": "2025-10-03T17:58:49.022995Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:31.971937Z",
+      "download_timestamp": "2025-10-03T17:56:23.109508Z",
       "file_path": "data/raw/3b3825a98d1293d98f670155730cb98d044553891157a2f4ed554d114174ea1e_10-prt-layer.xlsx",
       "file_size": 38582,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "Big layer adhesion test with 10 different 3D printers Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Big layer adhesion test with 10 different 3D printers Title: Big layer adhesion test with 10 different 3D printers. Watch on youtube: https://youtu.be/_pPWvLizjRU Tags: 3dprint , material test , I just became curious, what if I test the layer adhesion using the same material and same print temperature but on 10 different 3D printers. Will we get similar results? Or the layer adhesion will significantly variate? Let's find out. Excel table with results is downloadable below this text. Printers (and their review videos) from this test: Creality K1 Max https://youtu.be/yDvOGTb78KI Prusa MK4 https://youtu.be/bQRE7u2dYQc BambuLab P1P https://youtu.be/UndnV2_dW2o BambuLab X1C https://youtu.be/4yxKrHJMHC4 Qidi X-Max 3 https://youtu.be/c6FHnzfGUno BambuLab A1 https://youtu.be/udtSpK3l2F0 Creality Ender-3 S1 https://youtu.be/1oBcm7l4Cbw FLSUN SR https://youtu.be/wH5eODAY5oQ Sovol SV08 https://youtu.be/iqZD7Zr2Hwg Creality K1 https://youtu.be/fwF2dZdzk70 Chapters: 0:00 Introduction 0:26 About the test 1:51 3D printing 3:07 The mass 4:05 The layer adhesion test 5:29 Results 6:53 Conclusion #3dprinting #bambulab #creality #prusa #qidi #flsun Download files: 10-prt-layer.xlsx 38.6 kB",
-    "download_timestamp": "2025-10-03T14:23:26.322667Z",
+    "download_timestamp": "2025-10-03T17:55:17.601124Z",
     "manufacturer_links": [],
     "post_hash": "7541198a76766a951c41a833b90277d32f50e96ce44d0595750d5f0c544c8a20",
-    "title": "MyTechFun.com",
+    "title": "Big layer adhesion test with 10 different 3D printers",
     "url": "https://www.mytechfun.com/video/381",
     "youtube_link": "https://youtu.be/_pPWvLizjRU"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.393333Z",
+    "download_timestamp": "2025-10-03T17:58:49.022985Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "7541198a76766a951c41a833b90277d32f50e96ce44d0595750d5f0c544c8a20",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/381",
     "storage_key": "7541198a76766a95"
-  }
+  },
+  "title": "Big layer adhesion test with 10 different 3D printers"
 }

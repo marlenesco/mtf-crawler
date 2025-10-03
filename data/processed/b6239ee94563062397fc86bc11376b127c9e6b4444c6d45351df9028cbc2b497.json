@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.393664Z",
+    "generated_at": "2025-10-03T17:58:49.023191Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Big wearing test, which filament type is the most wear resistant? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Big wearing test, which filament type is the most wear resistant? Title: Big wearing test, which filament type is the most wear resistant?. Watch on youtube: https://youtu.be/Vg-FcCrVrZY Tags: 3dprint , material test , Let's find out, which filament type is the most wear resistant (in friction with the metal). Tested material types: PLA, PETG, ABS, ASA, PC (PolyCarbonate), Nylon and TPU. Effect of the carbon fibres to the wearing is also tested. Hopefully, there will be a scientific article, the link will be included here. Mentioned closed loop stepper video: https://www.youtube.com/watch?v=f4Qy5MuN_Vg Chapters: 0:00 Introduction, About wearing 1:59 Tested materials 3:32 Experimental setup 5:26 Start of the wear test (PLA) 7:07 PETG 7:28 ABS, ASA 8:09 PC 9:08 TPU 10:03 Nylon 11:22 Additional materials 12:29 Measuring the groove 14:06 Results, 6mm shaft 15:25 Wearing test, 3mm shaft 18:31 Measuring, 3mm shaft 19:32 Results, 3mm shaft 20:08 Two more, TPU 20:50 Conclusions #3dprinting Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:23:27.332595Z",
+    "download_timestamp": "2025-10-03T17:55:18.608330Z",
     "manufacturer_links": [],
     "post_hash": "b6239ee94563062397fc86bc11376b127c9e6b4444c6d45351df9028cbc2b497",
-    "title": "MyTechFun.com",
+    "title": "Big wearing test, which filament type is the most wear resistant?",
     "url": "https://www.mytechfun.com/video/351",
     "youtube_link": "https://youtu.be/Vg-FcCrVrZY"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.393656Z",
+    "download_timestamp": "2025-10-03T17:58:49.023186Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "b6239ee94563062397fc86bc11376b127c9e6b4444c6d45351df9028cbc2b497",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/351",
     "storage_key": "b6239ee945630623"
-  }
+  },
+  "title": "Big wearing test, which filament type is the most wear resistant?"
 }

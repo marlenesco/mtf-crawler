@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.402758Z",
+    "generated_at": "2025-10-03T17:58:49.029551Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:44.475569Z",
+      "download_timestamp": "2025-10-03T17:56:35.090805Z",
       "file_path": "data/raw/779fd6bafc95a857f819d187a80b1c13a2e87afabfd9dffba3bb5763df5b264f_sla-mjf-results.xlsx",
       "file_size": 50169,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "SLA (9000R) vs MJF (PA12-HP) 3D printing services from JLCPCB Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About SLA (9000R) vs MJF (PA12-HP) 3D printing services from JLCPCB Title: SLA (9000R) vs MJF (PA12-HP) 3D printing services from JLCPCB. Watch on youtube: https://youtu.be/WbueAfAIvNM Tags: 3dprint , strength test , material test , jlcpcb , 3d printing services , Presenting and testing 3D printing services by JLCPCB. Beside PCB manufacturing, they offer 3D printing services too. JLCPCB printed my regular test specimens from SLA (9000R resin) and MJF (PA12-HP Nylon). In one of my next videos I will place another order to compare FDM (ABS) vs SLM (316L stainless steel) materials. https://jlcpcb.com/3d-printing Download results from https://www.mytechfun.com/video/200 Contents: 0:00 Introduction to JLCPCB 0:50 About SLA material 1:20 About MJF material 2:14 Ordering process 3:17 Unboxing 3:34 Inspecting the Resin object 4:51 Inspecting Nylon objects 6:59 Tensile test 7:22 Layer adhesion test 7:41 Shear stress test 8:29 Bending test 9:13 Torque (twist) test 10:15 Impact test 11:16 Hardness 11:40 Temperature test 13:09 Creep test 15:08 Results 18:03 Conclusions #jlcpcb #3dprintingservice #3dprinting Download files: sla-mjf-results.xlsx 50.2 kB",
-    "download_timestamp": "2025-10-03T14:23:56.436304Z",
+    "download_timestamp": "2025-10-03T17:55:47.677174Z",
     "manufacturer_links": [],
     "post_hash": "5256dbc5061d677ddaa3de146f870e45349f271bc3a4b3c1e41414b374fda6da",
-    "title": "MyTechFun.com",
+    "title": "SLA (9000R) vs MJF (PA12-HP) 3D printing services from JLCPCB",
     "url": "https://www.mytechfun.com/video/200",
     "youtube_link": "https://youtu.be/WbueAfAIvNM"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.402747Z",
+    "download_timestamp": "2025-10-03T17:58:49.029541Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "5256dbc5061d677ddaa3de146f870e45349f271bc3a4b3c1e41414b374fda6da",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/200",
     "storage_key": "5256dbc5061d677d"
-  }
+  },
+  "title": "SLA (9000R) vs MJF (PA12-HP) 3D printing services from JLCPCB"
 }
