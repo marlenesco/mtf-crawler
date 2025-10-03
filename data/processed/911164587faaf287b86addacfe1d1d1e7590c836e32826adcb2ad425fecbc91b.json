@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.387634Z",
+    "generated_at": "2025-10-03T17:58:49.017974Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Where are those layer lines? AddNorth Textura vs E-PLA Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Where are those layer lines? AddNorth Textura vs E-PLA Title: Where are those layer lines? AddNorth Textura vs E-PLA. Watch on youtube: https://youtu.be/iz-dJzSAqsI Tags: 3dprint , addnorth , material test , Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:23:04.244950Z",
+    "download_timestamp": "2025-10-03T17:54:55.508468Z",
     "manufacturer_links": [],
     "post_hash": "911164587faaf287b86addacfe1d1d1e7590c836e32826adcb2ad425fecbc91b",
-    "title": "MyTechFun.com",
+    "title": "Where are those layer lines? AddNorth Textura vs E-PLA",
     "url": "https://www.mytechfun.com/video/421",
     "youtube_link": "https://youtu.be/iz-dJzSAqsI"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.387628Z",
+    "download_timestamp": "2025-10-03T17:58:49.017968Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "911164587faaf287b86addacfe1d1d1e7590c836e32826adcb2ad425fecbc91b",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/421",
     "storage_key": "911164587faaf287"
-  }
+  },
+  "title": "Where are those layer lines? AddNorth Textura vs E-PLA"
 }

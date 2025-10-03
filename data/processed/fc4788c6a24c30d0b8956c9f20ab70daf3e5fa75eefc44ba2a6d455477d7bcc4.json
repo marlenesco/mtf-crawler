@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.386550Z",
+    "generated_at": "2025-10-03T17:58:49.016327Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:22.462369Z",
+      "download_timestamp": "2025-10-03T17:56:13.734584Z",
       "file_path": "data/raw/c83149a9ae3ab075e3c014a642af513ae27ce4504d51258123dcfcf781203826_siraya-pet-cf.xlsx",
       "file_size": 379957,
       "file_type": ".xlsx",
@@ -47,20 +47,21 @@
   ],
   "post": {
     "cleaned_text": "PET-CF, technical filament with best strength to price ratio. By Siraya Tech Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About PET-CF, technical filament with best strength to price ratio. By Siraya Tech Title: PET-CF, technical filament with best strength to price ratio. By Siraya Tech. Watch on youtube: https://youtu.be/Y7npttLpcO0 Tags: 3dprint , material test , petcf , siraya , Discover the true potential of Siraya Tech's glass fiber-reinforced filaments as I compare ABS-GF and ASA-GF in a detailed 3D printing performance test. These specialized materials promise enhanced strength, reduced shrinkage, and better heat resistance—but how do they really perform? In this video, I explore everything from unboxing to hands-on 3D printing and real-world stress tests. I evaluate key aspects like layer adhesion, tensile strength, impact resistance, and more. I even dive into thermal performance and long-term creep behavior to see which filament is the ultimate choice for demanding applications. Whether you're a maker, engineer, or hobbyist, this comprehensive review will help you decide which filament suits your needs. Amazon.com (affiliate link): https://amzn.to/4giHXzS Product pages (not affiliate links) ABS-GF: https://siraya.tech/products/fibreheart-abs-gf-filament ASA-GF: https://siraya.tech/products/siraya-tech-fibreheart-asa-gf-filament Chapters: 0:00 Introduction 1:16 About ABS-GF, ASA-GF 2:02 Unboxing 3:36 3D printing 5:03 Benchy 5:18 Shrinking 5:33 Tensile test 5:46 Layer adhesion 6:29 Shear test 6:55 Twist test 7:43 Bending test 8:36 Temperature test 8:51 Impact test 9:27 Creep test 10:46 Results 10:58 Conclusions #3dprinting #siraya #abs #asa Download files: siraya-pet-cf.xlsx 380 kB",
-    "download_timestamp": "2025-10-03T14:23:00.207483Z",
+    "download_timestamp": "2025-10-03T17:54:51.512562Z",
     "manufacturer_links": [],
     "post_hash": "fc4788c6a24c30d0b8956c9f20ab70daf3e5fa75eefc44ba2a6d455477d7bcc4",
-    "title": "MyTechFun.com",
+    "title": "PET-CF, technical filament with best strength to price ratio. By Siraya Tech",
     "url": "https://www.mytechfun.com/video/425",
     "youtube_link": "https://youtu.be/Y7npttLpcO0"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.386533Z",
+    "download_timestamp": "2025-10-03T17:58:49.016311Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "fc4788c6a24c30d0b8956c9f20ab70daf3e5fa75eefc44ba2a6d455477d7bcc4",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/425",
     "storage_key": "fc4788c6a24c30d0"
-  }
+  },
+  "title": "PET-CF, technical filament with best strength to price ratio. By Siraya Tech"
 }

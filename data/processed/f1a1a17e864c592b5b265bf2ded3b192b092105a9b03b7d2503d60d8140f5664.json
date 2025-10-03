@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.395453Z",
+    "generated_at": "2025-10-03T17:58:49.024281Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:34.669036Z",
+      "download_timestamp": "2025-10-03T17:56:25.677835Z",
       "file_path": "data/raw/dc77948002576ee764bed11913da2fb4f24561ae014cd63b9910cf6c95339cf7_filaticum-glass-pla.xlsx",
       "file_size": 293651,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "Glass fiber PLA by Filaticum - review and mechanical testing Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Glass fiber PLA by Filaticum - review and mechanical testing Title: Glass fiber PLA by Filaticum - review and mechanical testing. Watch on youtube: https://youtu.be/rpEGMfLY5Ok Tags: 3dprint , filaticum , material test , PLA filament reinforced with glass fibers should be stronger, harder and more heat resistant. Glass fibers are not so abrasive like carbon fibers, but it is still recommended using a hardened steel nozzle and the size should be 0.6mm to reduce risk of clogging. Product page: https://filaticum.com/en/product/philament-glass-reinforced/?currency=EUR Mentioned in the video: Engineering PLA: https://youtu.be/uF2_ceBQ40Y Hardened steel vs brass nozzle: https://youtu.be/2FXyN1Q9Bzs Annealing of PLA: https://youtu.be/v3w8GlcHUsc Results download from: https://www.mytechfun.com/video/319 Contents: 0:00 Introduction 1:32 Unboxing 2:23 3D printing 5:08 Tensile test 5:31 Layer adhesion test 6:14 Shear test 6:37 Torque test 7:18 Bending test 7:53 Impact test 8:33 Creep test 9:12 Temperature test 9:53 Results 12:05 Conclusions #3dprinting #filaticum #pla Download files: filaticum-glass-pla.xlsx 293.7 kB",
-    "download_timestamp": "2025-10-03T14:23:32.332674Z",
+    "download_timestamp": "2025-10-03T17:55:23.614933Z",
     "manufacturer_links": [],
     "post_hash": "f1a1a17e864c592b5b265bf2ded3b192b092105a9b03b7d2503d60d8140f5664",
-    "title": "MyTechFun.com",
+    "title": "Glass fiber PLA by Filaticum - review and mechanical testing",
     "url": "https://www.mytechfun.com/video/319",
     "youtube_link": "https://youtu.be/rpEGMfLY5Ok"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.395440Z",
+    "download_timestamp": "2025-10-03T17:58:49.024271Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "f1a1a17e864c592b5b265bf2ded3b192b092105a9b03b7d2503d60d8140f5664",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/319",
     "storage_key": "f1a1a17e864c592b"
-  }
+  },
+  "title": "Glass fiber PLA by Filaticum - review and mechanical testing"
 }

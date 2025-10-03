@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.391567Z",
+    "generated_at": "2025-10-03T17:58:49.021982Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "5 years old vs new filament - Which one is stronger? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About 5 years old vs new filament - Which one is stronger? Title: 5 years old vs new filament - Which one is stronger?. Watch on youtube: https://youtu.be/z5y-5RuuGx4 Tags: 3dprint , material test , Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:23:21.285180Z",
+    "download_timestamp": "2025-10-03T17:55:12.581801Z",
     "manufacturer_links": [],
     "post_hash": "3d2339679b830ca22ac8a2e6078f084a2e335d77b6379e0a01d4136fbd77467e",
-    "title": "MyTechFun.com",
+    "title": "5 years old vs new filament - Which one is stronger?",
     "url": "https://www.mytechfun.com/video/390",
     "youtube_link": "https://youtu.be/z5y-5RuuGx4"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.391562Z",
+    "download_timestamp": "2025-10-03T17:58:49.021976Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "3d2339679b830ca22ac8a2e6078f084a2e335d77b6379e0a01d4136fbd77467e",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/390",
     "storage_key": "3d2339679b830ca2"
-  }
+  },
+  "title": "5 years old vs new filament - Which one is stronger?"
 }

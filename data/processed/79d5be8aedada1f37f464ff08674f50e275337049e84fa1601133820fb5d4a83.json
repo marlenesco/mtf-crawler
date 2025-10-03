@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.388720Z",
+    "generated_at": "2025-10-03T17:58:49.019001Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:25.381524Z",
+      "download_timestamp": "2025-10-03T17:56:16.762640Z",
       "file_path": "data/raw/36d4cd37782934578343fc5920de4e8379198e5aa0936626019a31d3ab2280e6_tinmorry-placf-petgcf.xlsx",
       "file_size": 379978,
       "file_type": ".xlsx",
@@ -47,20 +47,21 @@
   ],
   "post": {
     "cleaned_text": "Tinmorry PLA-CF vs PETG-CF, carbon fiber filaments with a great layer adhesion! Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Tinmorry PLA-CF vs PETG-CF, carbon fiber filaments with a great layer adhesion! Title: Tinmorry PLA-CF vs PETG-CF, carbon fiber filaments with a great layer adhesion!. Watch on youtube: https://youtu.be/ENTygRq73ZM Tags: 3dprint , material test , tinmorry , Tinmorry company have very interesting filaments. In this video PLA-CF and PETG-CF 3D printing filaments are tested and compared to each other. Usually CF added to filaments results nicer printing, but they make part weaker along Z-axis. Usually. Tinmorry store: https://tinmorry.net/ Amazon.de: https://www.amazon.de/-/en/stores/TINMORRY3DDruckerFilament/page/BA7D7862-7128-4D8E-88DA-0A9EEAC540A4?ref_=ast_bln Chapters: 0:00 Introduction 0:17 Unboxing 3:00 Temperature tower 3:34 Settings (slicer) 4:03 3D printing 4:18 Tensile test 4:34 Layer adhesion test 5:00 Shear test 5:38 Torque (twist) test 6:11 Bending test 6:40 Temperature test 7:05 Impact test 7:32 Creep test 8:27 Results 12:03 Conclusions #3dprinting #tinmorry #petg #pla Download files: tinmorry-placf-petgcf.xlsx 380 kB",
-    "download_timestamp": "2025-10-03T14:23:09.244476Z",
+    "download_timestamp": "2025-10-03T17:55:00.543094Z",
     "manufacturer_links": [],
     "post_hash": "79d5be8aedada1f37f464ff08674f50e275337049e84fa1601133820fb5d4a83",
-    "title": "MyTechFun.com",
+    "title": "Tinmorry PLA-CF vs PETG-CF, carbon fiber filaments with a great layer adhesion!",
     "url": "https://www.mytechfun.com/video/413",
     "youtube_link": "https://youtu.be/ENTygRq73ZM"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.388711Z",
+    "download_timestamp": "2025-10-03T17:58:49.018990Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "79d5be8aedada1f37f464ff08674f50e275337049e84fa1601133820fb5d4a83",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/413",
     "storage_key": "79d5be8aedada1f3"
-  }
+  },
+  "title": "Tinmorry PLA-CF vs PETG-CF, carbon fiber filaments with a great layer adhesion!"
 }

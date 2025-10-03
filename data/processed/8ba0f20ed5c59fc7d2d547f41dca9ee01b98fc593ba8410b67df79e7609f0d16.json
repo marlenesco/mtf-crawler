@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.399984Z",
+    "generated_at": "2025-10-03T17:58:49.028248Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:42.096572Z",
+      "download_timestamp": "2025-10-03T17:56:32.775682Z",
       "file_path": "data/raw/7f603c0f498c0912521e3d56c294bd2e3344b1d353399930dfe54eeacfebcace_results-polymaker-tpu.xlsx",
       "file_size": 85127,
       "file_type": ".xlsx",
@@ -36,24 +36,25 @@
   ],
   "post": {
     "cleaned_text": "Maybe too detailed flex filament test - Polymaker TPU90 vs TPU95 vs TPU95-HF Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Maybe too detailed flex filament test - Polymaker TPU90 vs TPU95 vs TPU95-HF Title: Maybe too detailed flex filament test - Polymaker TPU90 vs TPU95 vs TPU95-HF. Watch on youtube: https://youtu.be/9vhfI9yvmpU Tags: 3dprint , polymaker , material test , tpu filament , In this video all Polymaker TPU filaments are tested and compared with each other: TPU90 is the softest. TPU95 is hardest and HF means high flow, it can be printed on higher speeds. This is first detailed TPU test on Mytechfun channel, and suggestions about testing methods are welcome. Links to tested products (with same color): TPU90 blue (teal): https://us.polymaker.com/products/polyflex-tpu90?variant=39574341189689&aff=49 TPU95 orange: https://us.polymaker.com/products/polyflex-tpu95?variant=39574341386297&aff=49 TPU95-HF (black): https://us.polymaker.com/products/polyflex-tpu95-hf?aff=49 Results can be downloaded from the bottom of this page. On same place you can ind tested objects too (STL). Contents: 0:00 Introduction 1:46 About tested TPU filaments 2:58 TPU95 3D printing 7:22 TPU90 3D printing 11:12 TPU95-HF 3D printing 14:48 Tensile (prolongation) test 15:36 Layer adhesion test 16:27 Ring test (compression) 19:42 Ring test (pulling) 22:14 Creep test 23:56 Temperature test 24:58 Spring washer test 26:47 Hardness 27:36 Printing on Ender3V2 (bowden style) 28:44 Results 33:25 Conclusions #polymaker #3dprinting #tpu #flexfilament Download files: d15x15x7.stl 125.7 kB [ View» ] d50x5x08mm.stl 74.3 kB [ View» ] d50x6x6.stl 70.1 kB [ View» ] hor_v4.stl 62.7 kB [ View» ] results-polymaker-tpu.xlsx 85.1 kB temperature_test-6cm.stl 1.5 kB [ View» ] ver_v4-top-bridge.stl 517.1 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:23:50.420932Z",
+    "download_timestamp": "2025-10-03T17:55:41.657094Z",
     "manufacturer_links": [
       "https://us.polymaker.com/products/polyflex-tpu90?variant=39574341189689&aff=49",
       "https://us.polymaker.com/products/polyflex-tpu95?variant=39574341386297&aff=49",
       "https://us.polymaker.com/products/polyflex-tpu95-hf?aff=49"
     ],
     "post_hash": "8ba0f20ed5c59fc7d2d547f41dca9ee01b98fc593ba8410b67df79e7609f0d16",
-    "title": "MyTechFun.com",
+    "title": "Maybe too detailed flex filament test - Polymaker TPU90 vs TPU95 vs TPU95-HF",
     "url": "https://www.mytechfun.com/video/228",
     "youtube_link": "https://youtu.be/9vhfI9yvmpU"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.399974Z",
+    "download_timestamp": "2025-10-03T17:58:49.028238Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "8ba0f20ed5c59fc7d2d547f41dca9ee01b98fc593ba8410b67df79e7609f0d16",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/228",
     "storage_key": "8ba0f20ed5c59fc7"
-  }
+  },
+  "title": "Maybe too detailed flex filament test - Polymaker TPU90 vs TPU95 vs TPU95-HF"
 }

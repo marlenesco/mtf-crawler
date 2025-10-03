@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.399742Z",
+    "generated_at": "2025-10-03T17:58:49.028028Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:41.663354Z",
+      "download_timestamp": "2025-10-03T17:56:32.371516Z",
       "file_path": "data/raw/e4e5673b0c6135384f7dd1b46f51e8fc001c20f708fd737b11b961c119e4161b_16-pla-brand-strength.xlsx",
       "file_size": 23225,
       "file_type": ".xlsx",
@@ -47,20 +47,21 @@
   ],
   "post": {
     "cleaned_text": "16 PLA brand comparison test - which one is strongest? Part 3/3 Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About 16 PLA brand comparison test - which one is strongest? Part 3/3 Title: 16 PLA brand comparison test - which one is strongest? Part 3/3. Watch on youtube: https://youtu.be/spCtiX4b3ds Tags: 3dprint , material test , strength test , This is the 3rd (last) part of my big PLA brand comparison test. In this episode I am testing the tensile strength and layer adhesion. Almost every filament was bought by me, only AzureFilm, Eryone and 3D Active was sent to be included in this testing. Contents: 0:00 Introduction 1:51 3D printing 3:10 Layer adhesion tests 6:00 Tensile tests 8:05 Results 9:19 Final words Results in Excel table below this text. List of tested brands: 3D active Eryone Sunlu Amazon Basics eSun Silk Geeetech Gembird BQ 3Dee 3DQF Tecbears PolyPlus Overture AzureFilm Prusament Hatchbox #3dprinting #plafilament Download files: 16-pla-brand-strength.xlsx 23.2 kB",
-    "download_timestamp": "2025-10-03T14:23:49.413212Z",
+    "download_timestamp": "2025-10-03T17:55:40.667816Z",
     "manufacturer_links": [],
     "post_hash": "13df71d54839c822aba66fdd3856966c9105b6ec7771e8273b387fdfa85ad38d",
-    "title": "MyTechFun.com",
+    "title": "16 PLA brand comparison test - which one is strongest? Part 3/3",
     "url": "https://www.mytechfun.com/video/232",
     "youtube_link": "https://youtu.be/spCtiX4b3ds"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.399733Z",
+    "download_timestamp": "2025-10-03T17:58:49.028018Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "13df71d54839c822aba66fdd3856966c9105b6ec7771e8273b387fdfa85ad38d",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/232",
     "storage_key": "13df71d54839c822"
-  }
+  },
+  "title": "16 PLA brand comparison test - which one is strongest? Part 3/3"
 }

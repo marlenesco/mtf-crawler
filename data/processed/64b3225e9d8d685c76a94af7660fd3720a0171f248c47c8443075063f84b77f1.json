@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.403673Z",
+    "generated_at": "2025-10-03T17:58:49.030662Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "FDM vs SLA 3D printing: the QUALITY comparison (FDM with 0.2mm nozzle) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About FDM vs SLA 3D printing: the QUALITY comparison (FDM with 0.2mm nozzle) Title: FDM vs SLA 3D printing: the QUALITY comparison (FDM with 0.2mm nozzle). Watch on youtube: https://youtu.be/B8VAUSNFwSc Tags: 3dprint , material test , fdm vs sla , FDM was printed on Ender3 V2 + MicroSwiss direct drive extruder and 0.2 mm nozzle, PLA (PolyMaker PolyPlus) SLA: Printed on Elegoo Mars (with Elegoo water washable resin) Digital microscope used in the video: https://www.banggood.com/custlink/mKmyBwrJcj Micro Swiss driect drive extruder: https://store.micro-swiss.com/products/micro-swiss-direct-drive-extruder Ender3 V2: https://www.banggood.com/custlink/GGvh5E38Rt All FDM vs SLA videos: https://www.mytechfun.com/videos/fdm_vs_sla Baby Yoda on Thingiverse (printed without stand): https://www.thingiverse.com/thing:4038181 Contents: 0:00 Introduction 1:50 Installing 0.2mm nozzle 2:33 3D printing times 3:35 3D printing test objects (FDM) 4:47 Analyzing test objects 11:49 Conclusions #sla3dprinting #3dprinting #fdm3dprinting #3dprintingquality Download files: 10mm-calibration-cube.stl 6.9 kB [ View» ] 10mm-hemisphere.stl 837.2 kB [ View» ] 15-percent-benchy.stl 11257.8 kB [ View» ] angle-surfaces-5-45.stl 3.1 kB [ View» ] gear-m05.stl 953 kB [ View» ] mini-badge.stl 240.7 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:24:00.464361Z",
+    "download_timestamp": "2025-10-03T17:55:51.696829Z",
     "manufacturer_links": [],
     "post_hash": "64b3225e9d8d685c76a94af7660fd3720a0171f248c47c8443075063f84b77f1",
-    "title": "MyTechFun.com",
+    "title": "FDM vs SLA 3D printing: the QUALITY comparison (FDM with 0.2mm nozzle)",
     "url": "https://www.mytechfun.com/video/172",
     "youtube_link": "https://youtu.be/B8VAUSNFwSc"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.403667Z",
+    "download_timestamp": "2025-10-03T17:58:49.030654Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "64b3225e9d8d685c76a94af7660fd3720a0171f248c47c8443075063f84b77f1",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/172",
     "storage_key": "64b3225e9d8d685c"
-  }
+  },
+  "title": "FDM vs SLA 3D printing: the QUALITY comparison (FDM with 0.2mm nozzle)"
 }

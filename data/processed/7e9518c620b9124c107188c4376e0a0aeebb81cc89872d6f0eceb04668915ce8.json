@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.396176Z",
+    "generated_at": "2025-10-03T17:58:49.024903Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:35.842414Z",
+      "download_timestamp": "2025-10-03T17:56:26.820344Z",
       "file_path": "data/raw/909fa6a5ad3b3351d320d94f67743654dd86f771dca9a7403a2a703b6b83e11a_sunlu-easy-abs.xlsx",
       "file_size": 297993,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "Sunlu Easy ABS: easy for 3D printing, no odor, but what about mechanical properties? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Sunlu Easy ABS: easy for 3D printing, no odor, but what about mechanical properties? Title: Sunlu Easy ABS: easy for 3D printing, no odor, but what about mechanical properties?. Watch on youtube: https://youtu.be/-WL_Ue0fIfM Tags: 3dprint , abs , sunlu , material test , Sunlu Easy ABS is a new product which is very easy for 3D printing, don't have irritating odor, lower print temperature. Some mechanical properties are lower compared to average ABS material, including the creeping and the impact resistance (but still better than average PETG). Overall, great filament, only that temperature resistance could be better. Sunlu filaments (affiliate link): https://bit.ly/43d0aaY Results: download below this text. All Sunlu related videos: https://www.mytechfun.com/videos/sunlu Contents: 0:00 Introduction 2:31 Temperature tower 3:35 3D printing test objects 4:40 Pulling test 4:59 Layer adhesion test 5:15 Shear test 5:31 Bending test 6:12 Impact test 6:49 Torque test 7:23 Temperature test 8:22 Creeping 9:24 Results 11:40 Pros 12:38 Cons #sunlu #abs #3dprinting Download files: sunlu-easy-abs.xlsx 298 kB",
-    "download_timestamp": "2025-10-03T14:23:35.380634Z",
+    "download_timestamp": "2025-10-03T17:55:26.645799Z",
     "manufacturer_links": [],
     "post_hash": "7e9518c620b9124c107188c4376e0a0aeebb81cc89872d6f0eceb04668915ce8",
-    "title": "MyTechFun.com",
+    "title": "Sunlu Easy ABS: easy for 3D printing, no odor, but what about mechanical properties?",
     "url": "https://www.mytechfun.com/video/305",
     "youtube_link": "https://youtu.be/-WL_Ue0fIfM"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.396167Z",
+    "download_timestamp": "2025-10-03T17:58:49.024893Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "7e9518c620b9124c107188c4376e0a0aeebb81cc89872d6f0eceb04668915ce8",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/305",
     "storage_key": "7e9518c620b9124c"
-  }
+  },
+  "title": "Sunlu Easy ABS: easy for 3D printing, no odor, but what about mechanical properties?"
 }

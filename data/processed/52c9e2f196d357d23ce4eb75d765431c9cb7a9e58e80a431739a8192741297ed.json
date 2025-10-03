@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.394285Z",
+    "generated_at": "2025-10-03T17:58:49.023599Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:33.159039Z",
+      "download_timestamp": "2025-10-03T17:56:24.270085Z",
       "file_path": "data/raw/a0d6c856ebb0ef406223cf2157170ea74fbbcf5926c07e1a1aa400a0ae880717_jamghe-pla-petg.xlsx",
       "file_size": 307799,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "PETG vs Hi-Speed PLA+ by JamgHe, The review and mechanical testing Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About PETG vs Hi-Speed PLA+ by JamgHe, The review and mechanical testing Title: PETG vs Hi-Speed PLA+ by JamgHe, The review and mechanical testing. Watch on youtube: https://youtu.be/STdpL5n5_Jk Tags: 3dprint , jamghe , material test , Let's compare two different filaments from the same manufacturer: Hi Speed PLA+ vs PETG by JamgHe. Let's check the printability and the mechanical properties. All test objects are printed on Creality K1 on 300 mm/s (for PLA+) and 200 mm/s for PETG. AMS Riser from PETG was printed on Qidi X-Max3 on 300 mm/s speed. Official Website 5% Promotion code: RHAA4MNKTVDV https://www.jamghe.com/ Amazon UK 5% Promotion code: QU5B-BGLPAD-2ACJB7 10% Christmas Special Deal: XBGW-E9J5TT-JXCSB9 https://www.amazon.co.uk/s?me=A24ZX23RGSEXWY&marketplaceID=A1F83G8C2ARO7P Amazon DE 5% Promotion code: EEYM-8THLUQ-REMZB8 10% Christmas Special Deal : E3JQ-8P74GN-V8MLBE https://www.amazon.de/s?me=A24ZX23RGSEXWY&language=en&marketplaceID=A1PA6795UKMFR9 Results in Excel table you can download below this text. Contents: 0:00 Introduction, specs 2:14 PLA+ 3D printing 3:57 PETG 3D printing 5:54 Tensile test 6:15 Layer adhesion test 6:33 Shear test 6:47 Beding test 7:20 Torque (twist) test 7:41 Creep test 8:55 Impact test 9:33 Temperature test 10:10 Friction test 12:00 Results 14:25 Conclusions #3dprinting #jamghe Download files: jamghe-pla-petg.xlsx 307.8 kB",
-    "download_timestamp": "2025-10-03T14:23:29.371226Z",
+    "download_timestamp": "2025-10-03T17:55:20.597861Z",
     "manufacturer_links": [],
     "post_hash": "52c9e2f196d357d23ce4eb75d765431c9cb7a9e58e80a431739a8192741297ed",
-    "title": "MyTechFun.com",
+    "title": "PETG vs Hi-Speed PLA+ by JamgHe, The review and mechanical testing",
     "url": "https://www.mytechfun.com/video/334",
     "youtube_link": "https://youtu.be/STdpL5n5_Jk"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.394273Z",
+    "download_timestamp": "2025-10-03T17:58:49.023589Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "52c9e2f196d357d23ce4eb75d765431c9cb7a9e58e80a431739a8192741297ed",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/334",
     "storage_key": "52c9e2f196d357d2"
-  }
+  },
+  "title": "PETG vs Hi-Speed PLA+ by JamgHe, The review and mechanical testing"
 }

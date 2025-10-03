@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.403447Z",
+    "generated_at": "2025-10-03T17:58:49.030355Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:45.755298Z",
+      "download_timestamp": "2025-10-03T17:56:36.344269Z",
       "file_path": "data/raw/55fd190f083ad11b67551e887827034e9d6ca5913ee363c2555cf20e13d6d7a3_eSun-abs-asa.xlsx",
       "file_size": 53877,
       "file_type": ".xlsx",
@@ -36,22 +36,23 @@
   ],
   "post": {
     "cleaned_text": "eSUN ABS+ vs ASA filament test, which one is stronger from mechanical strength aspect? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About eSUN ABS+ vs ASA filament test, which one is stronger from mechanical strength aspect? Title: eSUN ABS+ vs ASA filament test, which one is stronger from mechanical strength aspect?. Watch on youtube: https://youtu.be/O9QmfDy9HmA Tags: 3dprint , esun , strength test , material test , eASA vs ABS+ tested from mechanical strength aspect (including hardness, creep- and temperature tests). Earlier I already tested ePA, ePC and ABS+ filaments by eSun, in that video I used ABS+ in white color, but some comments suggested to test black ABS+ too, so I bought it myself. The eASA filament is also in black color and it was sent to me by eSun. ABS+: https://esun3dstore.com/collections/3d-printing-filament/products/esun-abs eASA: https://www.esun3d.com/easa-product/ List of all eSun related videos: https://www.mytechfun.com/videos/esun Results can be downloaded below this text. Contents: 0:00 Introduction 2:46 ABS+ unboxing 4:10 ABS+ 3D printing 6:46 ASA unboxing 7:24 ASA 3D printing 10:23 Tensile test 10:54 Layer adhesion test 11:31 Shear test 12:03 Bending test 12:40 Torque (twist) test 13:22 Impact test 14:58 Hardness 15:37 Temperature test 16:53 Creep test 1 (C-bending) 19:41 Creep test 2 (screw) 21:54 Results 24:02 Final thoughts #esun #esunfilament #3dprinting #abs #asa Download files: eSun-abs-asa.xlsx 53.9 kB",
-    "download_timestamp": "2025-10-03T14:23:59.456036Z",
+    "download_timestamp": "2025-10-03T17:55:50.699334Z",
     "manufacturer_links": [
       "https://www.esun3d.com/easa-product/"
     ],
     "post_hash": "e12ae55d1dcb1d6c8b6aff078eebec2df77574a749bb1fbbf961a030250e7aaf",
-    "title": "MyTechFun.com",
+    "title": "eSUN ABS+ vs ASA filament test, which one is stronger from mechanical strength aspect?",
     "url": "https://www.mytechfun.com/video/178",
     "youtube_link": "https://youtu.be/O9QmfDy9HmA"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.403438Z",
+    "download_timestamp": "2025-10-03T17:58:49.030336Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "e12ae55d1dcb1d6c8b6aff078eebec2df77574a749bb1fbbf961a030250e7aaf",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/178",
     "storage_key": "e12ae55d1dcb1d6c"
-  }
+  },
+  "title": "eSUN ABS+ vs ASA filament test, which one is stronger from mechanical strength aspect?"
 }

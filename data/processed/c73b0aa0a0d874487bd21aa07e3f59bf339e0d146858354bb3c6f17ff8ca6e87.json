@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.388947Z",
+    "generated_at": "2025-10-03T17:58:49.019212Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Testing Sunlu Esthetic filaments (wood, glow in dark, dual color, rainbow, silk etc.) Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Testing Sunlu Esthetic filaments (wood, glow in dark, dual color, rainbow, silk etc.) Title: Testing Sunlu Esthetic filaments (wood, glow in dark, dual color, rainbow, silk etc.). Watch on youtube: https://youtu.be/pvWap9vEoOk Tags: 3dprint , material test , sunlu , Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:23:10.234731Z",
+    "download_timestamp": "2025-10-03T17:55:01.544484Z",
     "manufacturer_links": [],
     "post_hash": "c73b0aa0a0d874487bd21aa07e3f59bf339e0d146858354bb3c6f17ff8ca6e87",
-    "title": "MyTechFun.com",
+    "title": "Testing Sunlu Esthetic filaments (wood, glow in dark, dual color, rainbow, silk etc.)",
     "url": "https://www.mytechfun.com/video/411",
     "youtube_link": "https://youtu.be/pvWap9vEoOk"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.388942Z",
+    "download_timestamp": "2025-10-03T17:58:49.019206Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "c73b0aa0a0d874487bd21aa07e3f59bf339e0d146858354bb3c6f17ff8ca6e87",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/411",
     "storage_key": "c73b0aa0a0d87448"
-  }
+  },
+  "title": "Testing Sunlu Esthetic filaments (wood, glow in dark, dual color, rainbow, silk etc.)"
 }

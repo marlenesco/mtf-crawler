@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.390393Z",
+    "generated_at": "2025-10-03T17:58:49.020844Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:28.619570Z",
+      "download_timestamp": "2025-10-03T17:56:19.895977Z",
       "file_path": "data/raw/cf3a569dba705cf9a56f32faf55e87084cf304f572d9a57e22b8ed73e18d7010_geeetech-3x.xlsx",
       "file_size": 387772,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "Geeetech PLA vs PETG vs ABS+ and this time all in gray color Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Geeetech PLA vs PETG vs ABS+ and this time all in gray color Title: Geeetech PLA vs PETG vs ABS+ and this time all in gray color. Watch on youtube: https://youtu.be/wCUb_wA_0UM Tags: 3dprint , material test , geeetech , abs , petg , pla , Let's compare Geeetech PLA, PETG and ABS+ , three basic 3D printing materials. None of them is perfect, each has it's own advantage and disadvantage. Product links (not affiliate): 1. https://www.geeetech.com/pla-grey-3d-printer-filament-175mm-1kgroll-p-973.html 2. https://www.geeetech.com/petg-grey-3d-printer-filament-175mm-1kgroll-p-1161.html 3. https://www.geeetech.com/abs-grey-3d-printer-filament-175mm-1kgroll-p-1427.html 4. https://www.geeetech.com/10kg-petg-grey-3d-printer-filament-175mm-1kgroll-p-1521.html 5. https://www.geeetech.com/10kg-pla-grey-3d-printer-filament-175mm-1kgroll-p-1487.html Results download link (below this text). Chapters: 0:00 Introduction 0:51 Unboxing 2:27 Slicer 3:05 3D printing 3:42 Shrinking 4:19 Tensile test 4:36 Layer adhesion test 4:54 Shear test 5:15 Torque (twist) test 5:42 Bending test 6:10 Temperature test 6:42 Impact test 7:23 Creep test 8:11 Results 11:02 Conclusions #3dprinting #filament #geeetech Download files: geeetech-3x.xlsx 387.8 kB",
-    "download_timestamp": "2025-10-03T14:23:16.298200Z",
+    "download_timestamp": "2025-10-03T17:55:07.584907Z",
     "manufacturer_links": [],
     "post_hash": "8b09c1afda2ca1ead109502ab17ab8c75c59c05e680636fb0a223616ba7bbe47",
-    "title": "MyTechFun.com",
+    "title": "Geeetech PLA vs PETG vs ABS+ and this time all in gray color",
     "url": "https://www.mytechfun.com/video/402",
     "youtube_link": "https://youtu.be/wCUb_wA_0UM"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.390383Z",
+    "download_timestamp": "2025-10-03T17:58:49.020833Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "8b09c1afda2ca1ead109502ab17ab8c75c59c05e680636fb0a223616ba7bbe47",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/402",
     "storage_key": "8b09c1afda2ca1ea"
-  }
+  },
+  "title": "Geeetech PLA vs PETG vs ABS+ and this time all in gray color"
 }

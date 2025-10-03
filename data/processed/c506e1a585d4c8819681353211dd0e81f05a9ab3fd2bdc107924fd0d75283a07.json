@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.389911Z",
+    "generated_at": "2025-10-03T17:58:49.020192Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:27.621172Z",
+      "download_timestamp": "2025-10-03T17:56:18.919074Z",
       "file_path": "data/raw/fb04d9ea4f3cf5fe901b1b374afff7dce49de1c8463439746d8fba67cf6b7b24_bambulab-pa6-cf-gf.xlsx",
       "file_size": 388448,
       "file_type": ".xlsx",
@@ -47,20 +47,21 @@
   ],
   "post": {
     "cleaned_text": "BambuLab PA6-CF vs PA6-GF, strongest nylon filaments I tested so far Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About BambuLab PA6-CF vs PA6-GF, strongest nylon filaments I tested so far Title: BambuLab PA6-CF vs PA6-GF, strongest nylon filaments I tested so far. Watch on youtube: https://youtu.be/cwbnIXHSxmY Tags: 3dprint , material test , bambulab , nylon , BambuLab PA6-CF is a nylon filament reinforced with carbon fibers. PA6-GF is reinforced with glass fibers. Both are printed with X1C 3D printer using default settings in Bambu Studio. I am repeating same mechanical testings, but in some experiments, these filaments were stronger than the maximal limits of my equipment. Product (affiliate) link: https://shrsl.com/4pan6 Chapters: 0:00 Introduction 1:33 Specifications 1:59 Unboxing 2:18 PA6-CF 3D printing 3:03 PA6-GF 3D printing 4:30 Benchy from nylon 4:56 Annealing 5:26 Shrinking, Mass 6:57 Tensile test 7:11 Layer adhesion test 7:30 Shear test 8:07 Torque (twist) test 8:50 Bending test 9:25 Creep test 10:29 Temperature test 11:38 Practical example 11:52 Impact test 12:58 Results 15:59 Conclusions #3dprinting #bambulab #nylon #pa6cf #pa6gf Download files: bambulab-pa6-cf-gf.xlsx 388.4 kB",
-    "download_timestamp": "2025-10-03T14:23:14.271911Z",
+    "download_timestamp": "2025-10-03T17:55:05.539350Z",
     "manufacturer_links": [],
     "post_hash": "c506e1a585d4c8819681353211dd0e81f05a9ab3fd2bdc107924fd0d75283a07",
-    "title": "MyTechFun.com",
+    "title": "BambuLab PA6-CF vs PA6-GF, strongest nylon filaments I tested so far",
     "url": "https://www.mytechfun.com/video/405",
     "youtube_link": "https://youtu.be/cwbnIXHSxmY"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.389902Z",
+    "download_timestamp": "2025-10-03T17:58:49.020171Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "c506e1a585d4c8819681353211dd0e81f05a9ab3fd2bdc107924fd0d75283a07",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/405",
     "storage_key": "c506e1a585d4c881"
-  }
+  },
+  "title": "BambuLab PA6-CF vs PA6-GF, strongest nylon filaments I tested so far"
 }

@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.402994Z",
+    "generated_at": "2025-10-03T17:58:49.029768Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:44.912506Z",
+      "download_timestamp": "2025-10-03T17:56:35.521149Z",
       "file_path": "data/raw/5caf38475338d490cfae419c6e17688079c916204a4e73086710d081feb66d06_prusament-results.xlsx",
       "file_size": 57716,
       "file_type": ".xlsx",
@@ -36,22 +36,23 @@
   ],
   "post": {
     "cleaned_text": "Testing Prusament filaments by Josef Prusa - PLA, PETG, ASA and PC Blend Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Testing Prusament filaments by Josef Prusa - PLA, PETG, ASA and PC Blend Title: Testing Prusament filaments by Josef Prusa - PLA, PETG, ASA and PC Blend. Watch on youtube: https://youtu.be/b5scr5Yuxe4 Tags: 3dprint , strength test , material test , prusament , Prusament website: https://prusament.com/ Video is long, but you can jump to any part using these time stamps: Contents: 0:00 Introduction to Prusament 1:56 Printability 5:28 3D Printing PLA 6:51 3D printing PETG 9:29 Preparing enclosure for ASA 12:06 3D Printing ASA 14:07 3D Printing PC Blend 19:45 Temperature towers 20:15 Tensile (pulling) test 21:01 Layer adhesion test 21:55 Shear test 22:33 Bending test 23:44 Torque (twist) test 24:55 IZOD impact test 26:43 Hardness 27:16 Temperature test 28:55 Creep test (bending) 32:54 Creep test (screw) 34:42 Results 38:04 Conclusions #prusament #3dprinting #josefprusa #pcblend #3dfilament Download files: prusament-results.xlsx 57.7 kB",
-    "download_timestamp": "2025-10-03T14:23:57.445251Z",
+    "download_timestamp": "2025-10-03T17:55:48.700539Z",
     "manufacturer_links": [
       "https://prusament.com/"
     ],
     "post_hash": "165792457ea1c58974fa31d7158c8d273b2ec83ec1d72f2bce50d2c367905673",
-    "title": "MyTechFun.com",
+    "title": "Testing Prusament filaments by Josef Prusa - PLA, PETG, ASA and PC Blend",
     "url": "https://www.mytechfun.com/video/196",
     "youtube_link": "https://youtu.be/b5scr5Yuxe4"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.402984Z",
+    "download_timestamp": "2025-10-03T17:58:49.029758Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "165792457ea1c58974fa31d7158c8d273b2ec83ec1d72f2bce50d2c367905673",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/196",
     "storage_key": "165792457ea1c589"
-  }
+  },
+  "title": "Testing Prusament filaments by Josef Prusa - PLA, PETG, ASA and PC Blend"
 }

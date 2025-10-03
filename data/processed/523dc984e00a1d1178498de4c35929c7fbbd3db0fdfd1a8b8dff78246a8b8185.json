@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.404110Z",
+    "generated_at": "2025-10-03T17:58:49.031171Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:46.806194Z",
+      "download_timestamp": "2025-10-03T17:56:37.400846Z",
       "file_path": "data/raw/d2278cc605c072d705dc0b51c0de59af0abf8fb874f66b84fe20cc7ea7d064e3_results-prusament-siraya.xlsx",
       "file_size": 38199,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "Prusament resin vs Siraya Sculpt resin, which one is stronger? Mechanical tests Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Prusament resin vs Siraya Sculpt resin, which one is stronger? Mechanical tests Title: Prusament resin vs Siraya Sculpt resin, which one is stronger? Mechanical tests. Watch on youtube: https://youtu.be/_jZQGTw6aEs Tags: 3dprint , strength test , material test , prusament , siraya , sla 3d printing , Mechanical strength comparison of Prusament resin and Siraya sculpt resin. Prusament is in Prusa tough orange color and Siraya Sculpt in gray color. These test objects are sent to me by one of my viewer: Samuel from Slovakia. Objects are printed on Prusa SL1s SLA 3D printer. Samuel also did an unboxing video of Prusament resin, you can see it here: https://youtu.be/ZbZKrMQO7Rg Product pages (not affiliate links): Prusament resin: https://shop.prusa3d.com/en/prusament-resin/1687-prusament-resin-tough-prusa-orange.html Siraya Sculpt resin: https://siraya.tech/products/sculpt-1kg-high-resolution-hitemp-resistance-resin-for-dlp-lcd-printers-like-moonray Results can be downloaded below this text. Contents: 0:00 Introduction 0:49 Closer look, dimensions 2:05 Tensile test 3:02 Shear test 3:54 Bending test 4:57 Impact test 6:15 Torque (twist) test 7:18 Creep test 11:09 All results 12:43 Conclusions #prusament #siraya #resin #sla3dprinting #prusa Download files: results-prusament-siraya.png 92.1 kB results-prusament-siraya.xlsx 38.2 kB",
-    "download_timestamp": "2025-10-03T14:24:02.476498Z",
+    "download_timestamp": "2025-10-03T17:55:53.700601Z",
     "manufacturer_links": [],
     "post_hash": "523dc984e00a1d1178498de4c35929c7fbbd3db0fdfd1a8b8dff78246a8b8185",
-    "title": "MyTechFun.com",
+    "title": "Prusament resin vs Siraya Sculpt resin, which one is stronger? Mechanical tests",
     "url": "https://www.mytechfun.com/video/146",
     "youtube_link": "https://youtu.be/_jZQGTw6aEs"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.404101Z",
+    "download_timestamp": "2025-10-03T17:58:49.031160Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "523dc984e00a1d1178498de4c35929c7fbbd3db0fdfd1a8b8dff78246a8b8185",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/146",
     "storage_key": "523dc984e00a1d11"
-  }
+  },
+  "title": "Prusament resin vs Siraya Sculpt resin, which one is stronger? Mechanical tests"
 }

@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.399315Z",
+    "generated_at": "2025-10-03T17:58:49.027605Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:41.082224Z",
+      "download_timestamp": "2025-10-03T17:56:31.830598Z",
       "file_path": "data/raw/6a8a35410bf4dec15dbc4c0cdb4b76161237d60eec58cffec752d43be9419490_results-pcbway-metal.xlsx",
       "file_size": 26067,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "SLM Metal 3D printing by PCBWAY - Stainless steel vs Tool steel vs Aluminum - how strong are they? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About SLM Metal 3D printing by PCBWAY - Stainless steel vs Tool steel vs Aluminum - how strong are they? Title: SLM Metal 3D printing by PCBWAY - Stainless steel vs Tool steel vs Aluminum - how strong are they?. Watch on youtube: https://youtu.be/Gkim2NgnAVA Tags: 3dprint , material test , strength test , SLM 3D printers are expensive, but we can use 3D printing services. In this video three different 3D printed materials are tested: stainless steel, tool steel and aluminum. From tool steel a 13mm diameter twist driss is printed too, which will be tested for drilling into aluminum and regular steel. https://www.pcbway.com/ STL files and results are downloadable from: https://www.mytechfun.com/video/237 Contents: 0:00 Introduction 1:19 Ordering process 2:02 Unboxing, analyzing the objects 6:15 Weight 6:45 Tensile (pulling) test 7:31 Layer adhesion test 8:35 Hook test 9:50 Twist drill test 12:15 Results 13:09 Conclusions #3dprinting #pcbway #metal3dprinting #slm3dprinting Download files: hook-2x2mm.stl 39.5 kB [ View» ] hor_2x2.stl 67.5 kB [ View» ] results-pcbway-metal.xlsx 26.1 kB twist-drill-d13.stl 1624.5 kB [ View» ] ver_2x2.stl 63.1 kB [ View» ]",
-    "download_timestamp": "2025-10-03T14:23:47.398607Z",
+    "download_timestamp": "2025-10-03T17:55:38.664594Z",
     "manufacturer_links": [],
     "post_hash": "8964b1084d345f48c5bd2e5f9f49ae4484ddb419c1237dc0170506dcbeab16e9",
-    "title": "MyTechFun.com",
+    "title": "SLM Metal 3D printing by PCBWAY - Stainless steel vs Tool steel vs Aluminum - how strong are they?",
     "url": "https://www.mytechfun.com/video/237",
     "youtube_link": "https://youtu.be/Gkim2NgnAVA"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.399306Z",
+    "download_timestamp": "2025-10-03T17:58:49.027593Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "8964b1084d345f48c5bd2e5f9f49ae4484ddb419c1237dc0170506dcbeab16e9",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/237",
     "storage_key": "8964b1084d345f48"
-  }
+  },
+  "title": "SLM Metal 3D printing by PCBWAY - Stainless steel vs Tool steel vs Aluminum - how strong are they?"
 }

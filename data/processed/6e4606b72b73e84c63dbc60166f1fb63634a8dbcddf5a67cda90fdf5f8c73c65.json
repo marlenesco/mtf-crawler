@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.389432Z",
+    "generated_at": "2025-10-03T17:58:49.019651Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:26.574204Z",
+      "download_timestamp": "2025-10-03T17:56:17.929721Z",
       "file_path": "data/raw/3361d4eb237664a84ec03e43840cf2097da3c7c4a60040d294b310e961205cae_bambulab-pet-cf.xlsx",
       "file_size": 385708,
       "file_type": ".xlsx",
@@ -36,20 +36,21 @@
   ],
   "post": {
     "cleaned_text": "BambuLab PET-CF filament review. But how does it compare to PPA-CF? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About BambuLab PET-CF filament review. But how does it compare to PPA-CF? Title: BambuLab PET-CF filament review. But how does it compare to PPA-CF?. Watch on youtube: https://youtu.be/H_3SPwlUv5Y Tags: 3dprint , material test , bambulab , petcf , BambuLab PET-CF is a filament reinforced with carbon fibers, the base is PET (like PET bottles, no Glycol, like in PETG filaments). Test objects are printed with X1C 3D printer using default settings in Bambu Studio. I am repeating same mechanical testings, so the results are comparable with those from my earlier experiments. Since in this video I have only PET-CF for the testing, in the results part I am including the PPA-CF values. Product (affiliate) link: https://shrsl.com/4q8bx Mentioned in the video: PPA-CF review: https://youtu.be/IXlrUWSz_xY Chapters: 0:00 Introduction, Specifications 1:46 Unboxing 2:22 Drying 3:13 Slicer settings 3:24 3D printing 4:13 Tensile test 4:20 Layer adhesion test 4:38 Shear test 5:04 Torque (twist) test 5:29 Bending test 5:54 Temperature test 7:06 Impact test 7:33 Creep test 8:12 Annealing 9:50 Results 13:13 Conclusions #3dprinting #bambulab Download files: bambulab-pet-cf.xlsx 385.7 kB",
-    "download_timestamp": "2025-10-03T14:23:12.259487Z",
+    "download_timestamp": "2025-10-03T17:55:03.546841Z",
     "manufacturer_links": [],
     "post_hash": "6e4606b72b73e84c63dbc60166f1fb63634a8dbcddf5a67cda90fdf5f8c73c65",
-    "title": "MyTechFun.com",
+    "title": "BambuLab PET-CF filament review. But how does it compare to PPA-CF?",
     "url": "https://www.mytechfun.com/video/409",
     "youtube_link": "https://youtu.be/H_3SPwlUv5Y"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.389423Z",
+    "download_timestamp": "2025-10-03T17:58:49.019641Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "6e4606b72b73e84c63dbc60166f1fb63634a8dbcddf5a67cda90fdf5f8c73c65",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/409",
     "storage_key": "6e4606b72b73e84c"
-  }
+  },
+  "title": "BambuLab PET-CF filament review. But how does it compare to PPA-CF?"
 }

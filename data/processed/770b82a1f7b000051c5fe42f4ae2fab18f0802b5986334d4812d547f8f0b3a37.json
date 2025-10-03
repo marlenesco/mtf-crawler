@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.397049Z",
+    "generated_at": "2025-10-03T17:58:49.025773Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "GratKit dual and tri-color silk PLA filament testing Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About GratKit dual and tri-color silk PLA filament testing Title: GratKit dual and tri-color silk PLA filament testing. Watch on youtube: https://youtu.be/aHUde820T4E Tags: 3dprint , material test , Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:23:39.369766Z",
+    "download_timestamp": "2025-10-03T17:55:30.631266Z",
     "manufacturer_links": [],
     "post_hash": "770b82a1f7b000051c5fe42f4ae2fab18f0802b5986334d4812d547f8f0b3a37",
-    "title": "MyTechFun.com",
+    "title": "GratKit dual and tri-color silk PLA filament testing",
     "url": "https://www.mytechfun.com/video/264",
     "youtube_link": "https://youtu.be/aHUde820T4E"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.397044Z",
+    "download_timestamp": "2025-10-03T17:58:49.025767Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "770b82a1f7b000051c5fe42f4ae2fab18f0802b5986334d4812d547f8f0b3a37",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/264",
     "storage_key": "770b82a1f7b00005"
-  }
+  },
+  "title": "GratKit dual and tri-color silk PLA filament testing"
 }

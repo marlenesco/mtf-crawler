@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.390616Z",
+    "generated_at": "2025-10-03T17:58:49.021069Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Which filament type is the best for 3D printed screw WASHER? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Which filament type is the best for 3D printed screw WASHER? Title: Which filament type is the best for 3D printed screw WASHER?. Watch on youtube: https://youtu.be/j1AEbr9__eY Tags: 3dprint , material test , Mentioned in the video: 10 ASA comparison: https://youtu.be/GfG65ypKTPE Torque wrench: https://youtu.be/u-HcQnJqVoI Torque meter (the one I bought is not available any more, but this one is similar with range of 0.3-30 Nm): https://amzn.to/3ZyjPnl Chapters: 0:00 Introduction 1:38 Testing method 2:11 Filaments for testing 3:36 Equipment, printing 5:12 1 day testing 7:36 TPU (1 day testing) 9:21 2 days testing 11:35 Testing the accuracy 12:25 3 days test 13:38 Conclusions #3dprinting Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:23:17.283543Z",
+    "download_timestamp": "2025-10-03T17:55:08.573189Z",
     "manufacturer_links": [],
     "post_hash": "86fab7f592e3f2557e133184be85177f1adbf2df3b8bd002f2e5e6f4ec5545e4",
-    "title": "MyTechFun.com",
+    "title": "Which filament type is the best for 3D printed screw WASHER?",
     "url": "https://www.mytechfun.com/video/401",
     "youtube_link": "https://youtu.be/j1AEbr9__eY"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.390611Z",
+    "download_timestamp": "2025-10-03T17:58:49.021063Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "86fab7f592e3f2557e133184be85177f1adbf2df3b8bd002f2e5e6f4ec5545e4",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/401",
     "storage_key": "86fab7f592e3f255"
-  }
+  },
+  "title": "Which filament type is the best for 3D printed screw WASHER?"
 }

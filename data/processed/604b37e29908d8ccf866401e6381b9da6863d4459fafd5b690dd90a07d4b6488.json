@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.389179Z",
+    "generated_at": "2025-10-03T17:58:49.019422Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:26.069017Z",
+      "download_timestamp": "2025-10-03T17:56:17.455613Z",
       "file_path": "data/raw/768faddf8d317b31267e9c31e8ec3d009f15a3b4571a41ef392dd31f90d73c92_eryone-petg-vs-petg-cf.xlsx",
       "file_size": 385911,
       "file_type": ".xlsx",
@@ -47,20 +47,21 @@
   ],
   "post": {
     "cleaned_text": "On the test: Eryone PETG vs PETG-CF (carbon fiber) 3D printing filaments Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About On the test: Eryone PETG vs PETG-CF (carbon fiber) 3D printing filaments Title: On the test: Eryone PETG vs PETG-CF (carbon fiber) 3D printing filaments. Watch on youtube: https://youtu.be/6IYkFwAuXQ0 Tags: 3dprint , material test , eryone , petg , According to the poll (link below), most of my viewers were curious for comparison of Eryone PETG and PETG-CF (version reinforced with the carbon fibers). Usually carbon fibers helps with printability, temperature resistance and stiffness along X,Y direction. But good news is, that here we have a good layer adhesion too (typical weak point of CF filaments). Eryone website (affiliate link): https://eryone3d.com/?ref=mytechfun (or just try: \"mytechfun\" coupon code for discount, not sure if it still works) Chapters: 0:00 Introduction 1:02 Unboxing 2:50 Slicer settings 3:04 3D printing 3:22 Tensile test 3:44 Layer adhesion test 4:07 Shear test 4:28 Torque (twist) test 5:00 Bending test 5:29 Temperature test 5:49 Creep test 6:34 Impact test 7:07 Benchy (3D printing quality) 7:25 Results 9:40 Conclusions #3dprinting #eryone #petg Download files: eryone-petg-vs-petg-cf.xlsx 385.9 kB",
-    "download_timestamp": "2025-10-03T14:23:11.256269Z",
+    "download_timestamp": "2025-10-03T17:55:02.552633Z",
     "manufacturer_links": [],
     "post_hash": "604b37e29908d8ccf866401e6381b9da6863d4459fafd5b690dd90a07d4b6488",
-    "title": "MyTechFun.com",
+    "title": "On the test: Eryone PETG vs PETG-CF (carbon fiber) 3D printing filaments",
     "url": "https://www.mytechfun.com/video/410",
     "youtube_link": "https://youtu.be/6IYkFwAuXQ0"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.389169Z",
+    "download_timestamp": "2025-10-03T17:58:49.019412Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "604b37e29908d8ccf866401e6381b9da6863d4459fafd5b690dd90a07d4b6488",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/410",
     "storage_key": "604b37e29908d8cc"
-  }
+  },
+  "title": "On the test: Eryone PETG vs PETG-CF (carbon fiber) 3D printing filaments"
 }

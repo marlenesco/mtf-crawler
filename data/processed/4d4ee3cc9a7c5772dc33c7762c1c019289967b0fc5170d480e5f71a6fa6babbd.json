@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.392964Z",
+    "generated_at": "2025-10-03T17:58:49.022777Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:31.580644Z",
+      "download_timestamp": "2025-10-03T17:56:22.731756Z",
       "file_path": "data/raw/9b4b4460be665fff17503048aa79ac2b4866449c280b6db0ca00d584db53b179_bambulab-petg-hf.xlsx",
       "file_size": 315523,
       "file_type": ".xlsx",
@@ -47,20 +47,21 @@
   ],
   "post": {
     "cleaned_text": "Bambu Lab PETG-HF (red vs blue) as a replacement for PETG Basic, but is it really better? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Bambu Lab PETG-HF (red vs blue) as a replacement for PETG Basic, but is it really better? Title: Bambu Lab PETG-HF (red vs blue) as a replacement for PETG Basic, but is it really better?. Watch on youtube: https://youtu.be/gWMSbIRMRJc Tags: 3dprint , material test , bambulab , petg , Bambu Lab PETG HF is a High Flow version of PETG Basic filament, which will be discontinued. This new filament can be printed on a two times bigger flow rate, but how does it affect the mechanical properties? Let's find out. Product link (affiliate): https://shrsl.com/4m3ee Link to Results you can find below this text. Chapters: 0:00 Introduction 1:36 Unboxing 2:27 Slicer 2:50 3D printing 3:32 Creep test 4:53 Tensile test 5:17 Layer adhesion test 5:28 Shear test 5:54 Torque (twist) test 6:22 Bending test 6:47 Temperature test 7:16 Impact test 8:47 Results 12:11 Conclusions #3dprinting #bambulab #petg Download files: A1 & A1 mini_PETG HF.3mf 2596 kB P1 & X1_PETG HF.3mf 2592.3 kB bambulab-petg-hf.xlsx 315.5 kB",
-    "download_timestamp": "2025-10-03T14:23:25.320201Z",
+    "download_timestamp": "2025-10-03T17:55:16.609716Z",
     "manufacturer_links": [],
     "post_hash": "4d4ee3cc9a7c5772dc33c7762c1c019289967b0fc5170d480e5f71a6fa6babbd",
-    "title": "MyTechFun.com",
+    "title": "Bambu Lab PETG-HF (red vs blue) as a replacement for PETG Basic, but is it really better?",
     "url": "https://www.mytechfun.com/video/382",
     "youtube_link": "https://youtu.be/gWMSbIRMRJc"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.392944Z",
+    "download_timestamp": "2025-10-03T17:58:49.022767Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "4d4ee3cc9a7c5772dc33c7762c1c019289967b0fc5170d480e5f71a6fa6babbd",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/382",
     "storage_key": "4d4ee3cc9a7c5772"
-  }
+  },
+  "title": "Bambu Lab PETG-HF (red vs blue) as a replacement for PETG Basic, but is it really better?"
 }

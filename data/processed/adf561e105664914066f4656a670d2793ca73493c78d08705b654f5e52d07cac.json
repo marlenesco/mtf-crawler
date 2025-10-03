@@ -6,13 +6,13 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.397927Z",
+    "generated_at": "2025-10-03T17:58:49.026665Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
   "files": [
     {
-      "download_timestamp": "2025-10-03T14:24:39.150548Z",
+      "download_timestamp": "2025-10-03T17:56:30.028565Z",
       "file_path": "data/raw/2a6eba8494c80e7a8c69848b666d85990b8ba18ac2b655995ce05ad178c9f1c0_sunlu-pla-results.xlsx",
       "file_size": 307159,
       "file_type": ".xlsx",
@@ -36,23 +36,24 @@
   ],
   "post": {
     "cleaned_text": "Carbon Fiber PLA vs META-PLA vs PLA+ vs PLA by Sunlu Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Carbon Fiber PLA vs META-PLA vs PLA+ vs PLA by Sunlu Title: Carbon Fiber PLA vs META-PLA vs PLA+ vs PLA by Sunlu. Watch on youtube: https://youtu.be/OfIe3SHmeMA Tags: 3dprint , sunlu , strength test , material test , Big Sunlu PLA filament comparison: Carbon Fiber PLA vs META-PLA vs PLA+ vs regular PLA. Regular PLA, PLA+ and META PLA are send to me by Sunlu for the testing. The CF PLA I bought myself to include it in this comparison. Product pages: Sunlu filaments: https://www.sunlu.com/collections/fdm-3d-printing PLA META: https://www.sunlu.com/collections/pla-meta Download results below this text. Contents: 0:00 Introduction 1:25 About tested filaments 2:31 Unboxing 4:22 Regular PLA (3D printing) 5:51 META-PLA (3D printing) 7:12 PLA+ (3D printing) 8:15 Carbon Fiber PLA 10:25 Temperature towers side-by-side 10:50 Tensile (pulling) test 11:41 Layer adhesion test 12:34 Shear test 13:18 Bending test 14:08 Torque (twist) test 15:11 Impact test (IZOD) 16:39 Creep test 18:34 Temperature test 19:50 Hardness 20:41 Results 23:00 Conclusions #sunlu #3dprinting #pla #plafilament Download files: sunlu-pla-results.xlsx 307.2 kB",
-    "download_timestamp": "2025-10-03T14:23:43.388287Z",
+    "download_timestamp": "2025-10-03T17:55:34.660177Z",
     "manufacturer_links": [
       "https://www.sunlu.com/collections/fdm-3d-printing",
       "https://www.sunlu.com/collections/pla-meta"
     ],
     "post_hash": "adf561e105664914066f4656a670d2793ca73493c78d08705b654f5e52d07cac",
-    "title": "MyTechFun.com",
+    "title": "Carbon Fiber PLA vs META-PLA vs PLA+ vs PLA by Sunlu",
     "url": "https://www.mytechfun.com/video/244",
     "youtube_link": "https://youtu.be/OfIe3SHmeMA"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.397918Z",
+    "download_timestamp": "2025-10-03T17:58:49.026656Z",
     "file_count": 1,
     "material_count": 1,
     "sha256_hash": "adf561e105664914066f4656a670d2793ca73493c78d08705b654f5e52d07cac",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/244",
     "storage_key": "adf561e105664914"
-  }
+  },
+  "title": "Carbon Fiber PLA vs META-PLA vs PLA+ vs PLA by Sunlu"
 }

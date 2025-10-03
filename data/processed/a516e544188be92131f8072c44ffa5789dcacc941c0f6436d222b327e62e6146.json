@@ -6,7 +6,7 @@
   },
   "_metadata": {
     "constitutional_compliance_verified": true,
-    "generated_at": "2025-10-03T14:37:42.410182Z",
+    "generated_at": "2025-10-03T17:58:49.035357Z",
     "generator": "mtf-crawler/1.0.0",
     "schema_version": "1.0.0"
   },
@@ -14,20 +14,21 @@
   "materials": [],
   "post": {
     "cleaned_text": "Smoothing 3D printed object from Polysmooth™ for better cleaning - is it food safe? Home Videos 3D Printing Arduino TinkerCAD Material tests Other 3D Printing Youtubers 3D Sites XY Cam Spool weight 3D printer noise Bed heating time Filament dryers More Top 5 laser engravers PLA Gears Gray code About Smoothing 3D printed object from Polysmooth™ for better cleaning - is it food safe? Title: Smoothing 3D printed object from Polysmooth™ for better cleaning - is it food safe?. Watch on youtube: https://youtu.be/DcWiA-sqPnI Tags: 3dprint , food safe , polysmooth , polymaker , material test , Half years ago I created a video where I was talking about food safe 3D printing. One of the test probes was cup 3D printed from Polysmooth™ from Polymaker™. It can be smoothed using isopropyl alcohol. I couldn't find any food grade certificate on the box, but I needed it only to see if smoothing the surface can result easier cleaning after direct contact with food. I smoothed the cup from Polysmooth using a brush, but smoothing was far from perfect and surface become very sticky and it perform very badly on the bacterial test. Few weeks later I was contacted by Polymaker, because my method is not correct, they can provide me PolyBox™ and Polysher™ so I can get more relevant results. They also mention that they have certificate for PVB, the main material in this filament and also for transparent version of the Polysmooth filament. Test was repeated with cups prepared by Polymaker, and they perform much better on bacterial test, but far from perfect, not comparable with Injection Molded or coated with Epoxy resin. Test was prepared in cooperation with University of Novi Sad, Serbia, Department of Biotechnology and Pharmaceutical Engineering. Contents: 0:05 introduction 6:49 results 7:14 conclusions Food Safe 3D printing video https://youtu.be/lFtMIo00tfY https://youtu.be/lFtMIo00tfY?t=636 (results) University of Novi Sad, Department of Biotechnology and Pharmaceutical Engineering http://www.tf.uns.ac.rs/site/index.ph... Szent István University, Faculty of Food Science https://food.sziu.hu/node/2830 Cup (STL file) can be downloaded from MyTechFun website: http://www.mytechfun.com/video/35 Download files: No downloadable files for this video.",
-    "download_timestamp": "2025-10-03T14:24:21.510390Z",
+    "download_timestamp": "2025-10-03T17:56:12.757477Z",
     "manufacturer_links": [],
     "post_hash": "a516e544188be92131f8072c44ffa5789dcacc941c0f6436d222b327e62e6146",
-    "title": "MyTechFun.com",
+    "title": "Smoothing 3D printed object from Polysmooth™ for better cleaning - is it food safe?",
     "url": "https://www.mytechfun.com/video/51",
     "youtube_link": "https://youtu.be/DcWiA-sqPnI"
   },
   "provenance": {
-    "download_timestamp": "2025-10-03T14:37:42.410172Z",
+    "download_timestamp": "2025-10-03T17:58:49.035352Z",
     "file_count": 0,
     "material_count": 0,
     "sha256_hash": "a516e544188be92131f8072c44ffa5789dcacc941c0f6436d222b327e62e6146",
     "sheet_position": null,
     "source_url": "https://www.mytechfun.com/video/51",
     "storage_key": "a516e544188be921"
-  }
+  },
+  "title": "Smoothing 3D printed object from Polysmooth™ for better cleaning - is it food safe?"
 }
