@@ -160,9 +160,16 @@ class CrawlerService:
         response = self._make_request(url)
         soup = BeautifulSoup(response.text, 'html.parser')
 
-        # Extract title
-        title_elem = soup.find('h1')
-        title = title_elem.get_text().strip() if title_elem else "Unknown Title"
+        # Extract title - skip first h1 (MyTechFun.com) and use second h1
+        title = "Unknown Title"
+        h1_elements = soup.find_all('h1')
+        for h1 in h1_elements:
+            # Skip the first h1 if it contains "MyTechFun.com"
+            if 'MyTechFun.com' in h1.get_text():
+                continue
+            # Use the first h1 that doesn't contain "MyTechFun.com" (which is the real title)
+            title = h1.get_text().strip()
+            break
 
         # Find and extract YouTube link
         youtube_link = self._extract_youtube_link(soup)
