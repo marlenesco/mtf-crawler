@@ -1,5 +1,9 @@
 # MTF-Crawler: MyTechFun Material Test Data Extractor
 
+> **Data Source & Copyright**: All data used in this project are the property of Dr. Igor Gaspar and are sourced from [MyTechFun.com](https://www.mytechfun.com/) using the category: [Material Test Videos](https://www.mytechfun.com/videos/material_test). Please refer to the [Terms of Use](https://www.mytechfun.com/termsofuse) of MyTechFun.com for legal and ethical guidelines.
+
+> **Educational Purpose**: This project is strictly for educational and research purposes only. It is non-commercial and not intended for any profit or commercial use.
+
 > **Project Specification**: The initial definition and specification of this project were created using [GitHub Spec-Kit](https://github.com/github/spec-kit), following structured development practices for clear requirements and implementation guidelines.
 
 An intelligent two-phase crawler to extract and normalize 3D printing material test data from MyTechFun.com.
