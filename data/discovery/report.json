@@ -1,0 +1,11 @@
+{
+  "generation_timestamp": "2025-10-03T14:46:00Z",
+  "total_posts_crawled": 83,
+  "total_files_downloaded": 47,
+  "file_structure_patterns": [
+    "single_material_vertical"
+  ],
+  "parsing_recommendations": {
+    "single_material_vertical": "property_value_parser"
+  }
+}
